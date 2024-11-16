@@ -14,9 +14,10 @@ type Intersection struct {
 }
 
 type Edge struct {
-	From     string  `json:"from"`
-	To       string  `json:"to"`
-	Distance float64 `json:"distance"`
+	From   string  `json:"from"`
+	To     string  `json:"to"`
+	Weight float64 `json:"weight"`
+	LineID string  `json:"line_id"`
 }
 
 type GraphData struct {
