@@ -5,7 +5,6 @@ import (
 	"os"
 )
 
-// Load reads and decodes the floor plan JSON file
 func Load(filePath string) (FloorPlan, error) {
 	file, err := os.Open(filePath)
 	if err != nil {

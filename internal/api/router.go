@@ -7,7 +7,6 @@ import (
 
 var floorPlan floorplan.FloorPlan
 
-// SetupRoutes configures the router with all API routes
 func SetupRoutes(router *mux.Router, plan floorplan.FloorPlan) {
 	floorPlan = plan
 	router.HandleFunc("/get_route", getRouteHandler).Methods("POST")

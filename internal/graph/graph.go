@@ -16,8 +16,6 @@ func BuildGraph(plan floorplan.FloorPlan) map[string]map[string]floorplan.Edge {
 	return graph
 }
 
-// FindPath is a placeholder for the pathfinding algorithm
 func FindPath(graph map[string]map[string]floorplan.Edge, start, end string) ([]string, error) {
-	// Implement pathfinding logic here (e.g., A* or Dijkstra)
-	return []string{"line_id_1", "line_id_2"}, nil // Sample output
+	return []string{"line_id_1", "line_id_2"}, nil
 }

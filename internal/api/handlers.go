@@ -7,7 +7,6 @@ import (
 	"utmn-map-backend/internal/graph"
 )
 
-// getRouteHandler handles the route-finding endpoint
 func getRouteHandler(w http.ResponseWriter, r *http.Request) {
 	var data map[string]string
 	if err := json.NewDecoder(r.Body).Decode(&data); err != nil {
@@ -26,7 +25,6 @@ func getRouteHandler(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode(map[string]interface{}{"line_ids": path})
 }
 
-// getWeightsHandler returns all edges with weights from the floor plan
 func getWeightsHandler(w http.ResponseWriter, r *http.Request) {
 	edges := make([]floorplan.Edge, 0)
 	for _, edge := range floorPlan.Graph.Edges {
