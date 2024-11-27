@@ -2,10 +2,12 @@ package handlers
 
 import (
 	"encoding/json"
+	"log"
 	"net/http"
-	"utmn-map-backend/internal/floorplan"
-	"utmn-map-backend/internal/graph/models"
-	"utmn-map-backend/internal/graph/services"
+
+	"github.com/InTeamDev/utmn-map-backend/internal/floorplan"
+	"github.com/InTeamDev/utmn-map-backend/internal/graph/models"
+	"github.com/InTeamDev/utmn-map-backend/internal/graph/services"
 )
 
 type FloorPlanHandler struct {
@@ -19,7 +21,7 @@ func NewFloorPlanHandler() *FloorPlanHandler {
 	}
 }
 
-// LoadFloorPlan loads the floor plan from a JSON file
+// LoadFloorPlan loads the floor plan from a JSON file.
 func (h *FloorPlanHandler) LoadFloorPlan(w http.ResponseWriter, r *http.Request) {
 	query := r.URL.Query()
 	file := query.Get("file")
@@ -51,10 +53,13 @@ func (h *FloorPlanHandler) LoadFloorPlan(w http.ResponseWriter, r *http.Request)
 	h.graph = graph
 
 	w.WriteHeader(http.StatusOK)
-	w.Write([]byte("Floor plan loaded successfully"))
+	_, err = w.Write([]byte("Floor plan loaded successfully"))
+	if err != nil {
+		log.Printf("Error writing response: %v", err)
+	}
 }
 
-// FindPath finds the shortest path between two nodes
+// FindPath finds the shortest path between two nodes.
 func (h *FloorPlanHandler) FindPath(w http.ResponseWriter, r *http.Request) {
 	query := r.URL.Query()
 	startIDStr := query.Get("start")
@@ -80,10 +85,15 @@ func (h *FloorPlanHandler) FindPath(w http.ResponseWriter, r *http.Request) {
 	resp := map[string]interface{}{
 		"line_ids": lineIDs,
 	}
-	json.NewEncoder(w).Encode(resp)
+	err = json.NewEncoder(w).Encode(resp)
+	if err != nil {
+		log.Printf("Error encoding JSON response: %v", err)
+		http.Error(w, "Failed to encode response", http.StatusInternalServerError)
+		return
+	}
 }
 
-// TODO (ilya) 26.11.24: Move to utils and add svg parser
+// TODO (ilya) 26.11.24: Move to utils and add svg parser.
 func convertToMap(floorPlan models.FloorPlan) (map[string]interface{}, error) {
 	// Marshal the floor plan into JSON bytes
 	data, err := json.Marshal(floorPlan)

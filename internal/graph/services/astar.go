@@ -1,6 +1,6 @@
 package services
 
-import "utmn-map-backend/internal/graph/models"
+import "github.com/InTeamDev/utmn-map-backend/internal/graph/models"
 
 type AStarPriorityQueue []*models.AStarNode
 
