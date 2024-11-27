@@ -3,22 +3,23 @@ package floorplan
 import (
 	"container/heap"
 	"encoding/json"
-	"fmt"
-	"io/ioutil"
+	"errors"
 	"math"
-	"utmn-map-backend/internal/graph/models"
-	"utmn-map-backend/internal/graph/services"
+	"os"
+
+	"github.com/InTeamDev/utmn-map-backend/internal/graph/models"
+	"github.com/InTeamDev/utmn-map-backend/internal/graph/services"
 )
 
-type FloorPlan struct {
-}
+type FloorPlan struct{}
 
 func NewFloorPlan() *FloorPlan {
 	return &FloorPlan{}
 }
+
 func (fp *FloorPlan) LoadFloorPlan(jsonFile string) (models.FloorPlan, error) {
 	var floorPlan models.FloorPlan
-	data, err := ioutil.ReadFile(jsonFile)
+	data, err := os.ReadFile(jsonFile)
 	if err != nil {
 		return floorPlan, err
 	}
@@ -29,21 +30,20 @@ func (fp *FloorPlan) LoadFloorPlan(jsonFile string) (models.FloorPlan, error) {
 func (fp *FloorPlan) BuildGraph(floorPlan map[string]interface{}) (*services.Graph, error) {
 	g := services.NewGraph()
 
-	// Добавляем узлы (объекты и пересечения)
-	objects, ok := floorPlan["objects"].(map[string]interface{})
-	if !ok {
-		return nil, fmt.Errorf("invalid objects data")
+	objects, objectsOK := floorPlan["objects"].(map[string]interface{})
+	if !objectsOK {
+		return nil, errors.New("invalid objects data")
 	}
 
 	for objID, objInfo := range objects {
-		objMap, ok := objInfo.(map[string]interface{})
-		if !ok {
-			return nil, fmt.Errorf("invalid object info")
+		objMap, objMapOK := objInfo.(map[string]interface{})
+		if !objMapOK {
+			return nil, errors.New("invalid object info")
 		}
 
-		position, ok := objMap["position"].(map[string]interface{})
-		if !ok {
-			return nil, fmt.Errorf("invalid position data")
+		position, positionOK := objMap["position"].(map[string]interface{})
+		if !positionOK {
+			return nil, errors.New("invalid position data")
 		}
 
 		x, _ := position["x"].(float64)
@@ -52,21 +52,20 @@ func (fp *FloorPlan) BuildGraph(floorPlan map[string]interface{}) (*services.Gra
 		g.AddNode(objID, models.Position{X: x, Y: y})
 	}
 
-	// Добавляем рёбра с весами и line_id
-	graphData, ok := floorPlan["graph"].(map[string]interface{})
-	if !ok {
-		return nil, fmt.Errorf("invalid graph data")
+	graphData, graphDataOK := floorPlan["graph"].(map[string]interface{})
+	if !graphDataOK {
+		return nil, errors.New("invalid graph data")
 	}
 
-	edges, ok := graphData["edges"].([]interface{})
-	if !ok {
-		return nil, fmt.Errorf("invalid edges data")
+	edges, edgesOK := graphData["edges"].([]interface{})
+	if !edgesOK {
+		return nil, errors.New("invalid edges data")
 	}
 
 	for _, edgeData := range edges {
-		edgeMap, ok := edgeData.(map[string]interface{})
-		if !ok {
-			return nil, fmt.Errorf("invalid edge data")
+		edgeMap, edgeMapOK := edgeData.(map[string]interface{})
+		if !edgeMapOK {
+			return nil, errors.New("invalid edge data")
 		}
 
 		fromNodeID, _ := edgeMap["from"].(string)
@@ -86,53 +85,87 @@ func (fp *FloorPlan) BuildGraph(floorPlan map[string]interface{}) (*services.Gra
 
 	return g, nil
 }
+
 func (fp *FloorPlan) heuristic(node1, node2 *models.Node) float64 {
 	return math.Hypot(node2.Position.X-node1.Position.X, node2.Position.Y-node1.Position.Y)
 }
+
 func (fp *FloorPlan) FindPath(g *services.Graph, startID, endID string) ([]string, error) {
-	start := g.Nodes[startID]
-	end := g.Nodes[endID]
+	start, existsStart := g.Nodes[startID]
+	end, existsEnd := g.Nodes[endID]
+
+	if !existsStart || !existsEnd {
+		return nil, errors.New("start or end node does not exist")
+	}
 
 	openSet := &services.AStarPriorityQueue{}
-	heap.Push(openSet, &models.AStarNode{Node: start, GScore: 0, FScore: fp.heuristic(start, end)})
+	heap.Push(openSet, &models.AStarNode{
+		Node:   start,
+		GScore: 0,
+		FScore: fp.heuristic(start, end),
+		Parent: nil,
+	})
 
 	cameFrom := make(map[string]*models.AStarNode)
-	gScore := make(map[string]float64)
-	fScore := make(map[string]float64)
-	gScore[startID] = 0
-	fScore[startID] = fp.heuristic(start, end)
+	gScore := map[string]float64{startID: 0}
+	fScore := map[string]float64{startID: fp.heuristic(start, end)}
 
 	for openSet.Len() > 0 {
-		current := heap.Pop(openSet).(*models.AStarNode)
+		current, ok := heap.Pop(openSet).(*models.AStarNode)
+		if !ok {
+			return nil, errors.New("failed to pop from open set")
+		}
 
 		if current.Node.ID == endID {
-			var path []string
-			for current != nil {
-				path = append([]string{current.Node.ID}, path...)
-				current = current.Parent
-			}
-			var lineIDs []string
-			for i := 0; i < len(path)-1; i++ {
-				for _, edge := range g.Edges[path[i]] {
-					if edge.To.ID == path[i+1] {
-						lineIDs = append(lineIDs, edge.LineID)
-					}
-				}
-			}
-			return lineIDs, nil
+			return fp.reconstructPath(current, g), nil
 		}
 
 		for _, edge := range g.Edges[current.Node.ID] {
 			neighbor := edge.To
 			tentativeGScore := current.GScore + edge.Weight
-			if _, found := gScore[neighbor.ID]; !found || tentativeGScore < gScore[neighbor.ID] {
+
+			if tentativeGScore < fp.getGScore(gScore, neighbor.ID) {
 				cameFrom[neighbor.ID] = current
 				gScore[neighbor.ID] = tentativeGScore
-				fScore[neighbor.ID] = gScore[neighbor.ID] + fp.heuristic(neighbor, end)
-				heap.Push(openSet, &models.AStarNode{Node: neighbor, Parent: current, GScore: gScore[neighbor.ID], FScore: fScore[neighbor.ID]})
+				fScore[neighbor.ID] = tentativeGScore + fp.heuristic(neighbor, end)
+				heap.Push(openSet, &models.AStarNode{
+					Node:   neighbor,
+					Parent: current,
+					GScore: gScore[neighbor.ID],
+					FScore: fScore[neighbor.ID],
+				})
 			}
 		}
 	}
 
-	return nil, fmt.Errorf("no path found")
+	return nil, errors.New("no path found")
+}
+
+func (fp *FloorPlan) reconstructPath(current *models.AStarNode, g *services.Graph) []string {
+	var path []string
+	var lineIDs []string
+	for current != nil {
+		path = append([]string{current.Node.ID}, path...)
+		current = current.Parent
+	}
+
+	for i := range path[:len(path)-1] {
+		from := path[i]
+		to := path[i+1]
+		for _, edge := range g.Edges[from] {
+			if edge.To.ID == to {
+				lineIDs = append(lineIDs, edge.LineID)
+				break
+			}
+		}
+	}
+
+	return lineIDs
+}
+
+func (fp *FloorPlan) getGScore(gScore map[string]float64, nodeID string) float64 {
+	if score, exists := gScore[nodeID]; exists {
+		return score
+	}
+	return math.Inf(1)
 }

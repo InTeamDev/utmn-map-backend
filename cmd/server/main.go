@@ -1,12 +1,16 @@
 package main
 
 import (
-	"utmn-map-backend/config"
-	"utmn-map-backend/internal/rest"
+	"log"
+
+	"github.com/InTeamDev/utmn-map-backend/config"
+	"github.com/InTeamDev/utmn-map-backend/internal/rest"
 )
 
 func main() {
 	cfg := config.Load()
 
-	rest.Init(cfg)
+	if err := rest.Init(cfg); err != nil {
+		log.Fatal(err)
+	}
 }
