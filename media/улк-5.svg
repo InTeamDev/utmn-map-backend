@@ -1,0 +1,1298 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg id="svg1" version="1.1" viewBox="0 0 1957.2 1573.8" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17 {
+        stroke: #575756;
+      }
+
+      .st0, .st18, .st13, .st17 {
+        fill: #c9e6fa;
+      }
+
+      .st0, .st17 {
+        isolation: isolate;
+      }
+
+      .st1 {
+        fill: #a5bccc;
+      }
+
+      .st2, .st19 {
+        fill: none;
+      }
+
+      .st3 {
+        fill: #a2b9c8;
+      }
+
+      .st20 {
+        fill: #f54242;
+      }
+
+      .st4 {
+        fill: #8fa4b0;
+      }
+
+      .st5 {
+        fill: #bbd5e7;
+      }
+
+      .st6 {
+        fill: #a2daf8;
+      }
+
+      .st19 {
+        stroke: #70b62c;
+      }
+
+      .st21 {
+        fill: #575756;
+      }
+
+      .st7 {
+        fill: #b4cdde;
+      }
+
+      .st8 {
+        fill: #adc5d5;
+      }
+
+      .st9 {
+        fill: #889ca8;
+      }
+
+      .st10 {
+        fill: #aec7d7;
+      }
+
+      .st11 {
+        fill: #c2def1;
+      }
+
+      .st12 {
+        fill: #9d9c9c;
+      }
+
+      .st14 {
+        fill: #8da1af;
+      }
+
+      .st15 {
+        fill: #96abb9;
+      }
+
+      .st16 {
+        fill: #fffcfd;
+      }
+
+      .st17 {
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="Floor_First">
+    <g id="Floor_First_Background">
+      <polygon class="st18" points="590 1531.2 590 1157.9 314.9 1157.9 314.9 1306.8 85.9 1306.8 85.9 451.2 314.9 451.2 314.9 988.1 844.4 988.1 844.4 514.6 762 514.6 762 355 364.7 355 364.7 354.8 85.9 354.8 85.9 120 1293.9 120 1293.9 355 1025.3 355 1025.3 842.4 1120.3 842.4 1120.3 785.9 1588.2 785.9 1588.2 355 1413.1 355 1413.1 120 1588.2 120 1588.2 56.1 1713.3 56.1 1713.3 34.5 1904.7 34.5 1904.7 266 1852.1 266 1852.1 901.9 1905.2 901.9 1905.2 1011.5 1852.1 1011.5 1852.1 1390.8 1588.2 1390.8 1588.2 1118.9 1527.5 1118.9 1527.5 1196 1122.3 1196 1122.3 1531.2 590 1531.2" />
+      <path class="st21" d="M1903.7,35.5v229.5h-52.6v637.9h53.1v107.6h-53.1v379.3h-261.9v-271.9h-62.7v77.1h-405.2v335.2h-530.3v-373.3h-277.1v148.9H86.9V452.2h227v536.9h531.5v-475.5h-82.4v-159.6h-397.3v-.2H86.9V121h1206v233h-268.6v489.4h97v-56.5h467.9v-432.9h-175.1V121h175.1v-63.9h125.1v-21.6h189.4M1905.7,33.5h-193.4v21.6h-125.1v63.9h-175.1v237h175.1v428.9h-467.9v56.5h-93v-485.4h268.6V119H84.9v236.8h278.8v.2h397.3v159.6h82.4v471.5H315.9V450.2H84.9v857.6h231v-148.9h273.1v373.3h534.3v-335.2h405.2v-77.1h58.7v271.9h265.9v-379.3h53.1v-111.6h-53.1V267h52.6V33.5h0Z" />
+    </g>
+    <g id="Floor_First_Stairs">
+      <g id="Floor_First_Stairs_First">
+        <rect class="st13" x="247.1" y="1074.5" width="66.8" height="92.1" />
+        <rect class="st1" x="247.1" y="1141.9" width="33.5" height="6" />
+        <rect class="st1" x="247.1" y="1135.9" width="33.5" height="6" />
+        <rect class="st8" x="247.1" y="1129.9" width="33.5" height="6" />
+        <rect class="st8" x="247.1" y="1123.6" width="33.5" height="6" />
+        <rect class="st7" x="247.1" y="1117.6" width="33.5" height="6" />
+        <rect class="st7" x="247.1" y="1111.6" width="33.5" height="6" />
+        <rect class="st5" x="247.1" y="1105.6" width="33.5" height="6" />
+        <rect class="st11" x="247.1" y="1099.6" width="33.5" height="6" />
+        <rect class="st13" x="247.1" y="1093.6" width="33.5" height="6" />
+        <rect class="st10" x="280.6" y="1141.9" width="33.3" height="6" />
+        <rect class="st10" x="280.6" y="1135.9" width="33.3" height="6" />
+        <rect class="st3" x="280.6" y="1129.9" width="33.3" height="6" />
+        <rect class="st3" x="280.6" y="1123.6" width="33.3" height="6" />
+        <rect class="st15" x="280.6" y="1117.6" width="33.3" height="6" />
+        <rect class="st15" x="280.6" y="1111.6" width="33.3" height="6" />
+        <rect class="st4" x="280.6" y="1105.6" width="33.3" height="6" />
+        <rect class="st4" x="280.6" y="1099.6" width="33.3" height="6" />
+        <rect class="st9" x="280.6" y="1093.6" width="33.3" height="6" />
+      </g>
+      <g id="Floor_First_Stairs_Second">
+        <rect class="st13" x="753.3" y="286.7" width="92.1" height="67.3" />
+        <rect class="st1" x="772.5" y="286.7" width="6" height="33.7" />
+        <rect class="st1" x="778.5" y="286.7" width="6" height="33.7" />
+        <rect class="st8" x="784.5" y="286.7" width="6" height="33.7" />
+        <rect class="st8" x="790.5" y="286.7" width="6" height="33.7" />
+        <rect class="st7" x="796.5" y="286.7" width="6" height="33.7" />
+        <rect class="st7" x="802.5" y="286.7" width="6" height="33.7" />
+        <rect class="st5" x="808.5" y="286.7" width="6" height="33.7" />
+        <rect class="st11" x="814.5" y="286.7" width="6" height="33.7" />
+        <rect class="st13" x="820.5" y="286.7" width="6" height="33.7" />
+        <rect class="st10" x="772.5" y="320.3" width="6" height="33.7" />
+        <rect class="st10" x="778.5" y="320.3" width="6" height="33.7" />
+        <rect class="st3" x="784.5" y="320.3" width="6" height="33.7" />
+        <rect class="st3" x="790.5" y="320.3" width="6" height="33.7" />
+        <rect class="st15" x="796.5" y="320.3" width="6" height="33.7" />
+        <rect class="st15" x="802.5" y="320.3" width="6" height="33.7" />
+        <rect class="st4" x="808.5" y="320.3" width="6" height="33.7" />
+        <rect class="st4" x="814.5" y="320.3" width="6" height="33.7" />
+        <rect class="st9" x="820.5" y="320.3" width="6" height="33.7" />
+      </g>
+      <g id="Floor_First_Stairs_Third">
+        <rect class="st13" x="964.8" y="286.7" width="92.1" height="67.3" />
+        <rect class="st1" x="1031.7" y="320.3" width="6" height="33.7" />
+        <rect class="st1" x="1025.7" y="320.3" width="6" height="33.7" />
+        <rect class="st8" x="1019.7" y="320.3" width="6" height="33.7" />
+        <rect class="st8" x="1013.7" y="320.3" width="6" height="33.7" />
+        <rect class="st7" x="1007.7" y="320.3" width="6" height="33.7" />
+        <rect class="st7" x="1001.7" y="320.3" width="6" height="33.7" />
+        <rect class="st5" x="995.7" y="320.3" width="6" height="33.7" />
+        <rect class="st11" x="989.7" y="320.3" width="6" height="33.7" />
+        <rect class="st13" x="983.7" y="320.3" width="6" height="33.7" />
+        <rect class="st10" x="1031.7" y="286.7" width="6" height="33.7" />
+        <rect class="st10" x="1025.7" y="286.7" width="6" height="33.7" />
+        <rect class="st3" x="1019.7" y="286.7" width="6" height="33.7" />
+        <rect class="st3" x="1013.7" y="286.7" width="6" height="33.7" />
+        <rect class="st15" x="1007.7" y="286.7" width="6" height="33.7" />
+        <rect class="st15" x="1001.7" y="286.7" width="6" height="33.7" />
+        <rect class="st4" x="995.7" y="286.7" width="6" height="33.7" />
+        <rect class="st4" x="989.7" y="286.7" width="6" height="33.7" />
+        <rect class="st9" x="983.7" y="286.7" width="6" height="33.7" />
+      </g>
+      <g id="Floor_First_Stairs_Fourth">
+        <rect class="st8" x="865.1" y="1144.3" width="41.6" height="5.3" />
+        <rect class="st8" x="865.1" y="1139" width="41.6" height="5.3" />
+        <rect class="st8" x="865.1" y="1133.7" width="41.6" height="5.3" />
+        <rect class="st8" x="865.1" y="1128.3" width="41.6" height="5.4" />
+        <rect class="st8" x="865.1" y="1122.8" width="41.6" height="5.5" />
+        <rect class="st8" x="865.1" y="1117.4" width="41.6" height="5.4" />
+        <rect class="st8" x="865.1" y="1112.1" width="41.6" height="5.3" />
+        <rect class="st8" x="865.1" y="1106.8" width="41.6" height="5.3" />
+        <rect class="st8" x="865.1" y="1192.4" width="41.6" height="5.3" />
+        <rect class="st8" x="865.1" y="1187.1" width="41.6" height="5.3" />
+        <rect class="st8" x="865.1" y="1181.8" width="41.6" height="5.3" />
+        <rect class="st8" x="865.1" y="1176.4" width="41.6" height="5.4" />
+        <rect class="st8" x="865.1" y="1170.9" width="41.6" height="5.5" />
+        <rect class="st8" x="865.1" y="1165.5" width="41.6" height="5.4" />
+        <rect class="st8" x="865.1" y="1160.2" width="41.6" height="5.3" />
+        <rect class="st8" x="865.1" y="1154.9" width="41.6" height="5.3" />
+        <rect class="st8" x="865.1" y="1149.6" width="41.6" height="5.3" />
+      </g>
+      <g id="Floor_First_Stairs_Seven">
+        <rect class="st13" x="442.4" y="915" width="41.6" height="73.6" />
+        <rect class="st8" x="442.4" y="952.5" width="41.6" height="5.3" />
+        <rect class="st8" x="442.4" y="947.2" width="41.6" height="5.3" />
+        <rect class="st8" x="442.4" y="941.9" width="41.6" height="5.3" />
+        <rect class="st8" x="442.4" y="936.5" width="41.6" height="5.4" />
+        <rect class="st8" x="442.4" y="931" width="41.6" height="5.5" />
+        <rect class="st8" x="442.4" y="925.6" width="41.6" height="5.4" />
+        <rect class="st8" x="442.4" y="920.3" width="41.6" height="5.3" />
+        <rect class="st8" x="442.4" y="915" width="41.6" height="5.3" />
+      </g>
+      <g id="Floor_First_Stairs_Eighth">
+        <rect class="st13" x="770.8" y="838.4" width="73.6" height="41.6" />
+        <rect class="st8" x="808.3" y="838.4" width="5.3" height="41.6" />
+        <rect class="st8" x="803" y="838.4" width="5.3" height="41.6" />
+        <rect class="st8" x="797.7" y="838.4" width="5.3" height="41.6" />
+        <rect class="st8" x="792.3" y="838.4" width="5.4" height="41.6" />
+        <rect class="st8" x="786.8" y="838.4" width="5.5" height="41.6" />
+        <rect class="st8" x="781.4" y="838.4" width="5.4" height="41.6" />
+        <rect class="st8" x="776.1" y="838.4" width="5.3" height="41.6" />
+        <rect class="st8" x="770.8" y="838.4" width="5.3" height="41.6" />
+      </g>
+      <g id="Floor_First_Stairs_Ninth">
+        <rect class="st13" x="733" y="370.3" width="30" height="73.6" />
+        <rect class="st8" x="733" y="401.1" width="30" height="5.3" />
+        <rect class="st8" x="733" y="406.4" width="30" height="5.3" />
+        <rect class="st8" x="733" y="411.7" width="30" height="5.3" />
+        <rect class="st8" x="733" y="417" width="30" height="5.4" />
+        <rect class="st8" x="733" y="422.4" width="30" height="5.5" />
+        <rect class="st8" x="733" y="427.9" width="30" height="5.4" />
+        <rect class="st8" x="733" y="433.3" width="30" height="5.3" />
+        <rect class="st8" x="733" y="438.6" width="30" height="5.3" />
+      </g>
+      <g id="Floor_First_Stairs_Fifth">
+        <rect class="st13" x="1816.4" y="903" width="87.6" height="107.5" />
+        <rect class="st1" x="1881.2" y="940.3" width="6" height="32.5" />
+        <rect class="st1" x="1881.2" y="907.8" width="6" height="32.5" />
+        <rect class="st1" x="1875.2" y="907.8" width="6" height="32.5" />
+        <rect class="st1" x="1869.2" y="907.8" width="6" height="32.5" />
+        <rect class="st1" x="1881.2" y="972.8" width="6" height="32.5" />
+        <rect class="st1" x="1875.2" y="972.8" width="6" height="32.5" />
+        <rect class="st1" x="1869.2" y="972.8" width="6" height="32.5" />
+        <rect class="st1" x="1875.2" y="940.3" width="6" height="32.5" />
+        <rect class="st8" x="1869.2" y="940.3" width="6" height="32.5" />
+        <rect class="st8" x="1863.2" y="940.3" width="6" height="32.5" />
+        <rect class="st7" x="1857.2" y="940.3" width="6" height="32.5" />
+        <rect class="st7" x="1851.2" y="940.3" width="6" height="32.5" />
+        <rect class="st5" x="1845.2" y="940.3" width="6" height="32.5" />
+        <rect class="st11" x="1839.2" y="940.3" width="6" height="32.5" />
+        <rect class="st13" x="1833.2" y="940.3" width="6" height="32.5" />
+      </g>
+      <g id="Floor_First_Stairs_Sixth">
+        <rect class="st13" x="1589.2" y="57.1" width="67.3" height="92.1" />
+        <rect class="st1" x="1589.2" y="124" width="33.7" height="6" />
+        <rect class="st1" x="1589.2" y="118" width="33.7" height="6" />
+        <rect class="st8" x="1589.2" y="112" width="33.7" height="6" />
+        <rect class="st8" x="1589.2" y="106" width="33.7" height="6" />
+        <rect class="st7" x="1589.2" y="100" width="33.7" height="6" />
+        <rect class="st7" x="1589.2" y="94" width="33.7" height="6" />
+        <rect class="st5" x="1589.2" y="88" width="33.7" height="6" />
+        <rect class="st11" x="1589.2" y="82" width="33.7" height="6" />
+        <rect class="st13" x="1589.2" y="76" width="33.7" height="6" />
+        <rect class="st10" x="1622.8" y="124" width="33.7" height="6" />
+        <rect class="st10" x="1622.8" y="118" width="33.7" height="6" />
+        <rect class="st3" x="1622.8" y="112" width="33.7" height="6" />
+        <rect class="st3" x="1622.8" y="106" width="33.7" height="6" />
+        <rect class="st15" x="1622.8" y="100" width="33.7" height="6" />
+        <rect class="st15" x="1622.8" y="94" width="33.7" height="6" />
+        <rect class="st4" x="1622.8" y="88" width="33.7" height="6" />
+        <rect class="st4" x="1622.8" y="82" width="33.7" height="6" />
+        <rect class="st9" x="1622.8" y="76" width="33.7" height="6" />
+      </g>
+      <g id="Floor_First_Stairs_Tenth">
+        <rect class="st13" x="1361.9" y="712.7" width="41.6" height="73.6" />
+        <rect class="st8" x="1361.9" y="750.1" width="41.6" height="5.3" />
+        <rect class="st8" x="1361.9" y="744.8" width="41.6" height="5.3" />
+        <rect class="st8" x="1361.9" y="739.5" width="41.6" height="5.3" />
+        <rect class="st8" x="1361.9" y="734.1" width="41.6" height="5.4" />
+        <rect class="st8" x="1361.9" y="728.6" width="41.6" height="5.5" />
+        <rect class="st8" x="1361.9" y="723.2" width="41.6" height="5.4" />
+        <rect class="st8" x="1361.9" y="717.9" width="41.6" height="5.3" />
+        <rect class="st8" x="1361.9" y="712.6" width="41.6" height="5.3" />
+      </g>
+    </g>
+    <g id="Floor_First_Offices">
+      <rect id="Floor_First_Office_1" class="st14" x="86.9" y="293.3" width="117.7" height="60.5" />
+      <rect id="Floor_First_Office_2" class="st14" x="204.6" y="273.6" width="198.1" height="80.2" />
+      <rect id="Floor_First_Office_3" class="st14" x="204.6" y="121" width="150" height="121.4" />
+      <rect id="Floor_First_Office_4" class="st14" x="354.6" y="121" width="48.1" height="121.4" />
+      <rect id="Floor_First_Office_5" class="st14" x="402.7" y="121" width="52.1" height="121.4" />
+      <rect id="Floor_First_Office_6" class="st14" x="454.8" y="121" width="199.5" height="121.4" />
+      <rect id="Floor_First_Office_7" class="st14" x="654.2" y="121" width="310.6" height="121.4" />
+      <rect id="Floor_First_Office_8" class="st14" x="964.8" y="121" width="265.2" height="121.4" />
+      <rect id="Floor_First_Office_9" class="st14" x="1230" y="121" width="62.9" height="121.4" />
+      <rect id="Floor_First_Office_10" class="st14" x="1056.9" y="242.4" width="236" height="111.6" />
+      <rect id="Floor_First_Office_115" class="st13" x="763" y="354" width="82.4" height="159.6" />
+      <rect id="Floor_First_Office_Wardrobe" class="st13" x="964.8" y="354" width="61.7" height="538.7" />
+      <rect id="Floor_First_Office_13" class="st14" x="402.7" y="273.6" width="52.1" height="80.2" />
+      <rect id="Floor_First_Office_14" class="st14" x="454.8" y="273.6" width="53.6" height="80.4" />
+      <rect id="Floor_First_Office_15" class="st14" x="508.4" y="286.7" width="94.1" height="67.3" />
+      <rect id="Floor_First_Office_16" class="st14" x="602.5" y="286.7" width="150.8" height="67.3" />
+      <rect id="Floor_First_Toilet_W" class="st13" x="255.2" y="1199.6" width="58.7" height="106.1" />
+      <rect id="Floor_First_Toilet_M" class="st13" x="196.5" y="1199.6" width="58.7" height="106.2" />
+      <rect id="Floor_First_Office_20" class="st14" x="86.9" y="931.5" width="109.6" height="156.1" />
+      <rect id="Floor_First_Office_101" class="st14" x="86.9" y="768.7" width="109.6" height="162.8" />
+      <rect id="Floor_First_Office_102" class="st14" x="196.5" y="768.7" width="117.4" height="107" />
+      <rect id="Floor_First_Office_106" class="st13" x="313.9" y="1074.5" width="186.6" height="82.4" />
+      <rect id="Floor_First_Office_107" class="st13" x="500.5" y="1052.5" width="90.5" height="104.4" />
+      <rect id="Floor_First_Office_25" class="st13" x="1121.3" y="1117.8" width="405.2" height="77.2" />
+      <rect id="Floor_First_Office_26" class="st13" x="1121.3" y="994.8" width="192.3" height="123" />
+      <rect id="Floor_First_Office_27" class="st13" x="1408.6" y="994.8" width="117.9" height="123" />
+      <rect id="Floor_First_Office_28" class="st13" x="1526.5" y="994.8" width="62.6" height="123" />
+      <rect id="Floor_First_Office_52" class="st13" x="1409.4" y="786.9" width="54.9" height="116" />
+      <rect id="Floor_First_Office_53" class="st13" x="1464.4" y="786.9" width="54.6" height="116" />
+      <rect id="Floor_First_Office_54" class="st13" x="1519" y="786.9" width="70.5" height="116" />
+      <rect id="Floor_First_Office_Gym" class="st14" x="906.7" y="1052.6" width="214.6" height="477.6" />
+      <rect id="Floor_First_Office_Dining" class="st13" x="591" y="1052.5" width="212.2" height="477.7" />
+      <rect id="Floor_First_Office_Kitchen" class="st14" x="690.5" y="1316" width="112.8" height="75.5" />
+      <rect id="Floor_First_Office_59" class="st13" x="1026.5" y="994.8" width="94.8" height="57.8" />
+      <rect id="Floor_First_Office_113" class="st13" x="953.8" y="994.8" width="72.7" height="57.8" />
+      <rect id="Floor_First_Office_100" class="st14" x="86.9" y="1087.6" width="109.6" height="218.2" />
+      <rect id="Floor_First_Office_1131" class="st14" x="947.2" y="1052.6" width="174.1" height="48.5" />
+      <rect id="Floor_First_Office_1132" class="st14" x="803.2" y="1316" width="51.8" height="30.9" />
+      <rect id="Floor_First_Office_1133" class="st14" x="855" y="1316" width="51.7" height="30.9" />
+      <rect id="Floor_First_Office_1134" class="st14" x="855" y="1346.9" width="51.7" height="120.1" />
+      <rect id="Floor_First_Office_1135" class="st14" x="803.3" y="1346.9" width="51.7" height="120.1" />
+      <rect id="Floor_First_Office_Kitchen1" class="st14" x="690.5" y="1391.5" width="56.4" height="75.5" />
+      <rect id="Floor_First_Office_Kitchen11" class="st14" x="591" y="1316" width="99.5" height="214.2" />
+      <rect id="Floor_First_Office_Kitchen2" class="st14" x="746.1" y="1391.5" width="57.2" height="75.5" />
+      <rect id="Floor_First_Office_Kitchen3" class="st14" x="690.5" y="1467.1" width="112.7" height="63.1" />
+      <rect id="Floor_First_Office_1136" class="st14" x="864.8" y="1225.6" width="41.9" height="58.5" />
+      <rect id="Floor_First_Office_1137" class="st14" x="803.2" y="1284.1" width="103.5" height="31.9" />
+      <rect id="Floor_First_Office_201" class="st14" x="196.5" y="875.7" width="117.4" height="81.4" />
+      <rect id="Floor_First_Office_202" class="st13" x="247.1" y="936.5" width="66.8" height="98.5" />
+      <rect id="Floor_First_Office_271" class="st13" x="1121.5" y="786.2" width="122" height="105.9" />
+      <rect id="Floor_First_Office_Kitchen31" class="st14" x="803.2" y="1467" width="103.5" height="63.1" />
+      <rect id="Floor_First_Office_29" class="st13" x="1589.1" y="1010.5" width="102.8" height="54.1" />
+      <rect id="Floor_First_Office_30" class="st13" x="1589.1" y="1064.5" width="102.8" height="53.3" />
+      <rect id="Floor_First_Office_31" class="st13" x="1589.1" y="1117.8" width="102.8" height="108" />
+      <rect id="Floor_First_Office_32" class="st13" x="1589.1" y="1225.8" width="102.8" height="164" />
+      <rect id="Floor_First_Office_33" class="st13" x="1743.4" y="1282.5" width="107.7" height="107.3" />
+      <rect id="Floor_First_Office_34" class="st13" x="1743.4" y="1227.4" width="107.7" height="55.1" />
+      <rect id="Floor_First_Office_35" class="st13" x="1743.4" y="1122" width="107.7" height="105.4" />
+      <rect id="Floor_First_Office_36" class="st13" x="1743.4" y="1055.8" width="107.7" height="66.3" />
+      <rect id="Floor_First_Office_37" class="st13" x="1743.4" y="1010.5" width="107.7" height="45.3" />
+      <rect id="Floor_First_Office_38" class="st13" x="1714.3" y="35.5" width="189.4" height="229.5" />
+      <rect id="Floor_First_Office_39" class="st13" x="1414.1" y="121" width="175.1" height="133.4" />
+      <rect id="Floor_First_Office_40" class="st13" x="1414.1" y="254.4" width="175.1" height="99.6" />
+      <rect id="Floor_First_Office_41" class="st13" x="1742.4" y="354" width="108.7" height="121" />
+      <rect id="Floor_First_Office_42" class="st13" x="1742.4" y="475" width="108.7" height="164.4" />
+      <rect id="Floor_First_Office_43" class="st13" x="1742.4" y="639.4" width="108.7" height="53.3" />
+      <rect id="Floor_First_Office_44" class="st13" x="1742.4" y="692.7" width="108.7" height="158.2" />
+      <rect id="Floor_First_Office_45" class="st13" x="1742.4" y="850.9" width="108.7" height="52.1" />
+      <rect id="Floor_First_Office_46" class="st13" x="1589.4" y="849.2" width="103.6" height="53.8" />
+      <rect id="Floor_First_Office_47" class="st13" x="1589.4" y="740.2" width="103.6" height="109" />
+      <rect id="Floor_First_Office_48" class="st13" x="1589.4" y="688.3" width="103.6" height="51.9" />
+      <rect id="Floor_First_Office_49" class="st13" x="1589.4" y="528.4" width="103.6" height="159.9" />
+      <rect id="Floor_First_Office_50" class="st13" x="1589.2" y="422.5" width="103.8" height="105.9" />
+      <rect id="Floor_First_Office_51" class="st13" x="1589.2" y="354" width="103.8" height="68.6" />
+    </g>
+    <g id="Floor_First_Other_Lines">
+      <line class="st2" x1="845.4" y1="242.4" x2="845.4" y2="286.7" />
+      <line class="st2" x1="964.8" y1="242.4" x2="964.8" y2="286.7" />
+      <line class="st2" x1="864.8" y1="1284.1" x2="864.8" y2="1052.5" />
+      <rect class="st16" x="1034.1" y="882.6" width="10.3" height="10.3" />
+      <rect class="st16" x="1313.6" y="881.8" width="10.3" height="10.3" />
+      <rect class="st16" x="1303.3" y="1171.8" width="10.3" height="10.3" />
+      <rect class="st16" x="1409.4" y="1170.9" width="10.3" height="10.3" />
+      <rect class="st16" x="1183.5" y="1171.8" width="10.3" height="10.3" />
+      <rect class="st16" x="1505" y="1170.9" width="10.3" height="10.3" />
+      <rect class="st16" x="125.8" y="713.4" width="17.2" height="17.2" />
+      <rect class="st16" x="255.2" y="713.4" width="17.2" height="17.2" />
+      <rect class="st16" x="125.8" y="636.3" width="17.2" height="17.2" />
+      <rect class="st16" x="255.2" y="636.3" width="17.2" height="17.2" />
+      <rect class="st16" x="125.8" y="564.5" width="17.2" height="17.2" />
+      <rect class="st16" x="255.2" y="564.5" width="17.2" height="17.2" />
+      <line class="st2" x1="196.5" y1="957.1" x2="247.1" y2="957.1" />
+      <rect class="st16" x="125.8" y="495.2" width="17.2" height="17.2" />
+      <rect class="st16" x="255.2" y="495.2" width="17.2" height="17.2" />
+      <rect class="st12" x="689.6" y="1052.6" width="10.3" height="64.6" />
+      <rect class="st12" x="689.6" y="1203" width="10.3" height="21.1" />
+      <polygon class="st6" points="651 1281.1 651 1255.1 651 1243.1 639 1243.1 591 1243.1 591 1255.1 639 1255.1 639 1281.1 639 1293.1 651 1293.1 779 1293.1 779 1281.1 651 1281.1" />
+      <line class="st2" x1="1313.6" y1="1085.5" x2="1408.6" y2="1085.5" />
+      <line class="st2" x1="1313.6" y1="1034.6" x2="1408.6" y2="1034.6" />
+    </g>
+    <g id="Floor_First_Doors">
+      <rect id="Floor_First_Door_Stairs_Second_1" class="st16" x="843.9" y="286.7" width="3" height="33.6" />
+      <rect id="Floor_First_Door_Office_115_1" class="st16" x="843.9" y="320.4" width="3" height="33.6" />
+      <rect id="Floor_First_Door_Stairs_Third_1" class="st16" x="963.3" y="286.7" width="3" height="33.6" />
+      <rect id="Floor_First_Door_Office_Wardrobe_1" class="st16" x="963.3" y="320.4" width="3" height="33.6" />
+      <rect id="Floor_First_Door_Office_7_1" class="st16" x="843.9" y="246.9" width="3" height="33.6" />
+      <rect id="Floor_First_Door_Office_7_2" class="st16" x="963.3" y="246.9" width="3" height="33.6" />
+      <rect id="Floor_First_Door_Office_52_1" class="st16" x="1462.9" y="866.1" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_53_1" class="st16" x="1517.5" y="866.1" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_Wardrobe_2" class="st16" x="963.3" y="407.1" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_115_2" class="st16" x="843.9" y="407.1" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_Wardrobe_3" class="st16" x="963.3" y="638.6" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_33_1" class="st16" x="1741.9" y="1325.6" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_34_1" class="st16" x="1741.9" y="1245" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_35_1" class="st16" x="1741.9" y="1163.5" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_31_1" class="st16" x="1690.4" y="1164.7" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_32_1" class="st16" x="1690.4" y="1245" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_37_1" class="st16" x="1741.9" y="1022.2" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_29_1" class="st16" x="1690.4" y="1022.2" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_30_1" class="st16" x="1690.4" y="1081.2" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_36_1" class="st16" x="1741.9" y="1081.2" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_45_1" class="st16" x="1740.9" y="867" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_46_1" class="st16" x="1691.5" y="867" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_47_1" class="st16" x="1691.5" y="786" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_48_1" class="st16" x="1691.2" y="704.2" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_44_1" class="st16" x="1740.9" y="786" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_43_1" class="st16" x="1740.9" y="656.1" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_49_1" class="st16" x="1691.5" y="548.2" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_42_1" class="st16" x="1740.9" y="595.3" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_50_1" class="st16" x="1691.2" y="495.6" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_51_1" class="st16" x="1691.5" y="378.3" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_41_1" class="st16" x="1740.9" y="428.6" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_40_1" class="st16" x="1587.7" y="291.8" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_39_1" class="st16" x="1587.7" y="203.2" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_38_1" class="st16" x="1712.8" y="81" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_38_2" class="st16" x="1823.5" y="263.5" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_53_2" class="st16" x="1481.7" y="901.5" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_28_1" class="st16" x="1547.8" y="993.3" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_27_1" class="st16" x="1459.8" y="993.3" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_M_1" class="st16" x="217" y="1198.1" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_W_1" class="st16" x="277.2" y="1198.1" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_20_1" class="st16" x="131.7" y="1086.1" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_102_1" class="st16" x="207.4" y="874.2" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_101_1" class="st16" x="195" y="892.5" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_100_1" class="st16" x="195" y="1166.6" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_16_1" class="st16" x="712.1" y="285.2" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_15_1" class="st16" x="573.1" y="285.2" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_14_1" class="st16" x="472.5" y="272.1" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_13_1" class="st16" x="418.8" y="272.1" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_2_1" class="st16" x="368.7" y="272.1" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_3_1" class="st16" x="321.1" y="240.9" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_4_1" class="st16" x="368.7" y="240.9" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_5_1" class="st16" x="418.8" y="240.9" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_1_1" class="st16" x="167.6" y="291.8" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_6_1" class="st16" x="617" y="240.9" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_6_2" class="st16" x="499.3" y="240.9" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_7_3" class="st16" x="685.5" y="240.9" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_10_1" class="st16" x="1055.4" y="256.1" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_8_1" class="st16" x="999.7" y="240.9" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_1133_1" class="st16" x="888.3" y="1314.5" width="10" height="3" />
+      <rect id="Floor_First_Door_Office_Dining_1" class="st16" x="808.2" y="1314.5" width="10" height="3" />
+      <rect id="Floor_First_Door_Office_Dining_2" class="st16" x="808.2" y="1345.4" width="10" height="3" />
+      <rect id="Floor_First_Door_Office_1133_2" class="st16" x="888.3" y="1345.4" width="10" height="3" />
+      <rect id="Floor_First_Door_Office_Gym_1" class="st16" x="905.2" y="1292.1" width="3" height="15" />
+      <rect id="Floor_First_Door_Office_Gym_2" class="st16" x="905.2" y="1254.8" width="3" height="15" />
+      <rect id="Floor_First_Door_Office_Dining_3" class="st16" x="801.8" y="1243.1" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_Dining_4" class="st16" x="608.2" y="1051.1" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_Dining_5" class="st16" x="689" y="1367.5" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_Dining_6" class="st16" x="689" y="1488.6" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_Dining_7" class="st16" x="720.7" y="1465.5" width="10" height="3" />
+      <rect id="Floor_First_Door_Office_Dining_8" class="st16" x="753.8" y="1465.6" width="10" height="3" />
+      <rect id="Floor_First_Door_Office_Dining_9" class="st16" x="801.7" y="1478.6" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_107_1" class="st16" x="559.9" y="1051.1" width="15" height="3" />
+      <rect id="Floor_First_Door_Office_106_1" class="st16" x="372.2" y="1073" width="15" height="3" />
+      <rect id="Floor_First_Door_Office_Gym_3" class="st16" x="915.2" y="1051" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_113_1" class="st16" x="952.3" y="1026.9" width="3" height="15" />
+      <rect id="Floor_First_Door_Office_Gym_4" class="st16" x="959.7" y="1051.1" width="15" height="3" />
+      <rect id="Floor_First_Door_Office_Gym_5" class="st16" x="997.4" y="1051.1" width="15" height="3" />
+      <rect id="Floor_First_Door_Office_59_1" class="st16" x="1039.3" y="993.3" width="15" height="3" />
+      <rect id="Floor_First_Door_Office_26_1" class="st16" x="1135.7" y="993.3" width="15" height="3" />
+      <rect id="Floor_First_Door_Office_271_1" class="st16" x="1198" y="890.6" width="15" height="3" />
+      <rect id="Floor_First_Door_Office_25_1" class="st16" x="1329.6" y="1116.3" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_25_2" class="st16" x="1374.4" y="1116.3" width="20" height="3" />
+      <rect id="Floor_First_Door_Stairs_Tenth_1" class="st16" x="1372.7" y="784.5" width="20" height="3" />
+      <rect id="Floor_First_Door_Stairs_Eighth_1" class="st16" x="842.9" y="849.2" width="3" height="20" />
+      <rect id="Floor_First_Door_Unassigned_1" class="st16" x="1329.6" y="1084" width="20" height="3" />
+      <rect id="Floor_First_Door_Unassigned_2" class="st16" x="1374.4" y="1084" width="20" height="3" />
+      <rect id="Floor_First_Door_Unassigned_3" class="st16" x="1329.6" y="1033.1" width="20" height="3" />
+      <rect id="Floor_First_Door_Unassigned_4" class="st16" x="1374.4" y="1033.1" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_202_1" class="st16" x="312.4" y="999.5" width="3" height="20" />
+      <rect id="Floor_First_Door_Office_201_1" class="st16" x="207.4" y="955.6" width="20" height="3" />
+      <rect id="Floor_First_Door_Office_115_3" class="st16" x="761.5" y="375.1" width="3" height="20" />
+      <rect id="Floor_First_Door_Stairs_Seven_1" class="st16" x="455.7" y="987.1" width="15" height="3" />
+      <rect id="Floor_First_Door_Stairs_Fifth_1" class="st16" x="1814.9" y="946.9" width="3" height="20" />
+      <rect id="Floor_First_Door_Stairs_Sixth_1" class="st16" x="1622.9" y="147.7" width="33.6" height="3" />
+      <rect id="Floor_First_Door_Office_39_2" class="st16" x="1589.2" y="147.7" width="33.6" height="3" />
+      <rect id="Floor_First_Door_Office_Dining_10" class="st16" x="608.2" y="1314.5" width="20" height="3" />
+    </g>
+  </g>
+  <g id="Floor_Second">
+    <g id="Floor_Second_Background">
+      <polygon class="st18" points="1587.9 1391.3 1587.9 355.5 315.4 355.5 315.4 1307.3 85.4 1307.3 85.4 119.5 1587.9 119.5 1587.9 55.4 1711.8 55.4 1711.8 34.3 1905.2 34.3 1905.2 269 1852.6 269 1852.6 901.4 1905.7 901.4 1905.7 1012 1852.6 1012 1852.6 1391.3 1587.9 1391.3" />
+      <path class="st21" d="M1903.7,35.8v231.7h-52.6v635.4h53.1v107.6h-53.1v379.3h-261.7V354H313.9v951.8H86.9V121h1502.5V56.9h123.9v-21.1h190.4M1906.7,32.8h-196.4v21.1h-123.9v64.1H83.9v1190.8h233V357h1269.5v1035.8h267.7v-379.3h53.1v-113.6h-53.1V270.5h52.6V32.8h0Z" />
+      <polygon class="st17" points="802.5 1197.7 802.5 989 591 989 591 1197.7 591 1530.2 906.4 1530.2 906.4 1197.7 802.5 1197.7" />
+    </g>
+    <g id="Floor_Second_Stairs">
+      <g id="Floor_Second_Stairs_First">
+        <rect class="st13" x="247.1" y="1074.5" width="66.8" height="92.1" />
+        <rect class="st1" x="247.1" y="1142" width="33.5" height="6" />
+        <rect class="st1" x="247.1" y="1136" width="33.5" height="6" />
+        <rect class="st8" x="247.1" y="1130" width="33.5" height="6" />
+        <rect class="st8" x="247.1" y="1123.6" width="33.5" height="6" />
+        <rect class="st7" x="247.1" y="1117.6" width="33.5" height="6" />
+        <rect class="st7" x="247.1" y="1111.6" width="33.5" height="6" />
+        <rect class="st5" x="247.1" y="1105.6" width="33.5" height="6" />
+        <rect class="st11" x="247.1" y="1099.6" width="33.5" height="6" />
+        <rect class="st13" x="247.1" y="1093.6" width="33.5" height="6" />
+        <rect class="st10" x="280.6" y="1142" width="33.3" height="6" />
+        <rect class="st10" x="280.6" y="1136" width="33.3" height="6" />
+        <rect class="st3" x="280.6" y="1130" width="33.3" height="6" />
+        <rect class="st3" x="280.6" y="1123.6" width="33.3" height="6" />
+        <rect class="st15" x="280.6" y="1117.6" width="33.3" height="6" />
+        <rect class="st15" x="280.6" y="1111.6" width="33.3" height="6" />
+        <rect class="st4" x="280.6" y="1105.6" width="33.3" height="6" />
+        <rect class="st4" x="280.6" y="1099.6" width="33.3" height="6" />
+        <rect class="st9" x="280.6" y="1093.6" width="33.3" height="6" />
+      </g>
+      <g id="Floor_Second_Stairs_Second">
+        <rect class="st13" x="753.3" y="286.7" width="92.1" height="67.3" />
+        <rect class="st1" x="772.5" y="286.7" width="6" height="33.7" />
+        <rect class="st1" x="778.5" y="286.7" width="6" height="33.7" />
+        <rect class="st8" x="784.5" y="286.7" width="6" height="33.7" />
+        <rect class="st8" x="790.5" y="286.7" width="6" height="33.7" />
+        <rect class="st7" x="796.5" y="286.7" width="6" height="33.7" />
+        <rect class="st7" x="802.5" y="286.7" width="6" height="33.7" />
+        <rect class="st5" x="808.5" y="286.7" width="6" height="33.7" />
+        <rect class="st11" x="814.5" y="286.7" width="6" height="33.7" />
+        <rect class="st13" x="820.5" y="286.7" width="6" height="33.7" />
+        <rect class="st10" x="772.5" y="320.3" width="6" height="33.7" />
+        <rect class="st10" x="778.5" y="320.3" width="6" height="33.7" />
+        <rect class="st3" x="784.5" y="320.3" width="6" height="33.7" />
+        <rect class="st3" x="790.5" y="320.3" width="6" height="33.7" />
+        <rect class="st15" x="796.5" y="320.3" width="6" height="33.7" />
+        <rect class="st15" x="802.5" y="320.3" width="6" height="33.7" />
+        <rect class="st4" x="808.5" y="320.3" width="6" height="33.7" />
+        <rect class="st4" x="814.5" y="320.3" width="6" height="33.7" />
+        <rect class="st9" x="820.5" y="320.3" width="6" height="33.7" />
+      </g>
+      <g id="Floor_Second_Stairs_Third">
+        <rect class="st13" x="964.8" y="286.7" width="92.1" height="67.3" />
+        <rect class="st1" x="1031.7" y="320.3" width="6" height="33.7" />
+        <rect class="st1" x="1025.7" y="320.3" width="6" height="33.7" />
+        <rect class="st8" x="1019.7" y="320.3" width="6" height="33.7" />
+        <rect class="st8" x="1013.7" y="320.3" width="6" height="33.7" />
+        <rect class="st7" x="1007.7" y="320.3" width="6" height="33.7" />
+        <rect class="st7" x="1001.7" y="320.3" width="6" height="33.7" />
+        <rect class="st5" x="995.7" y="320.3" width="6" height="33.7" />
+        <rect class="st11" x="989.7" y="320.3" width="6" height="33.7" />
+        <rect class="st13" x="983.7" y="320.3" width="6" height="33.7" />
+        <rect class="st10" x="1031.7" y="286.7" width="6" height="33.7" />
+        <rect class="st10" x="1025.7" y="286.7" width="6" height="33.7" />
+        <rect class="st3" x="1019.7" y="286.7" width="6" height="33.7" />
+        <rect class="st3" x="1013.7" y="286.7" width="6" height="33.7" />
+        <rect class="st15" x="1007.7" y="286.7" width="6" height="33.7" />
+        <rect class="st15" x="1001.7" y="286.7" width="6" height="33.7" />
+        <rect class="st4" x="995.7" y="286.7" width="6" height="33.7" />
+        <rect class="st4" x="989.7" y="286.7" width="6" height="33.7" />
+        <rect class="st9" x="983.7" y="286.7" width="6" height="33.7" />
+      </g>
+      <g id="Floor_Second_Stairs_Fourth">
+        <rect class="st1" x="864.8" y="1144.7" width="41.6" height="5.3" />
+        <rect class="st1" x="864.8" y="1139.4" width="41.6" height="5.3" />
+        <rect class="st8" x="864.8" y="1134.1" width="41.6" height="5.3" />
+        <rect class="st8" x="864.9" y="1128.5" width="41.6" height="5.3" />
+        <rect class="st7" x="864.9" y="1123.2" width="41.6" height="5.3" />
+        <rect class="st7" x="864.9" y="1117.9" width="41.6" height="5.3" />
+        <rect class="st5" x="864.9" y="1112.6" width="41.6" height="5.3" />
+        <rect class="st11" x="864.9" y="1107.2" width="41.6" height="5.3" />
+        <rect class="st13" x="864.9" y="1101.9" width="41.6" height="5.3" />
+        <rect class="st10" x="864.8" y="1150" width="41.6" height="5.3" />
+        <rect class="st10" x="864.8" y="1155.3" width="41.6" height="5.3" />
+        <rect class="st3" x="864.8" y="1160.6" width="41.6" height="5.3" />
+        <rect class="st3" x="864.8" y="1166" width="41.6" height="5.3" />
+        <rect class="st15" x="864.8" y="1171.3" width="41.6" height="5.3" />
+        <rect class="st15" x="864.8" y="1176.6" width="41.6" height="5.3" />
+        <rect class="st4" x="864.8" y="1181.9" width="41.6" height="5.3" />
+        <rect class="st4" x="864.8" y="1187.2" width="41.6" height="5.3" />
+        <rect class="st9" x="864.8" y="1192.5" width="41.6" height="5.3" />
+      </g>
+      <g id="Floor_Second_Stairs_Fifth">
+        <rect class="st13" x="1816.4" y="903" width="87.6" height="107.5" />
+        <rect class="st1" x="1881.2" y="940.2" width="6" height="32.5" />
+        <rect class="st1" x="1881.2" y="907.8" width="6" height="32.5" />
+        <rect class="st1" x="1875.2" y="907.8" width="6" height="32.5" />
+        <rect class="st1" x="1869.2" y="907.8" width="6" height="32.5" />
+        <rect class="st1" x="1881.2" y="972.8" width="6" height="32.5" />
+        <rect class="st1" x="1875.2" y="972.8" width="6" height="32.5" />
+        <rect class="st1" x="1869.2" y="972.8" width="6" height="32.5" />
+        <rect class="st1" x="1875.2" y="940.2" width="6" height="32.5" />
+        <rect class="st8" x="1869.2" y="940.2" width="6" height="32.5" />
+        <rect class="st8" x="1863.2" y="940.2" width="6" height="32.5" />
+        <rect class="st7" x="1857.2" y="940.2" width="6" height="32.5" />
+        <rect class="st7" x="1851.2" y="940.2" width="6" height="32.5" />
+        <rect class="st5" x="1845.2" y="940.2" width="6" height="32.5" />
+        <rect class="st11" x="1839.2" y="940.2" width="6" height="32.5" />
+        <rect class="st13" x="1833.2" y="940.2" width="6" height="32.5" />
+      </g>
+      <g id="Floor_Second_Stairs_Sixth">
+        <rect class="st13" x="1589.5" y="56.5" width="67.3" height="92.1" />
+        <rect class="st1" x="1589.5" y="123.4" width="33.7" height="6" />
+        <rect class="st1" x="1589.5" y="117.4" width="33.7" height="6" />
+        <rect class="st8" x="1589.5" y="111.4" width="33.7" height="6" />
+        <rect class="st8" x="1589.5" y="105.4" width="33.7" height="6" />
+        <rect class="st7" x="1589.5" y="99.4" width="33.7" height="6" />
+        <rect class="st7" x="1589.5" y="93.4" width="33.7" height="6" />
+        <rect class="st5" x="1589.5" y="87.4" width="33.7" height="6" />
+        <rect class="st11" x="1589.5" y="81.4" width="33.7" height="6" />
+        <rect class="st13" x="1589.5" y="75.4" width="33.7" height="6" />
+        <rect class="st10" x="1623.1" y="123.4" width="33.7" height="6" />
+        <rect class="st10" x="1623.1" y="117.4" width="33.7" height="6" />
+        <rect class="st3" x="1623.1" y="111.4" width="33.7" height="6" />
+        <rect class="st3" x="1623.1" y="105.4" width="33.7" height="6" />
+        <rect class="st15" x="1623.1" y="99.4" width="33.7" height="6" />
+        <rect class="st15" x="1623.1" y="93.4" width="33.7" height="6" />
+        <rect class="st4" x="1623.1" y="87.4" width="33.7" height="6" />
+        <rect class="st4" x="1623.1" y="81.4" width="33.7" height="6" />
+        <rect class="st9" x="1623.1" y="75.4" width="33.7" height="6" />
+      </g>
+    </g>
+    <g id="Floor_Second_Offices">
+      <rect id="Floor_Second_Office_ToiletM-Shkn" class="st13" x="196.5" y="1199.8" width="58.7" height="105.9" />
+      <rect id="Floor_Second_Office_ToiletW-Shkn" class="st13" x="255.2" y="1199.8" width="58.7" height="105.9" />
+      <rect id="Floor_Second_Office_201" class="st13" x="86.9" y="1171.1" width="109.6" height="134.6" />
+      <rect id="Floor_Second_Office_202" class="st13" x="86.9" y="1013.3" width="109.6" height="157.8" />
+      <rect id="Floor_Second_Office_203" class="st13" x="86.9" y="843.3" width="109.6" height="170" />
+      <rect id="Floor_Second_Office_204" class="st0" x="86.9" y="673.3" width="109.6" height="170" />
+      <rect id="Floor_Second_Office_208" class="st13" x="250.7" y="353.8" width="63.2" height="161.7" />
+      <rect id="Floor_Second_Office_209" class="st13" x="250.7" y="515.5" width="63.2" height="157.8" />
+      <rect id="Floor_Second_Office_210" class="st13" x="86.9" y="121" width="109.6" height="231.5" />
+      <rect id="Floor_Second_Office_211" class="st13" x="196.5" y="121" width="165.5" height="120.6" />
+      <rect id="Floor_Second_Office_212" class="st13" x="362" y="121" width="154.4" height="120.6" />
+      <rect id="Floor_Second_Office_213" class="st13" x="567.1" y="121" width="157.3" height="120.6" />
+      <rect id="Floor_Second_Office_214" class="st13" x="720" y="121" width="120" height="120.6" />
+      <rect id="Floor_Second_Office_215" class="st13" x="840" y="121" width="180.6" height="120.6" />
+      <rect id="Floor_Second_Office_216" class="st13" x="1020.6" y="121" width="272.2" height="120.6" />
+      <rect id="Floor_Second_Office_217" class="st13" x="1100.3" y="241.6" width="192.6" height="112.4" />
+      <rect id="Floor_Second_Office_218" class="st13" x="624.3" y="286.7" width="128.9" height="67.3" />
+      <rect id="Floor_Second_Office_219" class="st13" x="511.3" y="286.7" width="113.1" height="67.3" />
+      <rect id="Floor_Second_Office_205" class="st13" x="86.9" y="504.2" width="109.6" height="170" />
+      <rect id="Floor_Second_Office_206" class="st13" x="86.9" y="352.5" width="109.6" height="151.7" />
+      <rect id="Floor_Second_Office_111" class="st0" x="591" y="989.1" width="212.3" height="425.8" />
+      <rect id="Floor_Second_Office_202-2" class="st0" x="803.3" y="1349.4" width="103.1" height="180.8" />
+      <rect id="Floor_Second_Server_111-202" class="st0" x="591" y="1414.9" width="212.3" height="115.3" />
+      <rect id="Floor_Second_Office_212a" class="st13" x="516.4" y="121" width="50.7" height="120.6" />
+      <rect id="Floor_Second_Office_219a" class="st0" x="1292.9" y="230.5" width="123.5" height="123.5" />
+      <rect id="Floor_Second_Office_215a" class="st0" x="1416.4" y="277.9" width="173.1" height="76.1" />
+      <rect id="Floor_Second_Office_217a" class="st0" x="1293.3" y="121" width="172.5" height="109.5" />
+      <rect id="Floor_Second_Office_224a" class="st0" x="1465.8" y="121" width="123.7" height="109.5" />
+      <rect id="Floor_Second_Office_213a" class="st0" x="1589.5" y="354" width="103.4" height="146.9" />
+      <rect id="Floor_Second_Office_211a" class="st0" x="1589.5" y="500.9" width="103.4" height="154.1" />
+      <rect id="Floor_Second_Office_209a" class="st0" x="1589.2" y="655" width="103.7" height="65.1" />
+      <rect id="Floor_Second_Office_IDK1" class="st0" x="1589.2" y="720.1" width="103.7" height="211.2" />
+      <rect id="Floor_Second_Office_IDK2" class="st0" x="1589.2" y="931.3" width="103.7" height="54.4" />
+      <rect id="Floor_Second_Office_205a" class="st0" x="1589.2" y="985.8" width="103.7" height="164.1" />
+      <rect id="Floor_Second_Office_2031" class="st0" x="1589.2" y="1149.9" width="103.7" height="46.7" />
+      <rect id="Floor_Second_Office_201a" class="st0" x="1589.2" y="1196.6" width="103.7" height="193.2" />
+      <rect id="Floor_Second_Office_202a" class="st0" x="1743.4" y="1276.5" width="107.7" height="113.3" />
+      <rect id="Floor_Second_Office_206a" class="st0" x="1743.4" y="1222.9" width="107.7" height="53.6" />
+      <rect id="Floor_Second_Office_208a" class="st0" x="1743.4" y="1170.1" width="107.7" height="52.8" />
+      <rect id="Floor_Second_Office_ToiletW-FizHim" class="st0" x="1743.4" y="1120.1" width="107.7" height="49.9" />
+      <rect id="Floor_Second_Office_ToiletM-FizHim" class="st0" x="1743.4" y="1051.3" width="107.7" height="68.8" />
+      <rect id="Floor_Second_Office_Toilet-Left-FizHim" class="st0" x="1743.4" y="1051.3" width="48.6" height="27.6" />
+      <rect id="Floor_Second_Office_ToiletM-Right-FizHim" class="st0" x="1743.4" y="1079" width="48.6" height="41.1" />
+      <rect id="Floor_Second_Office_IDK24" class="st0" x="1743.4" y="1010.5" width="107.7" height="40.8" />
+      <rect id="Floor_Second_Office_210a" class="st0" x="1742.4" y="853.1" width="108.7" height="49.3" />
+      <rect id="Floor_Second_Office_212a1" class="st0" x="1742.4" y="803.1" width="108.7" height="49.9" />
+      <rect id="Floor_Second_Office_214a" class="st0" x="1742.4" y="635.1" width="108.7" height="168.1" />
+      <rect id="Floor_Second_Office_216a" class="st0" x="1742.4" y="586.3" width="108.7" height="49" />
+      <rect id="Floor_Second_Office_IDK25" class="st0" x="1742.4" y="537.3" width="108.7" height="49" />
+      <rect id="Floor_Second_Office_IDK26" class="st0" x="1742.4" y="414.6" width="108.7" height="122.6" />
+      <rect id="Floor_Second_Office_IDK27" class="st0" x="1742.4" y="365.6" width="108.7" height="49" />
+      <rect id="Floor_Second_Office_220a" class="st0" x="1742.4" y="316.6" width="108.7" height="49" />
+      <rect id="Floor_Second_Office_222a" class="st0" x="1742.4" y="267.5" width="108.7" height="49" />
+      <rect id="Floor_Second_Office_118" class="st17" x="1713.3" y="35.7" width="190.4" height="231.8" />
+    </g>
+    <g id="Floor_Second_Doors">
+      <rect id="Floor_Second_Door_Office_ToiletM-Shkn_1" class="st16" x="217.4" y="1197.7" width="20" height="3" />
+      <rect id="Floor_Second_Door_Office_ToiletW-Shkn_1" class="st16" x="272.8" y="1197.7" width="20" height="3" />
+      <rect id="Floor_Second_Door_Office_201_1" class="st16" x="194.8" y="1146.4" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_203_1" class="st16" x="194.7" y="853.7" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_204_1" class="st16" x="194.8" y="681.2" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_209_1" class="st16" x="251.3" y="611.2" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_208_1" class="st16" x="249.2" y="488.7" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_205_1" class="st16" x="193.2" y="515" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_210_1" class="st16" x="194.7" y="249.9" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_211_1" class="st16" x="329.2" y="239.2" width="20" height="3" />
+      <rect id="Floor_Second_Door_Office_212_1" class="st16" x="384.9" y="240.1" width="20" height="3" />
+      <rect id="Floor_Second_Door_Office_213_1" class="st16" x="585.6" y="239.3" width="20" height="3" />
+      <rect id="Floor_Second_Door_Office_212a_1" class="st16" x="531.8" y="239.2" width="20" height="3" />
+      <rect id="Floor_Second_Door_Office_214_1" class="st16" x="804.3" y="239.3" width="20" height="3" />
+      <rect id="Floor_Second_Door_Office_216_1" class="st16" x="1048.2" y="239.3" width="20" height="3" />
+      <rect id="Floor_Second_Door_Office_217_1" class="st16" x="1098.4" y="249.9" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_215_1" class="st16" x="984.2" y="239.3" width="20" height="3" />
+      <rect id="Floor_Second_Door_Stairs_Third_1" class="st16" x="963.3" y="310.3" width="3" height="20" />
+      <rect id="Floor_Second_Door_Stairs_Second_1" class="st16" x="843.7" y="310.4" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_218_1" class="st16" x="667.9" y="284.8" width="20" height="3" />
+      <rect id="Floor_Second_Door_Office_219_1" class="st16" x="509.8" y="310.3" width="3" height="20" />
+      <rect id="Floor_Second_Door_Stairs_First_1" class="st16" x="270.6" y="1072.5" width="20" height="3" />
+      <rect id="Floor_Second_Door_Office_206_1" class="st16" x="194.7" y="358" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_201_2" class="st16" x="195" y="1177.7" width="3" height="15.8" />
+      <rect id="Floor_Second_Door_Office_111_1" class="st16" x="801.8" y="1207.2" width="3" height="20" />
+      <rect id="Floor_Second_Door_Stairs_Fourth_1" class="st16" x="875.6" y="1196.3" width="20" height="3" />
+      <rect id="Floor_Second_Door_Office_202-2_1" class="st16" x="844.8" y="1347.9" width="20" height="3" />
+      <rect id="Floor_Second_Door_Office_219a_1" class="st16" x="1414.9" y="245.2" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_217a_1" class="st16" x="1432.4" y="229" width="20" height="3" />
+      <rect id="Floor_Second_Door_Office_224a_1" class="st16" x="1556.5" y="229" width="20" height="3" />
+      <rect id="Floor_Second_Door_Office_215a_1" class="st16" x="1546.5" y="276.4" width="20" height="3" />
+      <rect id="Floor_Second_Door_Stairs_Sixth_1" class="st16" x="1614.7" y="147.1" width="20" height="3" />
+      <rect id="Floor_Second_Door_Office_222a_1" class="st16" x="1740.9" y="282" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_220a_1" class="st16" x="1740.9" y="331.1" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_IDK27_1" class="st16" x="1740.9" y="380.1" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_213a_1" class="st16" x="1691.4" y="465.9" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_IDK26_1" class="st16" x="1740.9" y="507.4" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_216a_1" class="st16" x="1740.9" y="600.8" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_IDK25_1" class="st16" x="1740.9" y="551.8" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_211a_1" class="st16" x="1691.4" y="625.3" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_209a_1" class="st16" x="1691.4" y="695.9" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_214a_1" class="st16" x="1740.9" y="776.9" width="3" height="20" />
+      <rect id="Floor_Second_Door_Stairs_Fifth_1" class="st16" x="1814.9" y="948.5" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_IDK2_1" class="st16" x="1689.9" y="948.5" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_IDK1_1" class="st16" x="1691.4" y="897.8" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_212a1_1" class="st16" x="1741.9" y="818" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_210a_1" class="st16" x="1741.9" y="867.7" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_IDK24_1" class="st16" x="1741.9" y="1020.9" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_ToiletM-FizHim_1" class="st16" x="1741.9" y="1055.1" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_ToiletM-FizHim_2" class="st16" x="1741.9" y="1089.5" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_ToiletW-FizHim_1" class="st16" x="1741.9" y="1136" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_205a_1" class="st16" x="1691.4" y="1000.5" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_2031_1" class="st16" x="1691.4" y="1163.2" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_208a_1" class="st16" x="1741.9" y="1186.5" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_206a_1" class="st16" x="1741.9" y="1239.7" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_201a_1" class="st16" x="1691.4" y="1206.5" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_202a_1" class="st16" x="1741.9" y="1288.3" width="3" height="20" />
+      <rect id="Floor_Second_Door_Office_111_2" class="st16" x="753.6" y="1413.4" width="20" height="3" />
+      <rect id="Floor_Second_Door_Office_202-2_2" class="st16" x="801.8" y="1443" width="3" height="20" />
+    </g>
+    <g id="Floor_Second_AllowedLines">
+      <line id="Floor_Second_AllowedLine_5711" class="st19" x1="994.7" y1="259.5" x2="1058.7" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_5611" class="st19" x1="994.7" y1="242.3" x2="994.7" y2="259.1" />
+      <line id="Floor_Second_AllowedLine_531" class="st19" x1="895" y1="259.5" x2="994.7" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_521" class="st19" x1="895" y1="259.5" x2="895" y2="320.3" />
+      <line id="Floor_Second_AllowedLine_501" class="st19" x1="814.6" y1="242.5" x2="814.6" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_491" class="st19" x1="963.6" y1="320.3" x2="895.5" y2="320.3" />
+      <line id="Floor_Second_AllowedLine_481" class="st19" x1="895.5" y1="320.3" x2="847.2" y2="320.3" />
+      <line id="Floor_Second_AllowedLine_471" class="st19" x1="814.6" y1="259.5" x2="895" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_461" class="st19" x1="541.8" y1="242.5" x2="541.8" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_451" class="st19" x1="678.4" y1="259.5" x2="814.6" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_441" class="st19" x1="678.4" y1="259.5" x2="678.4" y2="284.3" />
+      <line id="Floor_Second_AllowedLine_431" class="st19" x1="596.1" y1="259.5" x2="678.4" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_421" class="st19" x1="596.1" y1="242.4" x2="596.1" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_401" class="st19" x1="394.9" y1="259.5" x2="394.9" y2="320.3" />
+      <line id="Floor_Second_AllowedLine_381" class="st19" x1="394.9" y1="240.8" x2="394.9" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_371" class="st19" x1="394.9" y1="259.5" x2="541.8" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_361" class="st19" x1="339.7" y1="242.3" x2="339.7" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_351" class="st19" x1="339.7" y1="259.5" x2="394.9" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_331" class="st19" x1="227.5" y1="259.5" x2="339.7" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_321" class="st19" x1="227.5" y1="259.5" x2="227.5" y2="367.6" />
+      <line id="Floor_Second_AllowedLine_311" class="st19" x1="227.5" y1="259.5" x2="198.7" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_301" class="st19" x1="227.5" y1="367.5" x2="227.5" y2="498.7" />
+      <line id="Floor_Second_AllowedLine_281" class="st19" x1="227.5" y1="498.7" x2="227.5" y2="525" />
+      <line id="Floor_Second_AllowedLine_261" class="st19" x1="227.5" y1="525" x2="194.7" y2="525" />
+      <line id="Floor_Second_AllowedLine_251" class="st19" x1="250.7" y1="498.7" x2="227.5" y2="498.7" />
+      <line id="Floor_Second_AllowedLine_241" class="st19" x1="227.5" y1="525" x2="227.5" y2="620.8" />
+      <line id="Floor_Second_AllowedLine_23" class="st19" x1="251.3" y1="620.8" x2="227.5" y2="620.8" />
+      <line id="Floor_Second_AllowedLine_221" class="st19" x1="227.5" y1="620.8" x2="227.5" y2="690.8" />
+      <line id="Floor_Second_AllowedLine_181" class="st19" x1="227.5" y1="690.8" x2="198.8" y2="690.8" />
+      <line id="Floor_Second_AllowedLine_161" class="st19" x1="227.5" y1="690.8" x2="227.5" y2="863.3" />
+      <line id="Floor_Second_AllowedLine_151" class="st19" x1="227.9" y1="1156" x2="196.5" y2="1156" />
+      <line id="Floor_Second_AllowedLine_141" class="st19" x1="227.1" y1="863.3" x2="198.2" y2="863.3" />
+      <line id="Floor_Second_AllowedLine_131" class="st19" x1="227.5" y1="863.3" x2="227.5" y2="994.7" />
+      <line id="Floor_Second_AllowedLine_121" class="st19" x1="280.5" y1="994.7" x2="227.5" y2="994.7" />
+      <line id="Floor_Second_AllowedLine_111" class="st19" x1="280.5" y1="994.3" x2="280.5" y2="1074" />
+      <line id="Floor_Second_AllowedLine_101" class="st19" x1="227.5" y1="994.7" x2="227.5" y2="1156" />
+      <line id="Floor_Second_AllowedLine_71" class="st19" x1="283.3" y1="1178.5" x2="227.1" y2="1178.5" />
+      <line id="Floor_Second_AllowedLine_611" class="st19" x1="227.5" y1="1178.5" x2="227.5" y2="1185.6" />
+      <line id="Floor_Second_AllowedLine_6111" class="st19" x1="227.5" y1="1185.6" x2="227.5" y2="1199.2" />
+      <line id="Floor_Second_AllowedLine_3111" class="st19" x1="227.2" y1="368" x2="196.2" y2="368" />
+      <line id="Floor_Second_AllowedLine_56111" class="st19" x1="1058.7" y1="242.3" x2="1058.7" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_57111" class="st19" x1="1058.7" y1="259.5" x2="1098.4" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_4311" class="st19" x1="541.8" y1="259.5" x2="596.1" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_711" class="st19" x1="227.5" y1="1185.6" x2="196.5" y2="1185.6" />
+      <line id="Floor_Second_AllowedLine_1011" class="st19" x1="227.5" y1="1156" x2="227.5" y2="1178.5" />
+      <line id="Floor_Second_AllowedLine_61111" class="st19" x1="283.3" y1="1178.5" x2="283.3" y2="1196.9" />
+      <line id="Floor_Second_AllowedLine_4011" class="st19" x1="509.8" y1="320.3" x2="394.9" y2="320.3" />
+      <line id="Floor_Second_AllowedLine_1111" class="st19" x1="885.6" y1="1199.7" x2="885.6" y2="1217.2" />
+      <line id="Floor_Second_AllowedLine_1112" class="st19" x1="854.8" y1="1217.2" x2="805.3" y2="1217.2" />
+      <line id="Floor_Second_AllowedLine_1113" class="st19" x1="885.6" y1="1217.2" x2="854.9" y2="1217.2" />
+      <line id="Floor_Second_AllowedLine_1114" class="st19" x1="854.8" y1="1347.9" x2="854.8" y2="1217.2" />
+      <line id="Floor_Second_AllowedLine_5311" class="st19" x1="1417.9" y1="255.2" x2="1442.4" y2="255.2" />
+      <line id="Floor_Second_AllowedLine_5312" class="st19" x1="1442.4" y1="232" x2="1442.4" y2="255.2" />
+      <line id="Floor_Second_AllowedLine_5313" class="st19" x1="1442.4" y1="255.2" x2="1556.5" y2="255.2" />
+      <line id="Floor_Second_AllowedLine_5314" class="st19" x1="1556.5" y1="255.2" x2="1556.5" y2="276.4" />
+      <line id="Floor_Second_AllowedLine_5315" class="st19" x1="1566.5" y1="232.4" x2="1566.5" y2="255.2" />
+      <line id="Floor_Second_AllowedLine_5316" class="st19" x1="1566.5" y1="255.2" x2="1556" y2="255.2" />
+      <line id="Floor_Second_AllowedLine_5317" class="st19" x1="1624.7" y1="255.2" x2="1566.5" y2="255.2" />
+      <line id="Floor_Second_AllowedLine_5318" class="st19" x1="1624.7" y1="255.2" x2="1624.7" y2="150.1" />
+      <line id="Floor_Second_AllowedLine_5319" class="st19" x1="1624.7" y1="292" x2="1624.7" y2="255.2" />
+      <line id="Floor_Second_AllowedLine_53110" class="st19" x1="1624.7" y1="292" x2="1718.4" y2="292" />
+      <line id="Floor_Second_AllowedLine_53111" class="st19" x1="1718.4" y1="341.1" x2="1718.4" y2="292" />
+      <line id="Floor_Second_AllowedLine_53112" class="st19" x1="1718.4" y1="292" x2="1740.9" y2="292" />
+      <line id="Floor_Second_AllowedLine_53113" class="st19" x1="1718.4" y1="341.1" x2="1740.9" y2="341.1" />
+      <line id="Floor_Second_AllowedLine_53114" class="st19" x1="1718.2" y1="390.1" x2="1740.7" y2="390.1" />
+      <line id="Floor_Second_AllowedLine_53115" class="st19" x1="1694.4" y1="475.9" x2="1718.4" y2="475.9" />
+      <line id="Floor_Second_AllowedLine_53116" class="st19" x1="1718.2" y1="517.4" x2="1740.7" y2="517.4" />
+      <line id="Floor_Second_AllowedLine_53117" class="st19" x1="1718.2" y1="561.8" x2="1740.7" y2="561.8" />
+      <line id="Floor_Second_AllowedLine_53118" class="st19" x1="1718" y1="610.8" x2="1740.5" y2="610.8" />
+      <line id="Floor_Second_AllowedLine_53119" class="st19" x1="1694.9" y1="635.1" x2="1718.4" y2="635.1" />
+      <line id="Floor_Second_AllowedLine_53120" class="st19" x1="1694.9" y1="705.9" x2="1718.4" y2="705.9" />
+      <line id="Floor_Second_AllowedLine_53121" class="st19" x1="1718.4" y1="786.9" x2="1740.9" y2="786.9" />
+      <line id="Floor_Second_AllowedLine_53122" class="st19" x1="1718.4" y1="828" x2="1741.9" y2="828" />
+      <line id="Floor_Second_AllowedLine_53123" class="st19" x1="1718.4" y1="877.7" x2="1741.9" y2="877.7" />
+      <line id="Floor_Second_AllowedLine_53124" class="st19" x1="1694.4" y1="907.8" x2="1718.4" y2="907.8" />
+      <line id="Floor_Second_AllowedLine_53125" class="st19" x1="1692.9" y1="958.5" x2="1718.4" y2="958.5" />
+      <line id="Floor_Second_AllowedLine_53126" class="st19" x1="1718.4" y1="958.5" x2="1814.9" y2="958.5" />
+      <line id="Floor_Second_AllowedLine_53127" class="st19" x1="1694.4" y1="1010.5" x2="1718.4" y2="1010.5" />
+      <line id="Floor_Second_AllowedLine_53128" class="st19" x1="1718.4" y1="1030.9" x2="1741.9" y2="1030.9" />
+      <line id="Floor_Second_AllowedLine_53129" class="st19" x1="1718.4" y1="1065.1" x2="1741.9" y2="1065.1" />
+      <line id="Floor_Second_AllowedLine_53130" class="st19" x1="1718.4" y1="1099.2" x2="1741.9" y2="1099.2" />
+      <line id="Floor_Second_AllowedLine_53131" class="st19" x1="1718.4" y1="1146" x2="1741.9" y2="1146" />
+      <line id="Floor_Second_AllowedLine_53132" class="st19" x1="1718.4" y1="1196.5" x2="1741.9" y2="1196.5" />
+      <line id="Floor_Second_AllowedLine_53133" class="st19" x1="1694.4" y1="1173.2" x2="1718.4" y2="1173.2" />
+      <line id="Floor_Second_AllowedLine_53134" class="st19" x1="1694.4" y1="1216.5" x2="1718.4" y2="1216.5" />
+      <line id="Floor_Second_AllowedLine_53135" class="st19" x1="1718.4" y1="1249.7" x2="1741.9" y2="1249.7" />
+      <line id="Floor_Second_AllowedLine_53136" class="st19" x1="1718.4" y1="1298.3" x2="1741.9" y2="1298.3" />
+      <line id="Floor_Second_AllowedLine_53137" class="st19" x1="1718.4" y1="390.1" x2="1718.4" y2="341.1" />
+      <line id="Floor_Second_AllowedLine_53138" class="st19" x1="1718.4" y1="475.9" x2="1718.4" y2="390" />
+      <line id="Floor_Second_AllowedLine_53139" class="st19" x1="1718.4" y1="517.4" x2="1718.4" y2="475.9" />
+      <line id="Floor_Second_AllowedLine_53140" class="st19" x1="1718.4" y1="561.8" x2="1718.4" y2="517.4" />
+      <line id="Floor_Second_AllowedLine_53141" class="st19" x1="1718.4" y1="610.9" x2="1718.4" y2="561.8" />
+      <line id="Floor_Second_AllowedLine_53142" class="st19" x1="1718.4" y1="635.3" x2="1718.4" y2="610.9" />
+      <line id="Floor_Second_AllowedLine_53143" class="st19" x1="1718.4" y1="705.9" x2="1718.4" y2="635.1" />
+      <line id="Floor_Second_AllowedLine_53144" class="st19" x1="1718.4" y1="786.9" x2="1718.4" y2="705.1" />
+      <line id="Floor_Second_AllowedLine_53145" class="st19" x1="1718.4" y1="828.1" x2="1718.4" y2="786.9" />
+      <line id="Floor_Second_AllowedLine_53146" class="st19" x1="1718.4" y1="877.7" x2="1718.4" y2="828" />
+      <line id="Floor_Second_AllowedLine_53147" class="st19" x1="1718.4" y1="907.8" x2="1718.4" y2="877.7" />
+      <line id="Floor_Second_AllowedLine_53148" class="st19" x1="1718.4" y1="958.5" x2="1718.4" y2="907.8" />
+      <line id="Floor_Second_AllowedLine_53149" class="st19" x1="1718.4" y1="1010.5" x2="1718.4" y2="958.5" />
+      <line id="Floor_Second_AllowedLine_53150" class="st19" x1="1718.4" y1="1030.9" x2="1718.4" y2="1010.5" />
+      <line id="Floor_Second_AllowedLine_53151" class="st19" x1="1718.4" y1="1065.1" x2="1718.4" y2="1030.9" />
+      <line id="Floor_Second_AllowedLine_53152" class="st19" x1="1718.4" y1="1099.2" x2="1718.4" y2="1065" />
+      <line id="Floor_Second_AllowedLine_53153" class="st19" x1="1718.4" y1="1146" x2="1718.4" y2="1099.2" />
+      <line id="Floor_Second_AllowedLine_53154" class="st19" x1="1718.4" y1="1173.3" x2="1718.4" y2="1146" />
+      <line id="Floor_Second_AllowedLine_53155" class="st19" x1="1718.4" y1="1196.5" x2="1718.4" y2="1173.3" />
+      <line id="Floor_Second_AllowedLine_53156" class="st19" x1="1718.4" y1="1216.5" x2="1718.4" y2="1196.5" />
+      <line id="Floor_Second_AllowedLine_53157" class="st19" x1="1718.4" y1="1249.7" x2="1718.4" y2="1216.5" />
+      <line id="Floor_Second_AllowedLine_53158" class="st19" x1="1718.4" y1="1298.3" x2="1718.4" y2="1249.7" />
+    </g>
+    <g id="Floor_Second_Intersections">
+      <circle id="Floor_Second_Intersection_41" class="st20" cx="1058.7" cy="259.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_6" class="st20" cx="994.7" cy="259.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_81" class="st20" cx="894.7" cy="260.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_91" class="st20" cx="895" cy="320.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_101" class="st20" cx="814.6" cy="259.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_111" class="st20" cx="541.8" cy="259.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_121" class="st20" cx="678" cy="258.7" r="4.5" />
+      <circle id="Floor_Second_Intersection_1311" class="st20" cx="596.1" cy="259.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_151" class="st20" cx="394.9" cy="259.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_161" class="st20" cx="339.7" cy="260.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_181" class="st20" cx="227.2" cy="260.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_191" class="st20" cx="227.5" cy="368" r="2.5" />
+      <circle id="Floor_Second_Intersection_211" class="st20" cx="227.5" cy="525" r="2.5" />
+      <circle id="Floor_Second_Intersection_221" class="st20" cx="227.5" cy="498.7" r="2.5" />
+      <circle id="Floor_Second_Intersection_23" class="st20" cx="227.5" cy="620.8" r="4.5" />
+      <circle id="Floor_Second_Intersection_251" class="st20" cx="226.3" cy="690.8" r="4.5" />
+      <circle id="Floor_Second_Intersection_281" class="st20" cx="227.5" cy="994.7" r="2.5" />
+      <circle id="Floor_Second_Intersection_291" class="st20" cx="280.5" cy="994.7" r="2.5" />
+      <circle id="Floor_Second_Intersection_31" class="st20" cx="283.3" cy="1178.5" r="2.5" />
+      <circle id="Floor_Second_Intersection_331" class="st20" cx="227.4" cy="1156" r="2.5" />
+      <circle id="Floor_Second_Intersection_311" class="st20" cx="227.5" cy="1178.5" r="2.5" />
+      <circle id="Floor_Second_Intersection_27111" class="st20" cx="226.9" cy="863.4" r="4.5" />
+      <circle id="Floor_Second_Intersection_3121" class="st20" cx="227.4" cy="1185.9" r="2.2" />
+      <circle id="Floor_Second_Intersection_1111" class="st20" cx="394.9" cy="321.1" r="4.5" />
+      <circle id="Floor_Second_Intersection_3111" class="st20" cx="854.8" cy="1217.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_31211" class="st20" cx="885.7" cy="1216.7" r="4.5" />
+      <circle id="Floor_Second_Intersection_411" class="st20" cx="1442.4" cy="255.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_412" class="st20" cx="1556.5" cy="255.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_413" class="st20" cx="1566.5" cy="255.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_414" class="st20" cx="1624.7" cy="255.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_415" class="st20" cx="1624.7" cy="292" r="4.5" />
+      <circle id="Floor_Second_Intersection_416" class="st20" cx="1718.4" cy="292" r="4.5" />
+      <circle id="Floor_Second_Intersection_417" class="st20" cx="1718.2" cy="341.1" r="4.5" />
+      <circle id="Floor_Second_Intersection_418" class="st20" cx="1718.9" cy="390.1" r="4.5" />
+      <circle id="Floor_Second_Intersection_419" class="st20" cx="1718.2" cy="475.9" r="4.5" />
+      <circle id="Floor_Second_Intersection_4110" class="st20" cx="1718.8" cy="517.4" r="4.5" />
+      <circle id="Floor_Second_Intersection_4111" class="st20" cx="1718.8" cy="561.8" r="4.5" />
+      <circle id="Floor_Second_Intersection_4112" class="st20" cx="1718.4" cy="610.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_4113" class="st20" cx="1717.9" cy="634.9" r="4.5" />
+      <circle id="Floor_Second_Intersection_4114" class="st20" cx="1718.1" cy="705.7" r="4.5" />
+      <circle id="Floor_Second_Intersection_4115" class="st20" cx="1718.4" cy="786.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_4116" class="st20" cx="1718.2" cy="828" r="4.5" />
+      <circle id="Floor_Second_Intersection_4117" class="st20" cx="1718" cy="877.7" r="4.5" />
+      <circle id="Floor_Second_Intersection_4118" class="st20" cx="1718" cy="908" r="4.5" />
+      <circle id="Floor_Second_Intersection_4119" class="st20" cx="1718.4" cy="957.7" r="4.5" />
+      <circle id="Floor_Second_Intersection_4120" class="st20" cx="1718.2" cy="1010.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_4121" class="st20" cx="1718.2" cy="1030.9" r="4.5" />
+      <circle id="Floor_Second_Intersection_4122" class="st20" cx="1718.4" cy="1064.7" r="4.5" />
+      <circle id="Floor_Second_Intersection_4123" class="st20" cx="1718.4" cy="1099.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_4124" class="st20" cx="1718.4" cy="1146" r="4.5" />
+      <circle id="Floor_Second_Intersection_4125" class="st20" cx="1718.4" cy="1173.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_4126" class="st20" cx="1718.4" cy="1196.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_4127" class="st20" cx="1718.4" cy="1216.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_4128" class="st20" cx="1718.4" cy="1249.7" r="4.5" />
+      <circle id="Floor_Second_Intersection_4129" class="st20" cx="1718.4" cy="1297.7" r="4.5" />
+    </g>
+  </g>
+  <g id="Floor_Third">
+    <g id="Floor_Third_Background">
+      <polygon class="st18" points="85.4 1307.3 85.4 119.5 1294.8 119.5 1294.8 355.6 315.4 355.6 315.4 1307.3 85.4 1307.3" />
+      <path class="st21" d="M1293.3,121v233.1H313.9v951.7H86.9V121h1206.4M1296.3,118H83.9v1190.8h233V357.1h979.4V118h0Z" />
+    </g>
+    <g id="Floor_Third_Stairs">
+      <g id="Floor_Third_Stairs_First">
+        <rect class="st13" x="247.1" y="1074.5" width="66.8" height="92.1" />
+        <rect class="st1" x="247.1" y="1142" width="33.5" height="6" />
+        <rect class="st1" x="247.1" y="1136" width="33.5" height="6" />
+        <rect class="st8" x="247.1" y="1130" width="33.5" height="6" />
+        <rect class="st8" x="247.1" y="1123.6" width="33.5" height="6" />
+        <rect class="st7" x="247.1" y="1117.6" width="33.5" height="6" />
+        <rect class="st7" x="247.1" y="1111.6" width="33.5" height="6" />
+        <rect class="st5" x="247.1" y="1105.6" width="33.5" height="6" />
+        <rect class="st11" x="247.1" y="1099.6" width="33.5" height="6" />
+        <rect class="st13" x="247.1" y="1093.6" width="33.5" height="6" />
+        <rect class="st10" x="280.6" y="1142" width="33.3" height="6" />
+        <rect class="st10" x="280.6" y="1136" width="33.3" height="6" />
+        <rect class="st3" x="280.6" y="1130" width="33.3" height="6" />
+        <rect class="st3" x="280.6" y="1123.6" width="33.3" height="6" />
+        <rect class="st15" x="280.6" y="1117.6" width="33.3" height="6" />
+        <rect class="st15" x="280.6" y="1111.6" width="33.3" height="6" />
+        <rect class="st4" x="280.6" y="1105.6" width="33.3" height="6" />
+        <rect class="st4" x="280.6" y="1099.6" width="33.3" height="6" />
+        <rect class="st9" x="280.6" y="1093.6" width="33.3" height="6" />
+      </g>
+      <g id="Floor_Third_Stairs_Second">
+        <rect class="st13" x="753.3" y="286.8" width="92.1" height="67.3" />
+        <rect class="st1" x="772.5" y="286.8" width="6" height="33.7" />
+        <rect class="st1" x="778.5" y="286.8" width="6" height="33.7" />
+        <rect class="st8" x="784.5" y="286.8" width="6" height="33.7" />
+        <rect class="st8" x="790.5" y="286.8" width="6" height="33.7" />
+        <rect class="st7" x="796.5" y="286.8" width="6" height="33.7" />
+        <rect class="st7" x="802.5" y="286.8" width="6" height="33.7" />
+        <rect class="st5" x="808.5" y="286.8" width="6" height="33.7" />
+        <rect class="st11" x="814.5" y="286.8" width="6" height="33.7" />
+        <rect class="st13" x="820.5" y="286.8" width="6" height="33.7" />
+        <rect class="st10" x="772.5" y="320.4" width="6" height="33.7" />
+        <rect class="st10" x="778.5" y="320.4" width="6" height="33.7" />
+        <rect class="st3" x="784.5" y="320.4" width="6" height="33.7" />
+        <rect class="st3" x="790.5" y="320.4" width="6" height="33.7" />
+        <rect class="st15" x="796.5" y="320.4" width="6" height="33.7" />
+        <rect class="st15" x="802.5" y="320.4" width="6" height="33.7" />
+        <rect class="st4" x="808.5" y="320.4" width="6" height="33.7" />
+        <rect class="st4" x="814.5" y="320.4" width="6" height="33.7" />
+        <rect class="st9" x="820.5" y="320.4" width="6" height="33.7" />
+      </g>
+      <g id="Floor_Third_Stairs_Third">
+        <rect class="st13" x="964.8" y="286.8" width="92.1" height="67.3" />
+        <rect class="st1" x="1031.7" y="320.4" width="6" height="33.7" />
+        <rect class="st1" x="1025.7" y="320.4" width="6" height="33.7" />
+        <rect class="st8" x="1019.7" y="320.4" width="6" height="33.7" />
+        <rect class="st8" x="1013.7" y="320.4" width="6" height="33.7" />
+        <rect class="st7" x="1007.7" y="320.4" width="6" height="33.7" />
+        <rect class="st7" x="1001.7" y="320.4" width="6" height="33.7" />
+        <rect class="st5" x="995.7" y="320.4" width="6" height="33.7" />
+        <rect class="st11" x="989.7" y="320.4" width="6" height="33.7" />
+        <rect class="st13" x="983.7" y="320.4" width="6" height="33.7" />
+        <rect class="st10" x="1031.7" y="286.8" width="6" height="33.7" />
+        <rect class="st10" x="1025.7" y="286.8" width="6" height="33.7" />
+        <rect class="st3" x="1019.7" y="286.8" width="6" height="33.7" />
+        <rect class="st3" x="1013.7" y="286.8" width="6" height="33.7" />
+        <rect class="st15" x="1007.7" y="286.8" width="6" height="33.7" />
+        <rect class="st15" x="1001.7" y="286.8" width="6" height="33.7" />
+        <rect class="st4" x="995.7" y="286.8" width="6" height="33.7" />
+        <rect class="st4" x="989.7" y="286.8" width="6" height="33.7" />
+        <rect class="st9" x="983.7" y="286.8" width="6" height="33.7" />
+      </g>
+    </g>
+    <g id="Floor_Third_Offices">
+      <rect id="Floor_Third_Office_ToiletW" class="st13" x="254.2" y="1199.8" width="59.7" height="106" />
+      <rect id="Floor_Third_Office_301" class="st13" x="87" y="1171.1" width="109.5" height="134.6" />
+      <rect id="Floor_Third_Office_302" class="st13" x="87" y="1013" width="109.5" height="158.1" />
+      <rect id="Floor_Third_Office_303" class="st13" x="87" y="843" width="109.5" height="170" />
+      <rect id="Floor_Third_Office_304" class="st13" x="87" y="673" width="109.5" height="170" />
+      <rect id="Floor_Third_Office_307" class="st13" x="253" y="354" width="60.9" height="110.5" />
+      <rect id="Floor_Third_Office_308" class="st13" x="253" y="464.5" width="60.9" height="107.2" />
+      <rect id="Floor_Third_Office_310" class="st13" x="86.9" y="121" width="109.6" height="230.8" />
+      <rect id="Floor_Third_Office_311" class="st13" x="196.5" y="121.3" width="165.3" height="120" />
+      <rect id="Floor_Third_Office_314" class="st13" x="362" y="121.2" width="154.3" height="120.1" />
+      <rect id="Floor_Third_Office_315" class="st13" x="516.3" y="121.3" width="153.5" height="120" />
+      <rect id="Floor_Third_Office_316" class="st13" x="669.8" y="121.4" width="120" height="119.9" />
+      <rect id="Floor_Third_Office_317" class="st13" x="789.8" y="121.4" width="180.6" height="119.9" />
+      <rect id="Floor_Third_Office_317a" class="st13" x="970.2" y="121.3" width="50.8" height="120" />
+      <rect id="Floor_Third_Office_318" class="st13" x="1020.6" y="120.9" width="272.7" height="120.4" />
+      <rect id="Floor_Third_Office_319" class="st13" x="1100.1" y="241.3" width="193.2" height="112.7" />
+      <rect id="Floor_Third_Office_320" class="st13" x="624.2" y="286.8" width="128.9" height="67.2" />
+      <rect id="Floor_Third_Office_300" class="st13" x="196.5" y="1199.8" width="57.7" height="105.9" />
+      <rect id="Floor_Third_Office_305" class="st13" x="87" y="503.1" width="109.5" height="170" />
+      <rect id="Floor_Third_Office_306" class="st13" x="87" y="351.8" width="109.5" height="151.3" />
+      <rect id="Floor_Third_Office_Server" class="st13" x="533.1" y="286.7" width="91.1" height="67.3" />
+      <rect id="Floor_Third_Office_309" class="st13" x="253" y="571.7" width="60.9" height="258.1" />
+      <rect id="Floor_Third_Office_309a" class="st13" x="253" y="829.8" width="60.9" height="109.6" />
+    </g>
+    <g id="Floor_Third_Doors">
+      <rect id="Floor_Third_Door_Office_300_1" class="st16" x="217.6" y="1198.2" width="20" height="3" />
+      <rect id="Floor_Third_Door_Office_ToiletW_1" class="st16" x="273" y="1198.2" width="20" height="3" />
+      <rect id="Floor_Third_Door_Office_301_1" class="st16" x="195" y="1179.4" width="3" height="16.1" />
+      <rect id="Floor_Third_Door_Office_302_1" class="st16" x="195" y="1124.3" width="3" height="20" />
+      <rect id="Floor_Third_Door_Office_303_1" class="st16" x="194.9" y="854.2" width="3" height="20" />
+      <rect id="Floor_Third_Door_Office_304_1" class="st16" x="195" y="681.7" width="3" height="20" />
+      <rect id="Floor_Third_Door_Office_309a_1" class="st16" x="266.4" y="937.9" width="20" height="3" />
+      <rect id="Floor_Third_Door_Office_309_1" class="st16" x="251.5" y="611.7" width="3" height="20" />
+      <rect id="Floor_Third_Door_Office_308_1" class="st16" x="251.5" y="489.6" width="3" height="20" />
+      <rect id="Floor_Third_Door_Office_305_1" class="st16" x="193.4" y="515.5" width="3" height="20" />
+      <rect id="Floor_Third_Door_Office_310_1" class="st16" x="194.9" y="250.4" width="3" height="20" />
+      <rect id="Floor_Third_Door_Office_311_1" class="st16" x="329.4" y="239.7" width="20" height="3" />
+      <rect id="Floor_Third_Door_Office_314_1" class="st16" x="368.7" y="239.8" width="20" height="3" />
+      <rect id="Floor_Third_Door_Office_315_1" class="st16" x="585.8" y="239.8" width="20" height="3" />
+      <rect id="Floor_Third_Door_Office_316_1" class="st16" x="717.2" y="239.8" width="20" height="3" />
+      <rect id="Floor_Third_Door_Office_317_1" class="st16" x="804.5" y="239.8" width="20" height="3" />
+      <rect id="Floor_Third_Door_Office_317a_1" class="st16" x="984.4" y="239.8" width="20" height="3" />
+      <rect id="Floor_Third_Door_Office_318_1" class="st16" x="1048.4" y="239.8" width="20" height="3" />
+      <rect id="Floor_Third_Door_Office_319_1" class="st16" x="1098.6" y="250.4" width="3" height="20" />
+      <rect id="Floor_Third_Door_Office_320_1" class="st16" x="668.1" y="285.3" width="20" height="3" />
+      <rect id="Floor_Third_Door_Office_307_1" class="st16" x="251.5" y="397.9" width="3" height="20" />
+      <rect id="Floor_Third_Door_Office_306_1" class="st16" x="194.9" y="358.5" width="3" height="20" />
+      <rect id="Floor_Third_Door_Office_Server_1" class="st16" x="585.8" y="285.2" width="20" height="3" />
+      <rect id="Floor_Third_Door_Stairs_First_1" class="st16" x="266.8" y="1073" width="20" height="3" />
+      <rect id="Floor_Third_Door_Stairs_Second_1" class="st16" x="843.9" y="302.4" width="3" height="20" />
+      <rect id="Floor_Third_Door_Stairs_Third_1" class="st16" x="963.3" y="302.4" width="3" height="20" />
+    </g>
+    <g id="Floor_Third_AllowedLines">
+      <line id="Floor_Third_AllowedLine_571111" class="st19" x1="994.4" y1="260.4" x2="1058.4" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_561111" class="st19" x1="994.4" y1="243.2" x2="994.4" y2="260" />
+      <line id="Floor_Third_AllowedLine_53159" class="st19" x1="894.7" y1="260.4" x2="994.4" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_5211" class="st19" x1="894.7" y1="260.4" x2="894.7" y2="312.4" />
+      <line id="Floor_Third_AllowedLine_5011" class="st19" x1="814.3" y1="243.4" x2="814.3" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_4911" class="st19" x1="963.3" y1="312.4" x2="895.2" y2="312.4" />
+      <line id="Floor_Third_AllowedLine_4811" class="st19" x1="895.2" y1="312.4" x2="846.9" y2="312.4" />
+      <line id="Floor_Third_AllowedLine_4711" class="st19" x1="814.3" y1="260.4" x2="894.7" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_4611" class="st19" x1="727.2" y1="243.4" x2="727.2" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_4511" class="st19" x1="727.2" y1="260.4" x2="814.3" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_4411" class="st19" x1="678.1" y1="260.4" x2="678.1" y2="285.2" />
+      <line id="Floor_Third_AllowedLine_43111" class="st19" x1="595.8" y1="260.4" x2="678.1" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_4211" class="st19" x1="595.8" y1="243.3" x2="595.8" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_4012" class="st19" x1="595.8" y1="260.4" x2="595.8" y2="284.7" />
+      <line id="Floor_Third_AllowedLine_3811" class="st19" x1="378.7" y1="243.2" x2="378.7" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_3711" class="st19" x1="378.7" y1="260.4" x2="595.8" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_3611" class="st19" x1="339.4" y1="243.2" x2="339.4" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_3511" class="st19" x1="339.4" y1="260.4" x2="378.7" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_3311" class="st19" x1="227.2" y1="260.4" x2="339.4" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_32111" class="st19" x1="227.2" y1="260.4" x2="227.2" y2="368.5" />
+      <line id="Floor_Third_AllowedLine_31111" class="st19" x1="227.2" y1="260.4" x2="198.4" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_3011" class="st19" x1="227.2" y1="407.9" x2="227.2" y2="499.6" />
+      <line id="Floor_Third_AllowedLine_2911" class="st19" x1="251.1" y1="407.9" x2="227.2" y2="407.9" />
+      <line id="Floor_Third_AllowedLine_2811" class="st19" x1="227.2" y1="499.6" x2="227.2" y2="521.8" />
+      <line id="Floor_Third_AllowedLine_2611" class="st19" x1="227.2" y1="521.8" x2="197" y2="521.8" />
+      <line id="Floor_Third_AllowedLine_2511" class="st19" x1="252.6" y1="499.6" x2="227.2" y2="499.6" />
+      <line id="Floor_Third_AllowedLine_2411" class="st19" x1="227.2" y1="521.8" x2="227.2" y2="621.7" />
+      <line id="Floor_Third_AllowedLine_231" class="st19" x1="251" y1="621.7" x2="227.2" y2="621.7" />
+      <line id="Floor_Third_AllowedLine_2211" class="st19" x1="227.2" y1="621.7" x2="227.2" y2="691.7" />
+      <line id="Floor_Third_AllowedLine_1811" class="st19" x1="227.2" y1="691.7" x2="198.5" y2="691.7" />
+      <line id="Floor_Third_AllowedLine_1611" class="st19" x1="227.2" y1="691.7" x2="227.2" y2="864.2" />
+      <line id="Floor_Third_AllowedLine_1511" class="st19" x1="227.6" y1="1134.3" x2="198.5" y2="1134.3" />
+      <line id="Floor_Third_AllowedLine_1411" class="st19" x1="226.8" y1="864.2" x2="197.9" y2="864.2" />
+      <line id="Floor_Third_AllowedLine_1311" class="st19" x1="227.2" y1="864.2" x2="227.2" y2="995.6" />
+      <line id="Floor_Third_AllowedLine_1211" class="st19" x1="276.4" y1="995.6" x2="227.2" y2="995.6" />
+      <line id="Floor_Third_AllowedLine_1115" class="st19" x1="276.4" y1="995.6" x2="276.4" y2="1073" />
+      <line id="Floor_Third_AllowedLine_10111" class="st19" x1="227.2" y1="995.6" x2="227.2" y2="1134.3" />
+      <line id="Floor_Third_AllowedLine_7111" class="st19" x1="283" y1="1173.5" x2="226.8" y2="1173.5" />
+      <line id="Floor_Third_AllowedLine_61111" class="st19" x1="227.2" y1="1187.5" x2="227.2" y2="1197.8" />
+      <line id="Floor_Third_AllowedLine_611111" class="st19" x1="227.2" y1="1173.5" x2="227.2" y2="1187.5" />
+      <line id="Floor_Third_AllowedLine_11111" class="st19" x1="276.4" y1="940.9" x2="276.4" y2="995.6" />
+      <line id="Floor_Third_AllowedLine_311111" class="st19" x1="226.9" y1="368.4" x2="198.4" y2="368.4" />
+      <line id="Floor_Third_AllowedLine_5611111" class="st19" x1="1058.4" y1="243.2" x2="1058.4" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_5711111" class="st19" x1="1058.4" y1="260.4" x2="1098.1" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_321111" class="st19" x1="227.2" y1="368.1" x2="227.2" y2="407.9" />
+      <line id="Floor_Third_AllowedLine_431111" class="st19" x1="678.1" y1="260.4" x2="727.2" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_71111" class="st19" x1="227.6" y1="1187.5" x2="198.5" y2="1187.5" />
+      <line id="Floor_Third_AllowedLine_101111" class="st19" x1="227.2" y1="1133.7" x2="227.2" y2="1173.5" />
+      <line id="Floor_Third_AllowedLine_6111111" class="st19" x1="283" y1="1173.5" x2="283" y2="1197.8" />
+    </g>
+    <g id="Floor_Third_Intersections">
+      <circle id="Floor_Third_Intersection_4130" class="st20" cx="1058.4" cy="260.4" r="4.5" />
+      <circle id="Floor_Third_Intersection_61" class="st20" cx="994.4" cy="260.4" r="4.5" />
+      <circle id="Floor_Third_Intersection_811" class="st20" cx="894.4" cy="261.1" r="4.5" />
+      <circle id="Floor_Third_Intersection_911" class="st20" cx="894.4" cy="313.2" r="4.5" />
+      <circle id="Floor_Third_Intersection_1011" class="st20" cx="814.3" cy="260.4" r="4.5" />
+      <circle id="Floor_Third_Intersection_1112" class="st20" cx="726.9" cy="260.4" r="4.5" />
+      <circle id="Floor_Third_Intersection_1211" class="st20" cx="677.7" cy="259.6" r="4.5" />
+      <circle id="Floor_Third_Intersection_13111" class="st20" cx="595.8" cy="260.4" r="4.5" />
+      <circle id="Floor_Third_Intersection_1511" class="st20" cx="378.3" cy="261" r="4.5" />
+      <circle id="Floor_Third_Intersection_1611" class="st20" cx="339.4" cy="261.1" r="4.5" />
+      <circle id="Floor_Third_Intersection_1811" class="st20" cx="226.9" cy="261.1" r="4.5" />
+      <circle id="Floor_Third_Intersection_1911" class="st20" cx="226.4" cy="368.5" r="4.5" />
+      <circle id="Floor_Third_Intersection_2011" class="st20" cx="226.9" cy="407.9" r="4.5" />
+      <circle id="Floor_Third_Intersection_2111" class="st20" cx="226.9" cy="521.7" r="4.5" />
+      <circle id="Floor_Third_Intersection_2211" class="st20" cx="227.2" cy="499.6" r="4.5" />
+      <circle id="Floor_Third_Intersection_231" class="st20" cx="227.2" cy="621.7" r="4.5" />
+      <circle id="Floor_Third_Intersection_2511" class="st20" cx="226" cy="691.7" r="4.5" />
+      <circle id="Floor_Third_Intersection_2811" class="st20" cx="227.7" cy="995.2" r="4.5" />
+      <circle id="Floor_Third_Intersection_2911" class="st20" cx="276.1" cy="996.3" r="4.5" />
+      <circle id="Floor_Third_Intersection_313" class="st20" cx="283" cy="1173.9" r="3" />
+      <circle id="Floor_Third_Intersection_3311" class="st20" cx="227" cy="1134.3" r="4.5" />
+      <circle id="Floor_Third_Intersection_31111" class="st20" cx="227.2" cy="1173.5" r="2.7" />
+      <circle id="Floor_Third_Intersection_271111" class="st20" cx="226.6" cy="864.3" r="4.5" />
+      <circle id="Floor_Third_Intersection_31211" class="st20" cx="227" cy="1187.5" r="2.2" />
+    </g>
+  </g>
+  <g id="Floor_Fourth">
+    <g id="Floor_Fourth_Background">
+      <polygon class="st18" points="85.4 1307.3 85.4 119.5 1590.7 119.5 1590.7 355.6 315.3 355.6 315.3 1307.3 85.4 1307.3" />
+      <path class="st21" d="M1589.2,121v233.1H313.8v951.7H86.9V121h1502.3M1592.2,118H83.9v1190.8h232.9V357.1h1275.4V118h0Z" />
+    </g>
+    <g id="Floor_Fourth_Stairs">
+      <g id="Floor_Fourth_Stairs_First">
+        <rect class="st13" x="247.1" y="1074.5" width="66.8" height="92.1" />
+        <rect class="st1" x="247.1" y="1142" width="33.5" height="6" />
+        <rect class="st1" x="247.1" y="1136" width="33.5" height="6" />
+        <rect class="st8" x="247.1" y="1130" width="33.5" height="6" />
+        <rect class="st8" x="247.1" y="1123.6" width="33.5" height="6" />
+        <rect class="st7" x="247.1" y="1117.6" width="33.5" height="6" />
+        <rect class="st7" x="247.1" y="1111.6" width="33.5" height="6" />
+        <rect class="st5" x="247.1" y="1105.6" width="33.5" height="6" />
+        <rect class="st11" x="247.1" y="1099.6" width="33.5" height="6" />
+        <rect class="st13" x="247.1" y="1093.6" width="33.5" height="6" />
+        <rect class="st10" x="280.6" y="1142" width="33.3" height="6" />
+        <rect class="st10" x="280.6" y="1136" width="33.3" height="6" />
+        <rect class="st3" x="280.6" y="1130" width="33.3" height="6" />
+        <rect class="st3" x="280.6" y="1123.6" width="33.3" height="6" />
+        <rect class="st15" x="280.6" y="1117.6" width="33.3" height="6" />
+        <rect class="st15" x="280.6" y="1111.6" width="33.3" height="6" />
+        <rect class="st4" x="280.6" y="1105.6" width="33.3" height="6" />
+        <rect class="st4" x="280.6" y="1099.6" width="33.3" height="6" />
+        <rect class="st9" x="280.6" y="1093.6" width="33.3" height="6" />
+      </g>
+      <g id="Floor_Fourth_Stairs_Second">
+        <rect class="st13" x="753.2" y="286.8" width="92.1" height="67.3" />
+        <rect class="st1" x="772.4" y="286.8" width="6" height="33.7" />
+        <rect class="st1" x="778.4" y="286.8" width="6" height="33.7" />
+        <rect class="st8" x="784.4" y="286.8" width="6" height="33.7" />
+        <rect class="st8" x="790.4" y="286.8" width="6" height="33.7" />
+        <rect class="st7" x="796.4" y="286.8" width="6" height="33.7" />
+        <rect class="st7" x="802.4" y="286.8" width="6" height="33.7" />
+        <rect class="st5" x="808.4" y="286.8" width="6" height="33.7" />
+        <rect class="st11" x="814.4" y="286.8" width="6" height="33.7" />
+        <rect class="st13" x="820.4" y="286.8" width="6" height="33.7" />
+        <rect class="st10" x="772.4" y="320.4" width="6" height="33.7" />
+        <rect class="st10" x="778.4" y="320.4" width="6" height="33.7" />
+        <rect class="st3" x="784.4" y="320.4" width="6" height="33.7" />
+        <rect class="st3" x="790.4" y="320.4" width="6" height="33.7" />
+        <rect class="st15" x="796.4" y="320.4" width="6" height="33.7" />
+        <rect class="st15" x="802.4" y="320.4" width="6" height="33.7" />
+        <rect class="st4" x="808.4" y="320.4" width="6" height="33.7" />
+        <rect class="st4" x="814.4" y="320.4" width="6" height="33.7" />
+        <rect class="st9" x="820.4" y="320.4" width="6" height="33.7" />
+      </g>
+      <g id="Floor_Fourth_Steps">
+        <rect class="st8" x="1186.2" y="241.1" width="6" height="40.1" />
+        <rect class="st7" x="1192.2" y="241.1" width="6" height="40.1" />
+        <rect class="st7" x="1198.2" y="241.1" width="6" height="40.1" />
+        <rect class="st5" x="1204.2" y="241.1" width="6" height="40.1" />
+        <rect class="st11" x="1210.2" y="241.1" width="6" height="40.1" />
+        <rect class="st13" x="1216.2" y="241.1" width="6" height="40.1" />
+      </g>
+    </g>
+    <g id="Floor_Fourth_Offices">
+      <rect id="Floor_Fourth_Office_ToiletM" class="st13" x="196.5" y="1199.8" width="57.7" height="105.9" />
+      <rect id="Floor_Fourth_Office_ToiletW" class="st13" x="254.2" y="1199.8" width="59.7" height="106" />
+      <rect id="Floor_Fourth_Office_401" class="st13" x="86.9" y="1117.6" width="109.5" height="188.1" />
+      <rect id="Floor_Fourth_Office_402" class="st13" x="86.9" y="889.8" width="109.5" height="227.8" />
+      <rect id="Floor_Fourth_Office_403" class="st13" x="86.9" y="560.4" width="109.5" height="329.4" />
+      <rect id="Floor_Fourth_Office_404" class="st13" x="86.9" y="347.6" width="109.5" height="212.8" />
+      <rect id="Floor_Fourth_Office_405" class="st13" x="251.8" y="405.1" width="61.4" height="107.4" />
+      <rect id="Floor_Fourth_Office_406" class="st13" x="251.8" y="512.5" width="61.4" height="107.2" />
+      <rect id="Floor_Fourth_Office_407" class="st13" x="251.8" y="619.7" width="61.4" height="105.4" />
+      <rect id="Floor_Fourth_Office_408" class="st13" x="251.8" y="725.1" width="61.3" height="109" />
+      <rect id="Floor_Fourth_Office_409" class="st13" x="251.7" y="834.1" width="61.4" height="109.6" />
+      <rect id="Floor_Fourth_Office_410" class="st13" x="86.9" y="121" width="109.5" height="226.7" />
+      <rect id="Floor_Fourth_Office_411" class="st13" x="196.4" y="121" width="200.6" height="120.1" />
+      <rect id="Floor_Fourth_Office_412" class="st13" x="397" y="121" width="152" height="120.1" />
+      <rect id="Floor_Fourth_Office_413" class="st13" x="549" y="121" width="143.2" height="120.1" />
+      <rect id="Floor_Fourth_Office_414" class="st13" x="692.2" y="121" width="141.2" height="120.1" />
+      <rect id="Floor_Fourth_Office_415" class="st13" x="833.4" y="121" width="180.6" height="120.1" />
+      <rect id="Floor_Fourth_Office_415a" class="st13" x="1014" y="121" width="169.8" height="120.1" />
+      <rect id="Floor_Fourth_Office_422-1" class="st13" x="1183.8" y="121" width="134.7" height="120.1" />
+      <rect id="Floor_Fourth_Office_422-2" class="st13" x="1318.5" y="120.9" width="270.7" height="120.1" />
+      <rect id="Floor_Fourth_Office_423" class="st13" x="1396.6" y="241.2" width="192.6" height="113" />
+      <rect id="Floor_Fourth_Office_416" class="st13" x="1145.2" y="280.5" width="101.5" height="73.5" />
+      <rect id="Floor_Fourth_Office_417" class="st13" x="1045.5" y="280.5" width="99.7" height="73.5" />
+      <rect id="Floor_Fourth_Office_418" class="st13" x="951.9" y="280.5" width="93.6" height="73.5" />
+      <rect id="Floor_Fourth_Office_419" class="st13" x="616" y="286.8" width="137.3" height="67.3" />
+      <rect id="Floor_Fourth_Office_420" class="st13" x="525.5" y="286.8" width="90.4" height="67.3" />
+      <rect id="Floor_Fourth_Office_421" class="st13" x="251.8" y="286.8" width="145.2" height="67.2" />
+    </g>
+    <g id="Floor_Fourth_Doors">
+      <rect id="Floor_Fourth_Door_Office_ToiletM" class="st16" x="219.1" y="1198.2" width="20" height="3" />
+      <rect id="Floor_Fourth_Door_Office_ToiletW" class="st16" x="274.5" y="1198.2" width="20" height="3" />
+      <rect id="Floor_Fourth_Door_Office_401" class="st16" x="195" y="1146.9" width="3" height="20" />
+      <rect id="Floor_Fourth_Door_Office_402" class="st16" x="195" y="1077.6" width="3" height="20" />
+      <rect id="Floor_Fourth_Door_Office_403" class="st16" x="194.9" y="817.2" width="3" height="20" />
+      <rect id="Floor_Fourth_Door_Office_4031" class="st16" x="194.9" y="635.1" width="3" height="20" />
+      <rect id="Floor_Fourth_Door_Office_408" class="st16" x="250.3" y="794.1" width="3" height="20" />
+      <rect id="Floor_Fourth_Door_Office_409" class="st16" x="250.3" y="908" width="3" height="20" />
+      <rect id="Floor_Fourth_Door_Office_407" class="st16" x="250.3" y="686.5" width="3" height="20" />
+      <rect id="Floor_Fourth_Door_Office_406" class="st16" x="250.3" y="583.2" width="3" height="20" />
+      <rect id="Floor_Fourth_Door_Office_405" class="st16" x="250.3" y="474.4" width="3" height="20" />
+      <rect id="Floor_Fourth_Door_Office_404" class="st16" x="194.9" y="515.5" width="3" height="20" />
+      <rect id="Floor_Fourth_Door_Office_410" class="st16" x="195" y="309.3" width="3" height="20" />
+      <rect id="Floor_Fourth_Door_Office_411" class="st16" x="320.4" y="239.4" width="20" height="3" />
+      <rect id="Floor_Fourth_Door_Office_412" class="st16" x="461.6" y="239.6" width="20" height="3" />
+      <rect id="Floor_Fourth_Door_Office_413" class="st16" x="613.3" y="239.6" width="20" height="3" />
+      <rect id="Floor_Fourth_Door_Office_414" class="st16" x="751.9" y="239.6" width="20" height="3" />
+      <rect id="Floor_Fourth_Door_Office_415" class="st16" x="920.3" y="239.6" width="20" height="3" />
+      <rect id="Floor_Fourth_Door_Office_415a" class="st16" x="1091.6" y="239.6" width="20" height="3" />
+      <rect id="Floor_Fourth_Door_Office_422-1" class="st16" x="1261.1" y="239.8" width="20" height="3" />
+      <rect id="Floor_Fourth_Door_Office_422-11" class="st16" x="1317" y="171" width="3" height="20" />
+      <rect id="Floor_Fourth_Door_Office_423" class="st16" x="1395.1" y="251.2" width="3" height="20" />
+      <rect id="Floor_Fourth_Door_Office_416" class="st16" x="1150" y="279" width="20" height="3" />
+      <rect id="Floor_Fourth_Door_Office_417" class="st16" x="1056.5" y="279" width="20" height="3" />
+      <rect id="Floor_Fourth_Door_Office_418" class="st16" x="950.4" y="303.5" width="3" height="20" />
+      <rect id="Floor_Fourth_Door_Office_419" class="st16" x="662.1" y="285.3" width="20" height="3" />
+      <rect id="Floor_Fourth_Door_Office_420" class="st16" x="573.4" y="285.3" width="20" height="3" />
+      <rect id="Floor_Fourth_Door_Office_421" class="st16" x="281.4" y="285.3" width="20" height="3" />
+      <rect id="Floor_Fourth_Door_Stairs_First" class="st16" x="268.3" y="1073" width="20" height="3" />
+      <rect id="Floor_Fourth_Door_Stairs_Second" class="st16" x="843.8" y="303.6" width="3" height="20" />
+    </g>
+    <g id="Floor_Fourth_AllowedLines">
+      <line id="Floor_Fourth_AllowedLine_66" class="st19" x1="1394.7" y1="261.2" x2="1271.1" y2="261.2" />
+      <line id="Floor_Fourth_AllowedLine_65" class="st19" x1="1271.1" y1="261.8" x2="1271.1" y2="243.3" />
+      <line id="Floor_Fourth_AllowedLine_64" class="st19" x1="1160.1" y1="261.5" x2="1271.1" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_62" class="st19" x1="1160.1" y1="261.5" x2="1160.1" y2="278.6" />
+      <line id="Floor_Fourth_AllowedLine_6111" class="st19" x1="1101.6" y1="261.5" x2="1160.6" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_60" class="st19" x1="1101.6" y1="241.1" x2="1101.6" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_59" class="st19" x1="1066.5" y1="261.5" x2="1101.6" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_58" class="st19" x1="1067.1" y1="261.1" x2="1067.1" y2="278.6" />
+      <line id="Floor_Fourth_AllowedLine_552" class="st19" x1="930.3" y1="261.5" x2="1067.1" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_54" class="st19" x1="930.3" y1="243" x2="930.3" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_532" class="st19" x1="896.6" y1="261.5" x2="930.3" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_522" class="st19" x1="896.6" y1="261.5" x2="896.6" y2="313.5" />
+      <line id="Floor_Fourth_AllowedLine_492" class="st19" x1="950" y1="313.5" x2="897.1" y2="313.5" />
+      <line id="Floor_Fourth_AllowedLine_482" class="st19" x1="897.1" y1="313.5" x2="847.1" y2="313.5" />
+      <line id="Floor_Fourth_AllowedLine_472" class="st19" x1="761.9" y1="261.5" x2="896.6" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_462" class="st19" x1="761.9" y1="242.6" x2="761.9" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_452" class="st19" x1="672" y1="261.5" x2="761.9" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_442" class="st19" x1="672" y1="260.9" x2="672" y2="285.3" />
+      <line id="Floor_Fourth_AllowedLine_432" class="st19" x1="623.3" y1="261.5" x2="672" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_422" class="st19" x1="623.3" y1="242.6" x2="623.3" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_412" class="st19" x1="583.3" y1="261.5" x2="623.3" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_402" class="st19" x1="583.4" y1="261.5" x2="583.4" y2="285.3" />
+      <line id="Floor_Fourth_AllowedLine_392" class="st19" x1="471.6" y1="261.5" x2="583.4" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_382" class="st19" x1="471.6" y1="243.1" x2="471.6" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_372" class="st19" x1="330.4" y1="261.5" x2="471.6" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_362" class="st19" x1="330.4" y1="242.9" x2="330.4" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_352" class="st19" x1="291.4" y1="261.5" x2="330.4" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_34" class="st19" x1="291.4" y1="261.5" x2="291.4" y2="285.3" />
+      <line id="Floor_Fourth_AllowedLine_332" class="st19" x1="229.1" y1="261.5" x2="291.4" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_322" class="st19" x1="229.1" y1="261.5" x2="229.1" y2="319.3" />
+      <line id="Floor_Fourth_AllowedLine_312" class="st19" x1="229.1" y1="319.3" x2="198.3" y2="319.3" />
+      <line id="Floor_Fourth_AllowedLine_302" class="st19" x1="229.1" y1="319.3" x2="229.1" y2="484.4" />
+      <line id="Floor_Fourth_AllowedLine_292" class="st19" x1="249.8" y1="484.4" x2="229.1" y2="484.4" />
+      <line id="Floor_Fourth_AllowedLine_282" class="st19" x1="229.1" y1="484.4" x2="229.1" y2="525.5" />
+      <line id="Floor_Fourth_AllowedLine_272" class="st19" x1="229.1" y1="525.5" x2="229.1" y2="593.2" />
+      <line id="Floor_Fourth_AllowedLine_262" class="st19" x1="229.1" y1="525.5" x2="197.9" y2="525.5" />
+      <line id="Floor_Fourth_AllowedLine_252" class="st19" x1="250.3" y1="593.2" x2="229.1" y2="593.2" />
+      <line id="Floor_Fourth_AllowedLine_231" class="st19" x1="229.1" y1="645.1" x2="197.9" y2="645.1" />
+      <line id="Floor_Fourth_AllowedLine_222" class="st19" x1="229.1" y1="593.2" x2="229.1" y2="645.1" />
+      <line id="Floor_Fourth_AllowedLine_2111" class="st19" x1="249.8" y1="696.5" x2="229.1" y2="696.5" />
+      <line id="Floor_Fourth_AllowedLine_192" class="st19" x1="229.1" y1="696.5" x2="229.1" y2="804.1" />
+      <line id="Floor_Fourth_AllowedLine_182" class="st19" x1="229.1" y1="827.2" x2="198.5" y2="827.2" />
+      <line id="Floor_Fourth_AllowedLine_17" class="st19" x1="250.3" y1="804.1" x2="229.1" y2="804.1" />
+      <line id="Floor_Fourth_AllowedLine_162" class="st19" x1="229.1" y1="827.2" x2="229.1" y2="918" />
+      <line id="Floor_Fourth_AllowedLine_152" class="st19" x1="229.1" y1="1087.6" x2="198.5" y2="1087.6" />
+      <line id="Floor_Fourth_AllowedLine_142" class="st19" x1="249.6" y1="918" x2="229.1" y2="918" />
+      <line id="Floor_Fourth_AllowedLine_132" class="st19" x1="229.1" y1="918" x2="229.1" y2="996.7" />
+      <line id="Floor_Fourth_AllowedLine_122" class="st19" x1="278.3" y1="996.7" x2="229.1" y2="996.7" />
+      <line id="Floor_Fourth_AllowedLine_112" class="st19" x1="278.3" y1="996.7" x2="278.3" y2="1073" />
+      <line id="Floor_Fourth_AllowedLine_102" class="st19" x1="229.1" y1="1087.6" x2="229.1" y2="1156.9" />
+      <line id="Floor_Fourth_AllowedLine_9" class="st19" x1="228.8" y1="1156.9" x2="198.5" y2="1156.9" />
+      <line id="Floor_Fourth_AllowedLine_621" class="st19" x1="229.1" y1="1156.9" x2="229.1" y2="1184.1" />
+      <line id="Floor_Fourth_AllowedLine_5211" class="st19" x1="229.1" y1="1197.8" x2="229.1" y2="1184.1" />
+      <line id="Floor_Fourth_AllowedLine_2211" class="st19" x1="284.5" y1="1184.1" x2="228.8" y2="1184.1" />
+      <line id="Floor_Fourth_AllowedLine_1211" class="st19" x1="284.5" y1="1184.1" x2="284.5" y2="1197.7" />
+      <line id="Floor_Fourth_AllowedLine_2221" class="st19" x1="229.1" y1="645.1" x2="229.1" y2="696.5" />
+      <line id="Floor_Fourth_AllowedLine_1621" class="st19" x1="229.1" y1="804.1" x2="229.1" y2="827.2" />
+      <line id="Floor_Fourth_AllowedLine_1021" class="st19" x1="229.1" y1="996.7" x2="229.1" y2="1087.6" />
+      <line id="Floor_Fourth_AllowedLine_651" class="st19" x1="1271.1" y1="241" x2="1271.1" y2="181.1" />
+      <line id="Floor_Fourth_AllowedLine_652" class="st19" x1="1271.1" y1="181" x2="1318.5" y2="181" />
+    </g>
+    <g id="Floor_Fourth_Intersections">
+      <circle id="Floor_Fourth_Intersection_2111" class="st20" cx="1271.1" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_3" class="st20" cx="1160.1" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_42" class="st20" cx="1101.6" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_5" class="st20" cx="1067.1" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_7" class="st20" cx="930.2" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_82" class="st20" cx="896.6" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_92" class="st20" cx="896.6" cy="313.6" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_112" class="st20" cx="761.9" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_122" class="st20" cx="672" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_132" class="st20" cx="623.3" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_14" class="st20" cx="583.4" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_152" class="st20" cx="471.6" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_162" class="st20" cx="330.4" cy="261.3" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_17" class="st20" cx="291.4" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_182" class="st20" cx="229.1" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_192" class="st20" cx="229.2" cy="319.1" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_202" class="st20" cx="229.1" cy="484" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_212" class="st20" cx="229.1" cy="525.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_222" class="st20" cx="229.1" cy="593.2" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_231" class="st20" cx="228.9" cy="645.3" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_24" class="st20" cx="229" cy="696.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_252" class="st20" cx="229.1" cy="804.1" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_26" class="st20" cx="229.1" cy="827.2" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_272" class="st20" cx="229.1" cy="917.6" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_282" class="st20" cx="228.8" cy="1087.6" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_292" class="st20" cx="278.3" cy="996.7" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_30" class="st20" cx="229.4" cy="1157.3" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_3111" class="st20" cx="229.1" cy="1184.1" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_32" class="st20" cx="284.5" cy="1184.1" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_2821" class="st20" cx="229.1" cy="996.7" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_21111" class="st20" cx="1271.1" cy="181" r="4.5" />
+    </g>
+  </g>
+</svg>
