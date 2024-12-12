@@ -501,9 +501,9 @@ def main():
 
     # Сохранение всех этажей в одном JSON
     combined_plan = {
-        "all_objects": all_objects_list,
-        'floors': all_floor_plans,
-        'combined_graph': {
+        "objects": all_objects_list,
+        # 'floors': all_floor_plans,
+        'graph': {
             'nodes': list(combined_graph_nodes),
             'edges': combined_graph_edges,
         },

@@ -366,211 +366,211 @@
       <line class="st2" x1="1313.6" y1="1034.6" x2="1408.6" y2="1034.6" />
     </g>
     <g id="Floor_First_AllowedLines">
-      <line id="Floor_First_AllowedLine_ff42" class="st19" x1="906" y1="265.1" x2="963.2" y2="265.1" />
-      <line id="Floor_First_AllowedLine_95dc" class="st19" x1="906" y1="265.1" x2="906" y2="320.9" />
-      <line id="Floor_First_AllowedLine_d375" class="st19" x1="722.2" y1="265.1" x2="722.2" y2="285.8" />
-      <line id="Floor_First_AllowedLine_6584" class="st19" x1="847" y1="265.1" x2="906" y2="265.1" />
-      <line id="Floor_First_AllowedLine_1541" class="st19" x1="509.4" y1="245" x2="509.4" y2="265.1" />
-      <line id="Floor_First_AllowedLine_2eab" class="st19" x1="722.2" y1="265.1" x2="843.7" y2="265.1" />
-      <line id="Floor_First_AllowedLine_e902" class="st19" x1="695.6" y1="245.1" x2="695.6" y2="265.1" />
-      <line id="Floor_First_AllowedLine_f6f7" class="st19" x1="695.6" y1="265.1" x2="722.2" y2="265.1" />
-      <line id="Floor_First_AllowedLine_68ae" class="st19" x1="627.1" y1="245.1" x2="627.1" y2="265.1" />
-      <line id="Floor_First_AllowedLine_6480" class="st19" x1="378.8" y1="265.2" x2="378.8" y2="272.3" />
-      <line id="Floor_First_AllowedLine_9c6c" class="st19" x1="378.8" y1="244.5" x2="378.8" y2="265.2" />
-      <line id="Floor_First_AllowedLine_22a8" class="st19" x1="509.4" y1="265.1" x2="583.2" y2="265.1" />
-      <line id="Floor_First_AllowedLine_db0e" class="st19" x1="331.2" y1="245.1" x2="331.2" y2="265.1" />
-      <line id="Floor_First_AllowedLine_810f" class="st19" x1="378.8" y1="265.2" x2="428.9" y2="265.2" />
-      <line id="Floor_First_AllowedLine_a092" class="st19" x1="331.2" y1="265.1" x2="378.8" y2="265.1" />
-      <line id="Floor_First_AllowedLine_29dc" class="st19" x1="331.2" y1="265.1" x2="177.7" y2="265.1" />
-      <line id="Floor_First_AllowedLine_d53d" class="st19" x1="217.5" y1="959.2" x2="217.5" y2="1058.1" />
-      <line id="Floor_First_AllowedLine_3d6d" class="st19" x1="345.7" y1="1058.1" x2="280.4" y2="1058.1" />
-      <line id="Floor_First_AllowedLine_9a62" class="st19" x1="345.7" y1="1020.1" x2="345.7" y2="1058.1" />
-      <line id="Floor_First_AllowedLine_98b2" class="st19" x1="287.3" y1="1177.4" x2="226.7" y2="1177.4" />
-      <line id="Floor_First_AllowedLine_eb29" class="st19" x1="227.1" y1="1177.4" x2="227.1" y2="1198.1" />
-      <line id="Floor_First_AllowedLine_ac92" class="st19" x1="1009.8" y1="244.5" x2="1009.8" y2="266.7" />
-      <line id="Floor_First_AllowedLine_fe43" class="st19" x1="1009.8" y1="266.7" x2="1054.7" y2="266.7" />
-      <line id="Floor_First_AllowedLine_00a8" class="st19" x1="627.1" y1="265.1" x2="695.6" y2="265.1" />
-      <line id="Floor_First_AllowedLine_5c9e" class="st19" x1="226.7" y1="1177.4" x2="198.1" y2="1177.4" />
-      <line id="Floor_First_AllowedLine_42c9" class="st19" x1="217.5" y1="1058.1" x2="217.5" y2="1177.4" />
-      <line id="Floor_First_AllowedLine_6d66" class="st19" x1="287.3" y1="1177.4" x2="287.3" y2="1198.1" />
-      <line id="Floor_First_AllowedLine_01da" class="st19" x1="886" y1="1020.1" x2="886" y2="1035" />
-      <line id="Floor_First_AllowedLine_e0fe" class="st19" x1="829.7" y1="1253.7" x2="805.3" y2="1253.7" />
-      <line id="Floor_First_AllowedLine_c4a1" class="st19" x1="886" y1="1020.1" x2="829.7" y2="1020.1" />
-      <line id="Floor_First_AllowedLine_b624" class="st19" x1="1655.1" y1="213.8" x2="1622.9" y2="213.8" />
-      <line id="Floor_First_AllowedLine_3405" class="st19" x1="1622.9" y1="213.8" x2="1622.9" y2="151.3" />
-      <line id="Floor_First_AllowedLine_5223" class="st19" x1="1655.1" y1="302.4" x2="1655.1" y2="213.8" />
-      <line id="Floor_First_AllowedLine_6772" class="st19" x1="1655.1" y1="302.4" x2="1718.4" y2="302.4" />
-      <line id="Floor_First_AllowedLine_b6c6" class="st19" x1="1718" y1="389.6" x2="1718" y2="302.8" />
-      <line id="Floor_First_AllowedLine_936b" class="st19" x1="1833.6" y1="265" x2="1833.6" y2="302.4" />
-      <line id="Floor_First_AllowedLine_b814" class="st19" x1="1718.1" y1="302.4" x2="1833.6" y2="302.4" />
-      <line id="Floor_First_AllowedLine_9e4e" class="st19" x1="1694.6" y1="389" x2="1718" y2="389" />
-      <line id="Floor_First_AllowedLine_2ade" class="st19" x1="1718" y1="439.2" x2="1740.7" y2="439.2" />
-      <line id="Floor_First_AllowedLine_2862" class="st19" x1="1694.8" y1="506.2" x2="1718" y2="506.2" />
-      <line id="Floor_First_AllowedLine_0843" class="st19" x1="1694.6" y1="558.8" x2="1718" y2="558.8" />
-      <line id="Floor_First_AllowedLine_dfe3" class="st19" x1="1718.4" y1="605.9" x2="1740.9" y2="605.9" />
-      <line id="Floor_First_AllowedLine_a003" class="st19" x1="1717.9" y1="666.6" x2="1741.4" y2="666.6" />
-      <line id="Floor_First_AllowedLine_24a9" class="st19" x1="1694.9" y1="714.8" x2="1718" y2="714.8" />
-      <line id="Floor_First_AllowedLine_8725" class="st19" x1="1695" y1="796.6" x2="1717.5" y2="796.6" />
-      <line id="Floor_First_AllowedLine_ba5b" class="st19" x1="1717.5" y1="796.6" x2="1741" y2="796.6" />
-      <line id="Floor_First_AllowedLine_f3e2" class="st19" x1="1718" y1="877.6" x2="1741.5" y2="877.6" />
-      <line id="Floor_First_AllowedLine_d0f5" class="st19" x1="1694" y1="877.6" x2="1718" y2="877.6" />
-      <line id="Floor_First_AllowedLine_9022" class="st19" x1="1557.9" y1="957.4" x2="1718" y2="957.4" />
-      <line id="Floor_First_AllowedLine_9573" class="st19" x1="1718" y1="957.4" x2="1814.5" y2="957.4" />
-      <line id="Floor_First_AllowedLine_e3dc" class="st19" x1="1694" y1="1032.8" x2="1718" y2="1032.8" />
-      <line id="Floor_First_AllowedLine_0193" class="st19" x1="1718" y1="1032.8" x2="1741.5" y2="1032.8" />
-      <line id="Floor_First_AllowedLine_192d" class="st19" x1="1693.5" y1="1091.8" x2="1718" y2="1091.8" />
-      <line id="Floor_First_AllowedLine_3d1e" class="st19" x1="1718" y1="1091.8" x2="1741.5" y2="1091.8" />
-      <line id="Floor_First_AllowedLine_e5be" class="st19" x1="1718" y1="1175.3" x2="1741.5" y2="1175.3" />
-      <line id="Floor_First_AllowedLine_875b" class="st19" x1="1693.9" y1="1255.6" x2="1717.8" y2="1255.6" />
-      <line id="Floor_First_AllowedLine_9974" class="st19" x1="1694" y1="1175.3" x2="1718" y2="1175.3" />
-      <line id="Floor_First_AllowedLine_38b9" class="st19" x1="1718.3" y1="1255.6" x2="1741.8" y2="1255.6" />
-      <line id="Floor_First_AllowedLine_ca9a" class="st19" x1="1718.3" y1="1336.2" x2="1741.8" y2="1336.2" />
-      <line id="Floor_First_AllowedLine_7fed" class="st19" x1="1718" y1="439.2" x2="1718" y2="389" />
-      <line id="Floor_First_AllowedLine_1f37" class="st19" x1="1718" y1="506.2" x2="1718" y2="439.2" />
-      <line id="Floor_First_AllowedLine_2e0e" class="st19" x1="1718" y1="605.9" x2="1718" y2="558.8" />
-      <line id="Floor_First_AllowedLine_dafc" class="st19" x1="1718" y1="666.6" x2="1718" y2="605.9" />
-      <line id="Floor_First_AllowedLine_8e88" class="st19" x1="1718" y1="714.8" x2="1718" y2="666.7" />
-      <line id="Floor_First_AllowedLine_f5ce" class="st19" x1="1718" y1="796.6" x2="1718" y2="714.8" />
-      <line id="Floor_First_AllowedLine_2f25" class="st19" x1="1718" y1="877.6" x2="1718" y2="796.6" />
-      <line id="Floor_First_AllowedLine_bfef" class="st19" x1="1718" y1="957.4" x2="1718" y2="877.6" />
-      <line id="Floor_First_AllowedLine_7002" class="st19" x1="1718" y1="1032.8" x2="1718" y2="957.4" />
-      <line id="Floor_First_AllowedLine_88e2" class="st19" x1="1718" y1="1091.8" x2="1718" y2="1032.8" />
-      <line id="Floor_First_AllowedLine_20d5" class="st19" x1="1718" y1="1175.3" x2="1718" y2="1091.8" />
-      <line id="Floor_First_AllowedLine_5b90" class="st19" x1="1718" y1="1255.6" x2="1718" y2="1175.3" />
-      <line id="Floor_First_AllowedLine_d087" class="st19" x1="1718" y1="1336.2" x2="1718" y2="1255.6" />
-      <line id="Floor_First_AllowedLine_e5ca" class="st19" x1="345.7" y1="1010.1" x2="315.7" y2="1010.1" />
-      <line id="Floor_First_AllowedLine_fa71" class="st19" x1="379.8" y1="1058.1" x2="345.7" y2="1058.1" />
-      <line id="Floor_First_AllowedLine_c993" class="st19" x1="463.3" y1="1020.1" x2="345.7" y2="1020.1" />
-      <line id="Floor_First_AllowedLine_4f91" class="st19" x1="345.7" y1="1010.1" x2="345.7" y2="1020.3" />
-      <line id="Floor_First_AllowedLine_df72" class="st19" x1="567.5" y1="1020.1" x2="463.3" y2="1020.1" />
-      <line id="Floor_First_AllowedLine_92f1" class="st19" x1="829.7" y1="1020.1" x2="618.3" y2="1020.1" />
-      <line id="Floor_First_AllowedLine_4843" class="st19" x1="618.3" y1="1020.1" x2="567.5" y2="1020.1" />
-      <line id="Floor_First_AllowedLine_c771" class="st19" x1="463.3" y1="1020.3" x2="463.3" y2="990.7" />
-      <line id="Floor_First_AllowedLine_d5bb" class="st19" x1="567.5" y1="1051.1" x2="567.5" y2="1020.3" />
-      <line id="Floor_First_AllowedLine_6f48" class="st19" x1="618.3" y1="1051.1" x2="618.3" y2="1020.3" />
-      <line id="Floor_First_AllowedLine_1f75" class="st19" x1="829.7" y1="1253.7" x2="829.7" y2="1020.1" />
-      <line id="Floor_First_AllowedLine_6fa7" class="st19" x1="905.7" y1="1035" x2="886" y2="1035" />
-      <line id="Floor_First_AllowedLine_acea" class="st19" x1="925.3" y1="1035" x2="925.3" y2="1051" />
-      <line id="Floor_First_AllowedLine_7364" class="st19" x1="886" y1="1035" x2="886" y2="1107.4" />
-      <line id="Floor_First_AllowedLine_45ca" class="st19" x1="952.4" y1="1035" x2="925.3" y2="1035" />
-      <line id="Floor_First_AllowedLine_3fc4" class="st19" x1="379.8" y1="1073.6" x2="379.8" y2="1058" />
-      <line id="Floor_First_AllowedLine_9f01" class="st19" x1="966" y1="266.7" x2="1009.8" y2="266.7" />
-      <line id="Floor_First_AllowedLine_c1fb" class="st19" x1="583.2" y1="265.1" x2="627.1" y2="265.1" />
-      <line id="Floor_First_AllowedLine_9264" class="st19" x1="583.2" y1="265.4" x2="583.2" y2="285.4" />
-      <line id="Floor_First_AllowedLine_7c6b" class="st19" x1="481.7" y1="265.1" x2="509.5" y2="265.1" />
-      <line id="Floor_First_AllowedLine_43d0" class="st19" x1="481.7" y1="265.1" x2="481.7" y2="272.3" />
-      <line id="Floor_First_AllowedLine_de7d" class="st19" x1="428.9" y1="265.1" x2="481.9" y2="265.1" />
-      <line id="Floor_First_AllowedLine_643d" class="st19" x1="428.9" y1="245.1" x2="428.9" y2="265.2" />
-      <line id="Floor_First_AllowedLine_e33d" class="st19" x1="428.9" y1="265.1" x2="428.9" y2="272.3" />
-      <line id="Floor_First_AllowedLine_6c87" class="st19" x1="177.7" y1="265.1" x2="177.7" y2="291.8" />
-      <line id="Floor_First_AllowedLine_ce48" class="st19" x1="906" y1="417.6" x2="963.2" y2="417.6" />
-      <line id="Floor_First_AllowedLine_5e5e" class="st19" x1="847" y1="417.6" x2="906" y2="417.6" />
-      <line id="Floor_First_AllowedLine_f73e" class="st19" x1="906" y1="417.7" x2="906" y2="649.2" />
-      <line id="Floor_First_AllowedLine_e2dd" class="st19" x1="906" y1="649.2" x2="963.2" y2="649.2" />
-      <line id="Floor_First_AllowedLine_50c8" class="st19" x1="905.7" y1="649.2" x2="905.7" y2="859.8" />
-      <line id="Floor_First_AllowedLine_f37a" class="st19" x1="847.9" y1="859.8" x2="905.1" y2="859.8" />
-      <line id="Floor_First_AllowedLine_76c1" class="st19" x1="905.7" y1="859.8" x2="905.7" y2="957.4" />
-      <line id="Floor_First_AllowedLine_3af4" class="st19" x1="925.1" y1="1035" x2="905.5" y2="1035" />
-      <line id="Floor_First_AllowedLine_f875" class="st19" x1="1046.9" y1="957.4" x2="905.7" y2="957.4" />
-      <line id="Floor_First_AllowedLine_0f93" class="st19" x1="905.7" y1="957.4" x2="905.7" y2="1035" />
-      <line id="Floor_First_AllowedLine_e9c8" class="st19" x1="1143.3" y1="957.4" x2="1046.9" y2="957.4" />
-      <line id="Floor_First_AllowedLine_4aa0" class="st19" x1="1046.9" y1="993.9" x2="1046.9" y2="957.4" />
-      <line id="Floor_First_AllowedLine_6c86" class="st19" x1="1143.3" y1="993.9" x2="1143.3" y2="957.4" />
-      <line id="Floor_First_AllowedLine_facf" class="st19" x1="1205.6" y1="957.4" x2="1143.3" y2="957.4" />
-      <line id="Floor_First_AllowedLine_2080" class="st19" x1="1205.6" y1="957.4" x2="1205.6" y2="894.2" />
-      <line id="Floor_First_AllowedLine_9e59" class="st19" x1="1339.6" y1="957.4" x2="1205.6" y2="957.4" />
-      <line id="Floor_First_AllowedLine_30b0" class="st19" x1="1384.5" y1="957.4" x2="1384.5" y2="788.1" />
-      <line id="Floor_First_AllowedLine_9dbf" class="st19" x1="1384.5" y1="1034.7" x2="1384.5" y2="957.4" />
-      <line id="Floor_First_AllowedLine_8300" class="st19" x1="1469.9" y1="957.4" x2="1384.5" y2="957.4" />
-      <line id="Floor_First_AllowedLine_9570" class="st19" x1="1491.8" y1="957.4" x2="1491.8" y2="905.1" />
-      <line id="Floor_First_AllowedLine_d041" class="st19" x1="1491.8" y1="957.4" x2="1469.9" y2="957.4" />
-      <line id="Floor_First_AllowedLine_361e" class="st19" x1="1469.9" y1="993.4" x2="1469.9" y2="957.4" />
-      <line id="Floor_First_AllowedLine_96db" class="st19" x1="1557.9" y1="993.4" x2="1557.9" y2="957.4" />
-      <line id="Floor_First_AllowedLine_ef65" class="st19" x1="1557.9" y1="957.4" x2="1491.8" y2="957.4" />
-      <line id="Floor_First_AllowedLine_d36d" class="st19" x1="1718" y1="559.2" x2="1718" y2="506.2" />
-      <line id="Floor_First_AllowedLine_415c" class="st19" x1="1590.8" y1="302.4" x2="1655.1" y2="302.4" />
-      <line id="Floor_First_AllowedLine_7f71" class="st19" x1="1622.9" y1="213.8" x2="1589.2" y2="213.8" />
-      <line id="Floor_First_AllowedLine_f844" class="st19" x1="906" y1="320.9" x2="906" y2="417.6" />
-      <line id="Floor_First_AllowedLine_71e4" class="st19" x1="962.9" y1="321" x2="906" y2="321" />
-      <line id="Floor_First_AllowedLine_f065" class="st19" x1="906" y1="321" x2="847" y2="321" />
-      <line id="Floor_First_AllowedLine_eafd" class="st19" x1="1339.6" y1="1034.6" x2="1339.6" y2="956.6" />
-      <line id="Floor_First_AllowedLine_99f0" class="st19" x1="1384.5" y1="957.4" x2="1339.6" y2="957.4" />
-      <line id="Floor_First_AllowedLine_c3f1" class="st19" x1="1384.5" y1="1085.5" x2="1384.5" y2="1034.6" />
-      <line id="Floor_First_AllowedLine_b720" class="st19" x1="1339.6" y1="1085.5" x2="1339.6" y2="1034.6" />
-      <line id="Floor_First_AllowedLine_46d7" class="st19" x1="1384.5" y1="1117.8" x2="1384.5" y2="1085.5" />
-      <line id="Floor_First_AllowedLine_3978" class="st19" x1="1339.6" y1="1117.8" x2="1339.6" y2="1085.5" />
-      <line id="Floor_First_AllowedLine_1cc3" class="st19" x1="1687.3" y1="213.7" x2="1655.1" y2="213.7" />
-      <line id="Floor_First_AllowedLine_20cf" class="st19" x1="1687.3" y1="213.8" x2="1687.3" y2="91" />
-      <line id="Floor_First_AllowedLine_ed6f" class="st19" x1="1714.3" y1="91" x2="1687.3" y2="91" />
-      <line id="Floor_First_AllowedLine_5c98" class="st19" x1="280.4" y1="1058.1" x2="217.5" y2="1058.1" />
-      <line id="Floor_First_AllowedLine_d00b" class="st19" x1="280.5" y1="1073.7" x2="280.5" y2="1058.1" />
+      <line id="Floor_First_AllowedLine_2f6d" class="st19" x1="906" y1="265.1" x2="963.2" y2="265.1" />
+      <line id="Floor_First_AllowedLine_7282" class="st19" x1="906" y1="265.1" x2="906" y2="320.9" />
+      <line id="Floor_First_AllowedLine_c373" class="st19" x1="722.2" y1="265.1" x2="722.2" y2="285.8" />
+      <line id="Floor_First_AllowedLine_1365" class="st19" x1="847" y1="265.1" x2="906" y2="265.1" />
+      <line id="Floor_First_AllowedLine_c84d" class="st19" x1="509.4" y1="245" x2="509.4" y2="265.1" />
+      <line id="Floor_First_AllowedLine_9db7" class="st19" x1="722.2" y1="265.1" x2="843.7" y2="265.1" />
+      <line id="Floor_First_AllowedLine_a8c6" class="st19" x1="695.6" y1="245.1" x2="695.6" y2="265.1" />
+      <line id="Floor_First_AllowedLine_30e0" class="st19" x1="695.6" y1="265.1" x2="722.2" y2="265.1" />
+      <line id="Floor_First_AllowedLine_e5a5" class="st19" x1="627.1" y1="245.1" x2="627.1" y2="265.1" />
+      <line id="Floor_First_AllowedLine_a376" class="st19" x1="378.8" y1="265.2" x2="378.8" y2="272.3" />
+      <line id="Floor_First_AllowedLine_1c97" class="st19" x1="378.8" y1="244.5" x2="378.8" y2="265.2" />
+      <line id="Floor_First_AllowedLine_fa04" class="st19" x1="509.4" y1="265.1" x2="583.2" y2="265.1" />
+      <line id="Floor_First_AllowedLine_e665" class="st19" x1="331.2" y1="245.1" x2="331.2" y2="265.1" />
+      <line id="Floor_First_AllowedLine_f495" class="st19" x1="378.8" y1="265.2" x2="428.9" y2="265.2" />
+      <line id="Floor_First_AllowedLine_b250" class="st19" x1="331.2" y1="265.1" x2="378.8" y2="265.1" />
+      <line id="Floor_First_AllowedLine_3bdf" class="st19" x1="331.2" y1="265.1" x2="177.7" y2="265.1" />
+      <line id="Floor_First_AllowedLine_5d8a" class="st19" x1="217.5" y1="959.2" x2="217.5" y2="1058.1" />
+      <line id="Floor_First_AllowedLine_d0ff" class="st19" x1="345.7" y1="1058.1" x2="280.4" y2="1058.1" />
+      <line id="Floor_First_AllowedLine_72c4" class="st19" x1="345.7" y1="1020.1" x2="345.7" y2="1058.1" />
+      <line id="Floor_First_AllowedLine_36c4" class="st19" x1="287.3" y1="1177.4" x2="226.7" y2="1177.4" />
+      <line id="Floor_First_AllowedLine_cf00" class="st19" x1="227.1" y1="1177.4" x2="227.1" y2="1198.1" />
+      <line id="Floor_First_AllowedLine_c8fc" class="st19" x1="1009.8" y1="244.5" x2="1009.8" y2="266.7" />
+      <line id="Floor_First_AllowedLine_195f" class="st19" x1="1009.8" y1="266.7" x2="1054.7" y2="266.7" />
+      <line id="Floor_First_AllowedLine_9ffb" class="st19" x1="627.1" y1="265.1" x2="695.6" y2="265.1" />
+      <line id="Floor_First_AllowedLine_11c0" class="st19" x1="226.7" y1="1177.4" x2="198.1" y2="1177.4" />
+      <line id="Floor_First_AllowedLine_9cdf" class="st19" x1="217.5" y1="1058.1" x2="217.5" y2="1177.4" />
+      <line id="Floor_First_AllowedLine_9935" class="st19" x1="287.3" y1="1177.4" x2="287.3" y2="1198.1" />
+      <line id="Floor_First_AllowedLine_a18d" class="st19" x1="886" y1="1020.1" x2="886" y2="1035" />
+      <line id="Floor_First_AllowedLine_a46d" class="st19" x1="829.7" y1="1253.7" x2="805.3" y2="1253.7" />
+      <line id="Floor_First_AllowedLine_bb05" class="st19" x1="886" y1="1020.1" x2="829.7" y2="1020.1" />
+      <line id="Floor_First_AllowedLine_f820" class="st19" x1="1655.1" y1="213.8" x2="1622.9" y2="213.8" />
+      <line id="Floor_First_AllowedLine_7d9e" class="st19" x1="1622.9" y1="213.8" x2="1622.9" y2="151.3" />
+      <line id="Floor_First_AllowedLine_e16e" class="st19" x1="1655.1" y1="302.4" x2="1655.1" y2="213.8" />
+      <line id="Floor_First_AllowedLine_c7d9" class="st19" x1="1655.1" y1="302.4" x2="1718.4" y2="302.4" />
+      <line id="Floor_First_AllowedLine_e070" class="st19" x1="1718" y1="389.6" x2="1718" y2="302.8" />
+      <line id="Floor_First_AllowedLine_2d52" class="st19" x1="1833.6" y1="265" x2="1833.6" y2="302.4" />
+      <line id="Floor_First_AllowedLine_f24d" class="st19" x1="1718.1" y1="302.4" x2="1833.6" y2="302.4" />
+      <line id="Floor_First_AllowedLine_316d" class="st19" x1="1694.6" y1="389" x2="1718" y2="389" />
+      <line id="Floor_First_AllowedLine_27cf" class="st19" x1="1718" y1="439.2" x2="1740.7" y2="439.2" />
+      <line id="Floor_First_AllowedLine_a06f" class="st19" x1="1694.8" y1="506.2" x2="1718" y2="506.2" />
+      <line id="Floor_First_AllowedLine_3bbd" class="st19" x1="1694.6" y1="558.8" x2="1718" y2="558.8" />
+      <line id="Floor_First_AllowedLine_d684" class="st19" x1="1718.4" y1="605.9" x2="1740.9" y2="605.9" />
+      <line id="Floor_First_AllowedLine_a9c1" class="st19" x1="1717.9" y1="666.6" x2="1741.4" y2="666.6" />
+      <line id="Floor_First_AllowedLine_f40a" class="st19" x1="1694.9" y1="714.8" x2="1718" y2="714.8" />
+      <line id="Floor_First_AllowedLine_fc22" class="st19" x1="1695" y1="796.6" x2="1717.5" y2="796.6" />
+      <line id="Floor_First_AllowedLine_fa85" class="st19" x1="1717.5" y1="796.6" x2="1741" y2="796.6" />
+      <line id="Floor_First_AllowedLine_48e4" class="st19" x1="1718" y1="877.6" x2="1741.5" y2="877.6" />
+      <line id="Floor_First_AllowedLine_ad61" class="st19" x1="1694" y1="877.6" x2="1718" y2="877.6" />
+      <line id="Floor_First_AllowedLine_9e51" class="st19" x1="1557.9" y1="957.4" x2="1718" y2="957.4" />
+      <line id="Floor_First_AllowedLine_2481" class="st19" x1="1718" y1="957.4" x2="1814.5" y2="957.4" />
+      <line id="Floor_First_AllowedLine_7c21" class="st19" x1="1694" y1="1032.8" x2="1718" y2="1032.8" />
+      <line id="Floor_First_AllowedLine_2add" class="st19" x1="1718" y1="1032.8" x2="1741.5" y2="1032.8" />
+      <line id="Floor_First_AllowedLine_fb35" class="st19" x1="1693.5" y1="1091.8" x2="1718" y2="1091.8" />
+      <line id="Floor_First_AllowedLine_3ee3" class="st19" x1="1718" y1="1091.8" x2="1741.5" y2="1091.8" />
+      <line id="Floor_First_AllowedLine_38da" class="st19" x1="1718" y1="1175.3" x2="1741.5" y2="1175.3" />
+      <line id="Floor_First_AllowedLine_1f4f" class="st19" x1="1693.9" y1="1255.6" x2="1717.8" y2="1255.6" />
+      <line id="Floor_First_AllowedLine_011a" class="st19" x1="1694" y1="1175.3" x2="1718" y2="1175.3" />
+      <line id="Floor_First_AllowedLine_11da" class="st19" x1="1718.3" y1="1255.6" x2="1741.8" y2="1255.6" />
+      <line id="Floor_First_AllowedLine_0817" class="st19" x1="1718.3" y1="1336.2" x2="1741.8" y2="1336.2" />
+      <line id="Floor_First_AllowedLine_5b11" class="st19" x1="1718" y1="439.2" x2="1718" y2="389" />
+      <line id="Floor_First_AllowedLine_6a08" class="st19" x1="1718" y1="506.2" x2="1718" y2="439.2" />
+      <line id="Floor_First_AllowedLine_34a9" class="st19" x1="1718" y1="605.9" x2="1718" y2="558.8" />
+      <line id="Floor_First_AllowedLine_8462" class="st19" x1="1718" y1="666.6" x2="1718" y2="605.9" />
+      <line id="Floor_First_AllowedLine_ab88" class="st19" x1="1718" y1="714.8" x2="1718" y2="666.7" />
+      <line id="Floor_First_AllowedLine_b8e1" class="st19" x1="1718" y1="796.6" x2="1718" y2="714.8" />
+      <line id="Floor_First_AllowedLine_346c" class="st19" x1="1718" y1="877.6" x2="1718" y2="796.6" />
+      <line id="Floor_First_AllowedLine_1c5f" class="st19" x1="1718" y1="957.4" x2="1718" y2="877.6" />
+      <line id="Floor_First_AllowedLine_37b2" class="st19" x1="1718" y1="1032.8" x2="1718" y2="957.4" />
+      <line id="Floor_First_AllowedLine_082c" class="st19" x1="1718" y1="1091.8" x2="1718" y2="1032.8" />
+      <line id="Floor_First_AllowedLine_8187" class="st19" x1="1718" y1="1175.3" x2="1718" y2="1091.8" />
+      <line id="Floor_First_AllowedLine_3c11" class="st19" x1="1718" y1="1255.6" x2="1718" y2="1175.3" />
+      <line id="Floor_First_AllowedLine_8a7c" class="st19" x1="1718" y1="1336.2" x2="1718" y2="1255.6" />
+      <line id="Floor_First_AllowedLine_c322" class="st19" x1="345.7" y1="1010.1" x2="315.7" y2="1010.1" />
+      <line id="Floor_First_AllowedLine_180a" class="st19" x1="379.8" y1="1058.1" x2="345.7" y2="1058.1" />
+      <line id="Floor_First_AllowedLine_9955" class="st19" x1="463.3" y1="1020.1" x2="345.7" y2="1020.1" />
+      <line id="Floor_First_AllowedLine_419f" class="st19" x1="345.7" y1="1010.1" x2="345.7" y2="1020.3" />
+      <line id="Floor_First_AllowedLine_f998" class="st19" x1="567.5" y1="1020.1" x2="463.3" y2="1020.1" />
+      <line id="Floor_First_AllowedLine_db88" class="st19" x1="829.7" y1="1020.1" x2="618.3" y2="1020.1" />
+      <line id="Floor_First_AllowedLine_2b06" class="st19" x1="618.3" y1="1020.1" x2="567.5" y2="1020.1" />
+      <line id="Floor_First_AllowedLine_afcf" class="st19" x1="463.3" y1="1020.3" x2="463.3" y2="990.7" />
+      <line id="Floor_First_AllowedLine_1832" class="st19" x1="567.5" y1="1051.1" x2="567.5" y2="1020.3" />
+      <line id="Floor_First_AllowedLine_5317" class="st19" x1="618.3" y1="1051.1" x2="618.3" y2="1020.3" />
+      <line id="Floor_First_AllowedLine_6c8b" class="st19" x1="829.7" y1="1253.7" x2="829.7" y2="1020.1" />
+      <line id="Floor_First_AllowedLine_d47f" class="st19" x1="905.7" y1="1035" x2="886" y2="1035" />
+      <line id="Floor_First_AllowedLine_90a6" class="st19" x1="925.3" y1="1035" x2="925.3" y2="1051" />
+      <line id="Floor_First_AllowedLine_7315" class="st19" x1="886" y1="1035" x2="886" y2="1107.4" />
+      <line id="Floor_First_AllowedLine_16c4" class="st19" x1="952.4" y1="1035" x2="925.3" y2="1035" />
+      <line id="Floor_First_AllowedLine_fabe" class="st19" x1="379.8" y1="1073.6" x2="379.8" y2="1058" />
+      <line id="Floor_First_AllowedLine_71d5" class="st19" x1="966" y1="266.7" x2="1009.8" y2="266.7" />
+      <line id="Floor_First_AllowedLine_8f93" class="st19" x1="583.2" y1="265.1" x2="627.1" y2="265.1" />
+      <line id="Floor_First_AllowedLine_88d8" class="st19" x1="583.2" y1="265.4" x2="583.2" y2="285.4" />
+      <line id="Floor_First_AllowedLine_543d" class="st19" x1="481.7" y1="265.1" x2="509.5" y2="265.1" />
+      <line id="Floor_First_AllowedLine_af8b" class="st19" x1="481.7" y1="265.1" x2="481.7" y2="272.3" />
+      <line id="Floor_First_AllowedLine_3bd3" class="st19" x1="428.9" y1="265.1" x2="481.9" y2="265.1" />
+      <line id="Floor_First_AllowedLine_6781" class="st19" x1="428.9" y1="245.1" x2="428.9" y2="265.2" />
+      <line id="Floor_First_AllowedLine_9f75" class="st19" x1="428.9" y1="265.1" x2="428.9" y2="272.3" />
+      <line id="Floor_First_AllowedLine_307b" class="st19" x1="177.7" y1="265.1" x2="177.7" y2="291.8" />
+      <line id="Floor_First_AllowedLine_cdaa" class="st19" x1="906" y1="417.6" x2="963.2" y2="417.6" />
+      <line id="Floor_First_AllowedLine_3b63" class="st19" x1="847" y1="417.6" x2="906" y2="417.6" />
+      <line id="Floor_First_AllowedLine_3f0f" class="st19" x1="906" y1="417.7" x2="906" y2="649.2" />
+      <line id="Floor_First_AllowedLine_6b3e" class="st19" x1="906" y1="649.2" x2="963.2" y2="649.2" />
+      <line id="Floor_First_AllowedLine_4ef3" class="st19" x1="905.7" y1="649.2" x2="905.7" y2="859.8" />
+      <line id="Floor_First_AllowedLine_35e5" class="st19" x1="847.9" y1="859.8" x2="905.1" y2="859.8" />
+      <line id="Floor_First_AllowedLine_cffe" class="st19" x1="905.7" y1="859.8" x2="905.7" y2="957.4" />
+      <line id="Floor_First_AllowedLine_cb10" class="st19" x1="925.1" y1="1035" x2="905.5" y2="1035" />
+      <line id="Floor_First_AllowedLine_28ad" class="st19" x1="1046.9" y1="957.4" x2="905.7" y2="957.4" />
+      <line id="Floor_First_AllowedLine_df9a" class="st19" x1="905.7" y1="957.4" x2="905.7" y2="1035" />
+      <line id="Floor_First_AllowedLine_e61b" class="st19" x1="1143.3" y1="957.4" x2="1046.9" y2="957.4" />
+      <line id="Floor_First_AllowedLine_9705" class="st19" x1="1046.9" y1="993.9" x2="1046.9" y2="957.4" />
+      <line id="Floor_First_AllowedLine_86e0" class="st19" x1="1143.3" y1="993.9" x2="1143.3" y2="957.4" />
+      <line id="Floor_First_AllowedLine_802d" class="st19" x1="1205.6" y1="957.4" x2="1143.3" y2="957.4" />
+      <line id="Floor_First_AllowedLine_e568" class="st19" x1="1205.6" y1="957.4" x2="1205.6" y2="894.2" />
+      <line id="Floor_First_AllowedLine_f136" class="st19" x1="1339.6" y1="957.4" x2="1205.6" y2="957.4" />
+      <line id="Floor_First_AllowedLine_e55f" class="st19" x1="1384.5" y1="957.4" x2="1384.5" y2="788.1" />
+      <line id="Floor_First_AllowedLine_9072" class="st19" x1="1384.5" y1="1034.7" x2="1384.5" y2="957.4" />
+      <line id="Floor_First_AllowedLine_c2a9" class="st19" x1="1469.9" y1="957.4" x2="1384.5" y2="957.4" />
+      <line id="Floor_First_AllowedLine_6d94" class="st19" x1="1491.8" y1="957.4" x2="1491.8" y2="905.1" />
+      <line id="Floor_First_AllowedLine_73f0" class="st19" x1="1491.8" y1="957.4" x2="1469.9" y2="957.4" />
+      <line id="Floor_First_AllowedLine_26aa" class="st19" x1="1469.9" y1="993.4" x2="1469.9" y2="957.4" />
+      <line id="Floor_First_AllowedLine_74a1" class="st19" x1="1557.9" y1="993.4" x2="1557.9" y2="957.4" />
+      <line id="Floor_First_AllowedLine_ac55" class="st19" x1="1557.9" y1="957.4" x2="1491.8" y2="957.4" />
+      <line id="Floor_First_AllowedLine_9def" class="st19" x1="1718" y1="559.2" x2="1718" y2="506.2" />
+      <line id="Floor_First_AllowedLine_ffce" class="st19" x1="1590.8" y1="302.4" x2="1655.1" y2="302.4" />
+      <line id="Floor_First_AllowedLine_08f2" class="st19" x1="1622.9" y1="213.8" x2="1589.2" y2="213.8" />
+      <line id="Floor_First_AllowedLine_a016" class="st19" x1="906" y1="320.9" x2="906" y2="417.6" />
+      <line id="Floor_First_AllowedLine_bb33" class="st19" x1="962.9" y1="321" x2="906" y2="321" />
+      <line id="Floor_First_AllowedLine_9c44" class="st19" x1="906" y1="321" x2="847" y2="321" />
+      <line id="Floor_First_AllowedLine_012f" class="st19" x1="1339.6" y1="1034.6" x2="1339.6" y2="956.6" />
+      <line id="Floor_First_AllowedLine_91c1" class="st19" x1="1384.5" y1="957.4" x2="1339.6" y2="957.4" />
+      <line id="Floor_First_AllowedLine_384d" class="st19" x1="1384.5" y1="1085.5" x2="1384.5" y2="1034.6" />
+      <line id="Floor_First_AllowedLine_a024" class="st19" x1="1339.6" y1="1085.5" x2="1339.6" y2="1034.6" />
+      <line id="Floor_First_AllowedLine_bd84" class="st19" x1="1384.5" y1="1117.8" x2="1384.5" y2="1085.5" />
+      <line id="Floor_First_AllowedLine_8543" class="st19" x1="1339.6" y1="1117.8" x2="1339.6" y2="1085.5" />
+      <line id="Floor_First_AllowedLine_6261" class="st19" x1="1687.3" y1="213.7" x2="1655.1" y2="213.7" />
+      <line id="Floor_First_AllowedLine_bc3d" class="st19" x1="1687.3" y1="213.8" x2="1687.3" y2="91" />
+      <line id="Floor_First_AllowedLine_0e67" class="st19" x1="1714.3" y1="91" x2="1687.3" y2="91" />
+      <line id="Floor_First_AllowedLine_a235" class="st19" x1="280.4" y1="1058.1" x2="217.5" y2="1058.1" />
+      <line id="Floor_First_AllowedLine_9a69" class="st19" x1="280.5" y1="1073.7" x2="280.5" y2="1058.1" />
     </g>
     <g id="Floor_First_Intersections">
-      <circle id="Floor_First_Intersection_b440" class="st20" cx="906" cy="321" r="4.5" />
-      <circle id="Floor_First_Intersection_eb36" class="st20" cx="1009.8" cy="266.7" r="4.5" />
-      <circle id="Floor_First_Intersection_2b50" class="st20" cx="906" cy="417.6" r="4.5" />
-      <circle id="Floor_First_Intersection_d4df" class="st20" cx="906" cy="265.1" r="4.5" />
-      <circle id="Floor_First_Intersection_3b98" class="st20" cx="481.7" cy="264.9" r="4.5" />
-      <circle id="Floor_First_Intersection_c131" class="st20" cx="583.2" cy="264.9" r="4.5" />
-      <circle id="Floor_First_Intersection_bab3" class="st20" cx="627.2" cy="264.1" r="4.5" />
-      <circle id="Floor_First_Intersection_2552" class="st20" cx="695.3" cy="264.6" r="4.5" />
-      <circle id="Floor_First_Intersection_7470" class="st20" cx="722.2" cy="265.1" r="4.5" />
-      <circle id="Floor_First_Intersection_df5b" class="st20" cx="509.5" cy="264.7" r="4.5" />
-      <circle id="Floor_First_Intersection_2a67" class="st20" cx="378.7" cy="264.9" r="4.5" />
-      <circle id="Floor_First_Intersection_04a6" class="st20" cx="331.2" cy="264.8" r="4.5" />
-      <circle id="Floor_First_Intersection_f8c6" class="st20" cx="178.1" cy="265.6" r="4.5" />
-      <circle id="Floor_First_Intersection_6bb6" class="st20" cx="217.4" cy="1177.2" r="2.5" />
-      <circle id="Floor_First_Intersection_0cd5" class="st20" cx="227.1" cy="1177.4" r="2.5" />
-      <circle id="Floor_First_Intersection_276a" class="st20" cx="286.9" cy="1177.2" r="2.2" />
-      <circle id="Floor_First_Intersection_625e" class="st20" cx="428.9" cy="264.7" r="4.5" />
-      <circle id="Floor_First_Intersection_9258" class="st20" cx="1655.1" cy="302.4" r="4.5" />
-      <circle id="Floor_First_Intersection_76bd" class="st20" cx="1655.2" cy="213.7" r="4.5" />
-      <circle id="Floor_First_Intersection_177c" class="st20" cx="1718" cy="302.8" r="4.5" />
-      <circle id="Floor_First_Intersection_ecbe" class="st20" cx="1717.6" cy="389.4" r="4.5" />
-      <circle id="Floor_First_Intersection_d34f" class="st20" cx="1718" cy="439.2" r="4.5" />
-      <circle id="Floor_First_Intersection_fff8" class="st20" cx="1718.1" cy="506.4" r="4.5" />
-      <circle id="Floor_First_Intersection_0140" class="st20" cx="1718.2" cy="558.9" r="4.5" />
-      <circle id="Floor_First_Intersection_b6f3" class="st20" cx="1718.6" cy="605.7" r="4.5" />
-      <circle id="Floor_First_Intersection_3d47" class="st20" cx="1718.4" cy="666" r="4.5" />
-      <circle id="Floor_First_Intersection_df23" class="st20" cx="1718.2" cy="715.1" r="4.5" />
-      <circle id="Floor_First_Intersection_80dc" class="st20" cx="1718.4" cy="796.6" r="4.5" />
-      <circle id="Floor_First_Intersection_2ba6" class="st20" cx="1717.6" cy="877.7" r="4.5" />
-      <circle id="Floor_First_Intersection_4f29" class="st20" cx="1718.4" cy="957.3" r="4.5" />
-      <circle id="Floor_First_Intersection_92f9" class="st20" cx="1718" cy="1033.6" r="4.5" />
-      <circle id="Floor_First_Intersection_888a" class="st20" cx="1717.8" cy="1091.5" r="4.5" />
-      <circle id="Floor_First_Intersection_d412" class="st20" cx="1718.1" cy="1175" r="4.5" />
-      <circle id="Floor_First_Intersection_d311" class="st20" cx="1718" cy="1255.4" r="4.5" />
-      <circle id="Floor_First_Intersection_6312" class="st20" cx="1718.2" cy="1335.4" r="4.5" />
-      <circle id="Floor_First_Intersection_99e3" class="st20" cx="906" cy="649.2" r="4.5" />
-      <circle id="Floor_First_Intersection_f527" class="st20" cx="905.5" cy="859.8" r="4.5" />
-      <circle id="Floor_First_Intersection_6572" class="st20" cx="906" cy="957.4" r="4.5" />
-      <circle id="Floor_First_Intersection_61e9" class="st20" cx="1047" cy="957.5" r="4.5" />
-      <circle id="Floor_First_Intersection_eb90" class="st20" cx="1143.2" cy="957.5" r="4.5" />
-      <circle id="Floor_First_Intersection_2322" class="st20" cx="1205.6" cy="956.2" r="4.5" />
-      <circle id="Floor_First_Intersection_7e6d" class="st20" cx="1384.5" cy="957.4" r="4.5" />
-      <circle id="Floor_First_Intersection_695e" class="st20" cx="1469.9" cy="957.4" r="4.5" />
-      <circle id="Floor_First_Intersection_00ae" class="st20" cx="1491.9" cy="957.5" r="4.5" />
-      <circle id="Floor_First_Intersection_5923" class="st20" cx="1557.9" cy="958.9" r="4.5" />
-      <circle id="Floor_First_Intersection_3d1b" class="st20" cx="1833.9" cy="302.4" r="4.5" />
-      <circle id="Floor_First_Intersection_8b2a" class="st20" cx="1623" cy="213.1" r="4.5" />
-      <circle id="Floor_First_Intersection_8b41" class="st20" cx="925.7" cy="1035.2" r="4.5" />
-      <circle id="Floor_First_Intersection_1a9d" class="st20" cx="905.6" cy="1035" r="4.5" />
-      <circle id="Floor_First_Intersection_ee8f" class="st20" cx="886" cy="1034.9" r="4.5" />
-      <circle id="Floor_First_Intersection_e7b5" class="st20" cx="886" cy="1020.3" r="4.5" />
-      <circle id="Floor_First_Intersection_c993" class="st20" cx="829.6" cy="1020.1" r="4.5" />
-      <circle id="Floor_First_Intersection_41db" class="st20" cx="829.8" cy="1253.2" r="4.5" />
-      <circle id="Floor_First_Intersection_5b3f" class="st20" cx="618.4" cy="1020.2" r="4.5" />
-      <circle id="Floor_First_Intersection_a4eb" class="st20" cx="567.5" cy="1020.2" r="4.5" />
-      <circle id="Floor_First_Intersection_970c" class="st20" cx="463.2" cy="1020.2" r="4.5" />
-      <circle id="Floor_First_Intersection_c655" class="st20" cx="346.2" cy="1020.4" r="4.5" />
-      <circle id="Floor_First_Intersection_d26a" class="st20" cx="345.4" cy="1010.2" r="2.5" />
-      <circle id="Floor_First_Intersection_5403" class="st20" cx="379.7" cy="1058" r="2.5" />
-      <circle id="Floor_First_Intersection_883b" class="st20" cx="346.2" cy="1058.8" r="4.5" />
-      <circle id="Floor_First_Intersection_3977" class="st20" cx="217.6" cy="1057.7" r="4.5" />
-      <circle id="Floor_First_Intersection_4743" class="st20" cx="1339.6" cy="957.4" r="4.5" />
-      <circle id="Floor_First_Intersection_50d1" class="st20" cx="1687.3" cy="91" r="4.5" />
-      <circle id="Floor_First_Intersection_4174" class="st20" cx="1687.3" cy="213.8" r="4.5" />
-      <circle id="Floor_First_Intersection_3127" class="st20" cx="280.5" cy="1058.1" r="4.5" />
+      <circle id="Floor_First_Intersection_e8d6" class="st20" cx="906" cy="321" r="4.5" />
+      <circle id="Floor_First_Intersection_b5a7" class="st20" cx="1009.8" cy="266.7" r="4.5" />
+      <circle id="Floor_First_Intersection_227d" class="st20" cx="906" cy="417.6" r="4.5" />
+      <circle id="Floor_First_Intersection_4962" class="st20" cx="906" cy="265.1" r="4.5" />
+      <circle id="Floor_First_Intersection_ddc7" class="st20" cx="481.7" cy="264.9" r="4.5" />
+      <circle id="Floor_First_Intersection_b435" class="st20" cx="583.2" cy="264.9" r="4.5" />
+      <circle id="Floor_First_Intersection_a718" class="st20" cx="627.2" cy="264.1" r="4.5" />
+      <circle id="Floor_First_Intersection_7c79" class="st20" cx="695.3" cy="264.6" r="4.5" />
+      <circle id="Floor_First_Intersection_8b2a" class="st20" cx="722.2" cy="265.1" r="4.5" />
+      <circle id="Floor_First_Intersection_af85" class="st20" cx="509.5" cy="264.7" r="4.5" />
+      <circle id="Floor_First_Intersection_a5b7" class="st20" cx="378.7" cy="264.9" r="4.5" />
+      <circle id="Floor_First_Intersection_9cf6" class="st20" cx="331.2" cy="264.8" r="4.5" />
+      <circle id="Floor_First_Intersection_0b95" class="st20" cx="178.1" cy="265.6" r="4.5" />
+      <circle id="Floor_First_Intersection_1378" class="st20" cx="217.4" cy="1177.2" r="2.5" />
+      <circle id="Floor_First_Intersection_dd37" class="st20" cx="227.1" cy="1177.4" r="2.5" />
+      <circle id="Floor_First_Intersection_61a6" class="st20" cx="286.9" cy="1177.2" r="2.2" />
+      <circle id="Floor_First_Intersection_bae5" class="st20" cx="428.9" cy="264.7" r="4.5" />
+      <circle id="Floor_First_Intersection_f6a5" class="st20" cx="1655.1" cy="302.4" r="4.5" />
+      <circle id="Floor_First_Intersection_532e" class="st20" cx="1655.2" cy="213.7" r="4.5" />
+      <circle id="Floor_First_Intersection_3973" class="st20" cx="1718" cy="302.8" r="4.5" />
+      <circle id="Floor_First_Intersection_24b1" class="st20" cx="1717.6" cy="389.4" r="4.5" />
+      <circle id="Floor_First_Intersection_bc65" class="st20" cx="1718" cy="439.2" r="4.5" />
+      <circle id="Floor_First_Intersection_fc98" class="st20" cx="1718.1" cy="506.4" r="4.5" />
+      <circle id="Floor_First_Intersection_47a4" class="st20" cx="1718.2" cy="558.9" r="4.5" />
+      <circle id="Floor_First_Intersection_5ef0" class="st20" cx="1718.6" cy="605.7" r="4.5" />
+      <circle id="Floor_First_Intersection_5ab6" class="st20" cx="1718.4" cy="666" r="4.5" />
+      <circle id="Floor_First_Intersection_e548" class="st20" cx="1718.2" cy="715.1" r="4.5" />
+      <circle id="Floor_First_Intersection_0b52" class="st20" cx="1718.4" cy="796.6" r="4.5" />
+      <circle id="Floor_First_Intersection_94c2" class="st20" cx="1717.6" cy="877.7" r="4.5" />
+      <circle id="Floor_First_Intersection_fa64" class="st20" cx="1718.4" cy="957.3" r="4.5" />
+      <circle id="Floor_First_Intersection_6c7a" class="st20" cx="1718" cy="1033.6" r="4.5" />
+      <circle id="Floor_First_Intersection_b15f" class="st20" cx="1717.8" cy="1091.5" r="4.5" />
+      <circle id="Floor_First_Intersection_cf18" class="st20" cx="1718.1" cy="1175" r="4.5" />
+      <circle id="Floor_First_Intersection_6838" class="st20" cx="1718" cy="1255.4" r="4.5" />
+      <circle id="Floor_First_Intersection_5155" class="st20" cx="1718.2" cy="1335.4" r="4.5" />
+      <circle id="Floor_First_Intersection_b25d" class="st20" cx="906" cy="649.2" r="4.5" />
+      <circle id="Floor_First_Intersection_ca81" class="st20" cx="905.5" cy="859.8" r="4.5" />
+      <circle id="Floor_First_Intersection_fffb" class="st20" cx="906" cy="957.4" r="4.5" />
+      <circle id="Floor_First_Intersection_acfe" class="st20" cx="1047" cy="957.5" r="4.5" />
+      <circle id="Floor_First_Intersection_c3fb" class="st20" cx="1143.2" cy="957.5" r="4.5" />
+      <circle id="Floor_First_Intersection_7a94" class="st20" cx="1205.6" cy="956.2" r="4.5" />
+      <circle id="Floor_First_Intersection_e6cf" class="st20" cx="1384.5" cy="957.4" r="4.5" />
+      <circle id="Floor_First_Intersection_78da" class="st20" cx="1469.9" cy="957.4" r="4.5" />
+      <circle id="Floor_First_Intersection_7c4c" class="st20" cx="1491.9" cy="957.5" r="4.5" />
+      <circle id="Floor_First_Intersection_5739" class="st20" cx="1557.9" cy="958.9" r="4.5" />
+      <circle id="Floor_First_Intersection_d6e3" class="st20" cx="1833.9" cy="302.4" r="4.5" />
+      <circle id="Floor_First_Intersection_fe22" class="st20" cx="1623" cy="213.1" r="4.5" />
+      <circle id="Floor_First_Intersection_f4ba" class="st20" cx="925.7" cy="1035.2" r="4.5" />
+      <circle id="Floor_First_Intersection_f0f5" class="st20" cx="905.6" cy="1035" r="4.5" />
+      <circle id="Floor_First_Intersection_83f4" class="st20" cx="886" cy="1034.9" r="4.5" />
+      <circle id="Floor_First_Intersection_140a" class="st20" cx="886" cy="1020.3" r="4.5" />
+      <circle id="Floor_First_Intersection_1d7d" class="st20" cx="829.6" cy="1020.1" r="4.5" />
+      <circle id="Floor_First_Intersection_aaef" class="st20" cx="829.8" cy="1253.2" r="4.5" />
+      <circle id="Floor_First_Intersection_316d" class="st20" cx="618.4" cy="1020.2" r="4.5" />
+      <circle id="Floor_First_Intersection_3775" class="st20" cx="567.5" cy="1020.2" r="4.5" />
+      <circle id="Floor_First_Intersection_5b54" class="st20" cx="463.2" cy="1020.2" r="4.5" />
+      <circle id="Floor_First_Intersection_c63a" class="st20" cx="346.2" cy="1020.4" r="4.5" />
+      <circle id="Floor_First_Intersection_87a5" class="st20" cx="345.4" cy="1010.2" r="2.5" />
+      <circle id="Floor_First_Intersection_3807" class="st20" cx="379.7" cy="1058" r="2.5" />
+      <circle id="Floor_First_Intersection_1260" class="st20" cx="346.2" cy="1058.8" r="4.5" />
+      <circle id="Floor_First_Intersection_75af" class="st20" cx="217.6" cy="1057.7" r="4.5" />
+      <circle id="Floor_First_Intersection_592e" class="st20" cx="1339.6" cy="957.4" r="4.5" />
+      <circle id="Floor_First_Intersection_0e43" class="st20" cx="1687.3" cy="91" r="4.5" />
+      <circle id="Floor_First_Intersection_5618" class="st20" cx="1687.3" cy="213.8" r="4.5" />
+      <circle id="Floor_First_Intersection_8058" class="st20" cx="280.5" cy="1058.1" r="4.5" />
     </g>
     <g id="Floor_First_Doors">
       <rect id="Floor_First_Door_Stairs_Second_1" class="st16" x="844" y="304.2" width="3" height="33.6" />
@@ -914,172 +914,172 @@
       <rect id="Floor_Second_Door_Office_202-2_2" class="st16" x="801.8" y="1443" width="3" height="20" />
     </g>
     <g id="Floor_Second_AllowedLines">
-      <line id="Floor_Second_AllowedLine_0643" class="st19" x1="994.7" y1="259.5" x2="1058.7" y2="259.5" />
-      <line id="Floor_Second_AllowedLine_e424" class="st19" x1="994.7" y1="242.3" x2="994.7" y2="259.1" />
-      <line id="Floor_Second_AllowedLine_5480" class="st19" x1="895" y1="259.5" x2="994.7" y2="259.5" />
-      <line id="Floor_Second_AllowedLine_9ecd" class="st19" x1="895" y1="259.5" x2="895" y2="320.3" />
-      <line id="Floor_Second_AllowedLine_ff92" class="st19" x1="814.6" y1="242.5" x2="814.6" y2="259.5" />
-      <line id="Floor_Second_AllowedLine_fd47" class="st19" x1="963.6" y1="320.3" x2="895.5" y2="320.3" />
-      <line id="Floor_Second_AllowedLine_49c3" class="st19" x1="895.5" y1="320.3" x2="847.2" y2="320.3" />
-      <line id="Floor_Second_AllowedLine_9527" class="st19" x1="814.6" y1="259.5" x2="895" y2="259.5" />
-      <line id="Floor_Second_AllowedLine_de17" class="st19" x1="541.8" y1="242.5" x2="541.8" y2="259.5" />
-      <line id="Floor_Second_AllowedLine_13f2" class="st19" x1="678.4" y1="259.5" x2="814.6" y2="259.5" />
-      <line id="Floor_Second_AllowedLine_837c" class="st19" x1="678.4" y1="259.5" x2="678.4" y2="284.3" />
-      <line id="Floor_Second_AllowedLine_b019" class="st19" x1="596.1" y1="259.5" x2="678.4" y2="259.5" />
-      <line id="Floor_Second_AllowedLine_93a8" class="st19" x1="596.1" y1="242.4" x2="596.1" y2="259.5" />
-      <line id="Floor_Second_AllowedLine_7dea" class="st19" x1="394.9" y1="259.5" x2="394.9" y2="320.3" />
-      <line id="Floor_Second_AllowedLine_02ac" class="st19" x1="394.9" y1="240.8" x2="394.9" y2="259.5" />
-      <line id="Floor_Second_AllowedLine_ea9b" class="st19" x1="394.9" y1="259.5" x2="541.8" y2="259.5" />
-      <line id="Floor_Second_AllowedLine_2a49" class="st19" x1="339.7" y1="242.3" x2="339.7" y2="259.5" />
-      <line id="Floor_Second_AllowedLine_5d3a" class="st19" x1="339.7" y1="259.5" x2="394.9" y2="259.5" />
-      <line id="Floor_Second_AllowedLine_fc2b" class="st19" x1="227.5" y1="259.5" x2="339.7" y2="259.5" />
-      <line id="Floor_Second_AllowedLine_4824" class="st19" x1="227.5" y1="259.5" x2="227.5" y2="367.6" />
-      <line id="Floor_Second_AllowedLine_76fb" class="st19" x1="227.5" y1="259.5" x2="198.7" y2="259.5" />
-      <line id="Floor_Second_AllowedLine_4be8" class="st19" x1="227.5" y1="367.5" x2="227.5" y2="498.7" />
-      <line id="Floor_Second_AllowedLine_80fc" class="st19" x1="227.5" y1="498.7" x2="227.5" y2="525" />
-      <line id="Floor_Second_AllowedLine_299e" class="st19" x1="227.5" y1="525" x2="194.7" y2="525" />
-      <line id="Floor_Second_AllowedLine_5731" class="st19" x1="250.7" y1="498.7" x2="227.5" y2="498.7" />
-      <line id="Floor_Second_AllowedLine_a9bc" class="st19" x1="227.5" y1="525" x2="227.5" y2="620.8" />
-      <line id="Floor_Second_AllowedLine_4807" class="st19" x1="251.3" y1="620.8" x2="227.5" y2="620.8" />
-      <line id="Floor_Second_AllowedLine_6215" class="st19" x1="227.5" y1="620.8" x2="227.5" y2="690.8" />
-      <line id="Floor_Second_AllowedLine_aed2" class="st19" x1="227.5" y1="690.8" x2="198.8" y2="690.8" />
-      <line id="Floor_Second_AllowedLine_78c6" class="st19" x1="227.5" y1="690.8" x2="227.5" y2="863.3" />
-      <line id="Floor_Second_AllowedLine_5fb7" class="st19" x1="227.9" y1="1156" x2="196.5" y2="1156" />
-      <line id="Floor_Second_AllowedLine_0ce9" class="st19" x1="227.1" y1="863.3" x2="198.2" y2="863.3" />
-      <line id="Floor_Second_AllowedLine_1dd6" class="st19" x1="227.5" y1="863.3" x2="227.5" y2="994.7" />
-      <line id="Floor_Second_AllowedLine_d2fc" class="st19" x1="280.5" y1="994.7" x2="227.5" y2="994.7" />
-      <line id="Floor_Second_AllowedLine_6cbc" class="st19" x1="280.5" y1="994.3" x2="280.5" y2="1074" />
-      <line id="Floor_Second_AllowedLine_a107" class="st19" x1="227.5" y1="994.7" x2="227.5" y2="1156" />
-      <line id="Floor_Second_AllowedLine_6203" class="st19" x1="283.3" y1="1178.5" x2="227.1" y2="1178.5" />
-      <line id="Floor_Second_AllowedLine_fac4" class="st19" x1="227.5" y1="1178.5" x2="227.5" y2="1185.6" />
-      <line id="Floor_Second_AllowedLine_d639" class="st19" x1="227.5" y1="1185.6" x2="227.5" y2="1199.2" />
-      <line id="Floor_Second_AllowedLine_bed1" class="st19" x1="227.2" y1="368" x2="196.2" y2="368" />
-      <line id="Floor_Second_AllowedLine_882a" class="st19" x1="1058.7" y1="242.3" x2="1058.7" y2="259.5" />
-      <line id="Floor_Second_AllowedLine_bd9d" class="st19" x1="1058.7" y1="259.5" x2="1098.4" y2="259.5" />
-      <line id="Floor_Second_AllowedLine_5b56" class="st19" x1="541.8" y1="259.5" x2="596.1" y2="259.5" />
-      <line id="Floor_Second_AllowedLine_853c" class="st19" x1="227.5" y1="1185.6" x2="196.5" y2="1185.6" />
-      <line id="Floor_Second_AllowedLine_15cf" class="st19" x1="227.5" y1="1156" x2="227.5" y2="1178.5" />
-      <line id="Floor_Second_AllowedLine_ab90" class="st19" x1="283.3" y1="1178.5" x2="283.3" y2="1196.9" />
-      <line id="Floor_Second_AllowedLine_8cb6" class="st19" x1="509.8" y1="320.3" x2="394.9" y2="320.3" />
-      <line id="Floor_Second_AllowedLine_13fa" class="st19" x1="885.6" y1="1199.7" x2="885.6" y2="1217.2" />
-      <line id="Floor_Second_AllowedLine_26c8" class="st19" x1="854.8" y1="1217.2" x2="805.3" y2="1217.2" />
-      <line id="Floor_Second_AllowedLine_698b" class="st19" x1="885.6" y1="1217.2" x2="854.9" y2="1217.2" />
-      <line id="Floor_Second_AllowedLine_dce8" class="st19" x1="854.8" y1="1347.9" x2="854.8" y2="1217.2" />
-      <line id="Floor_Second_AllowedLine_bfca" class="st19" x1="1417.9" y1="255.2" x2="1442.4" y2="255.2" />
-      <line id="Floor_Second_AllowedLine_5306" class="st19" x1="1442.4" y1="232" x2="1442.4" y2="255.2" />
-      <line id="Floor_Second_AllowedLine_3def" class="st19" x1="1442.4" y1="255.2" x2="1556.5" y2="255.2" />
-      <line id="Floor_Second_AllowedLine_f335" class="st19" x1="1556.5" y1="255.2" x2="1556.5" y2="276.4" />
-      <line id="Floor_Second_AllowedLine_2062" class="st19" x1="1566.5" y1="232.4" x2="1566.5" y2="255.2" />
-      <line id="Floor_Second_AllowedLine_be55" class="st19" x1="1566.5" y1="255.2" x2="1556" y2="255.2" />
-      <line id="Floor_Second_AllowedLine_bf47" class="st19" x1="1624.7" y1="255.2" x2="1566.5" y2="255.2" />
-      <line id="Floor_Second_AllowedLine_6b46" class="st19" x1="1624.7" y1="255.2" x2="1624.7" y2="150.1" />
-      <line id="Floor_Second_AllowedLine_19f8" class="st19" x1="1624.7" y1="292" x2="1624.7" y2="255.2" />
-      <line id="Floor_Second_AllowedLine_02c3" class="st19" x1="1624.7" y1="292" x2="1718.4" y2="292" />
-      <line id="Floor_Second_AllowedLine_0b7f" class="st19" x1="1718.4" y1="341.1" x2="1718.4" y2="292" />
-      <line id="Floor_Second_AllowedLine_9c2d" class="st19" x1="1718.4" y1="292" x2="1740.9" y2="292" />
-      <line id="Floor_Second_AllowedLine_8232" class="st19" x1="1718.4" y1="341.1" x2="1740.9" y2="341.1" />
-      <line id="Floor_Second_AllowedLine_f5fb" class="st19" x1="1718.2" y1="390.1" x2="1740.7" y2="390.1" />
-      <line id="Floor_Second_AllowedLine_43f9" class="st19" x1="1694.4" y1="475.9" x2="1718.4" y2="475.9" />
-      <line id="Floor_Second_AllowedLine_d8b4" class="st19" x1="1718.2" y1="517.4" x2="1740.7" y2="517.4" />
-      <line id="Floor_Second_AllowedLine_b56c" class="st19" x1="1718.2" y1="561.8" x2="1740.7" y2="561.8" />
-      <line id="Floor_Second_AllowedLine_6dde" class="st19" x1="1718" y1="610.8" x2="1740.5" y2="610.8" />
-      <line id="Floor_Second_AllowedLine_ff25" class="st19" x1="1694.9" y1="635.1" x2="1718.4" y2="635.1" />
-      <line id="Floor_Second_AllowedLine_9f98" class="st19" x1="1694.9" y1="705.9" x2="1718.4" y2="705.9" />
-      <line id="Floor_Second_AllowedLine_39db" class="st19" x1="1718.4" y1="786.9" x2="1740.9" y2="786.9" />
-      <line id="Floor_Second_AllowedLine_1f54" class="st19" x1="1718.4" y1="828" x2="1741.9" y2="828" />
-      <line id="Floor_Second_AllowedLine_57de" class="st19" x1="1718.4" y1="877.7" x2="1741.9" y2="877.7" />
-      <line id="Floor_Second_AllowedLine_943d" class="st19" x1="1694.4" y1="907.8" x2="1718.4" y2="907.8" />
-      <line id="Floor_Second_AllowedLine_39be" class="st19" x1="1692.9" y1="958.5" x2="1718.4" y2="958.5" />
-      <line id="Floor_Second_AllowedLine_5541" class="st19" x1="1718.4" y1="958.5" x2="1814.9" y2="958.5" />
-      <line id="Floor_Second_AllowedLine_567f" class="st19" x1="1694.4" y1="1010.5" x2="1718.4" y2="1010.5" />
-      <line id="Floor_Second_AllowedLine_c1e5" class="st19" x1="1718.4" y1="1030.9" x2="1741.9" y2="1030.9" />
-      <line id="Floor_Second_AllowedLine_d9ac" class="st19" x1="1718.4" y1="1065.1" x2="1741.9" y2="1065.1" />
-      <line id="Floor_Second_AllowedLine_372d" class="st19" x1="1718.4" y1="1099.2" x2="1741.9" y2="1099.2" />
-      <line id="Floor_Second_AllowedLine_8f95" class="st19" x1="1718.4" y1="1146" x2="1741.9" y2="1146" />
-      <line id="Floor_Second_AllowedLine_cac5" class="st19" x1="1718.4" y1="1196.5" x2="1741.9" y2="1196.5" />
-      <line id="Floor_Second_AllowedLine_df3f" class="st19" x1="1694.4" y1="1173.2" x2="1718.4" y2="1173.2" />
-      <line id="Floor_Second_AllowedLine_2511" class="st19" x1="1694.4" y1="1216.5" x2="1718.4" y2="1216.5" />
-      <line id="Floor_Second_AllowedLine_d151" class="st19" x1="1718.4" y1="1249.7" x2="1741.9" y2="1249.7" />
-      <line id="Floor_Second_AllowedLine_31f5" class="st19" x1="1718.4" y1="1298.3" x2="1741.9" y2="1298.3" />
-      <line id="Floor_Second_AllowedLine_1565" class="st19" x1="1718.4" y1="390.1" x2="1718.4" y2="341.1" />
-      <line id="Floor_Second_AllowedLine_8878" class="st19" x1="1718.4" y1="475.9" x2="1718.4" y2="390" />
-      <line id="Floor_Second_AllowedLine_af00" class="st19" x1="1718.4" y1="517.4" x2="1718.4" y2="475.9" />
-      <line id="Floor_Second_AllowedLine_20f1" class="st19" x1="1718.4" y1="561.8" x2="1718.4" y2="517.4" />
-      <line id="Floor_Second_AllowedLine_0add" class="st19" x1="1718.4" y1="610.9" x2="1718.4" y2="561.8" />
-      <line id="Floor_Second_AllowedLine_8b42" class="st19" x1="1718.4" y1="635.3" x2="1718.4" y2="610.9" />
-      <line id="Floor_Second_AllowedLine_dad8" class="st19" x1="1718.4" y1="705.9" x2="1718.4" y2="635.1" />
-      <line id="Floor_Second_AllowedLine_8491" class="st19" x1="1718.4" y1="786.9" x2="1718.4" y2="705.1" />
-      <line id="Floor_Second_AllowedLine_c8fe" class="st19" x1="1718.4" y1="828.1" x2="1718.4" y2="786.9" />
-      <line id="Floor_Second_AllowedLine_6dd5" class="st19" x1="1718.4" y1="877.7" x2="1718.4" y2="828" />
-      <line id="Floor_Second_AllowedLine_6a1b" class="st19" x1="1718.4" y1="907.8" x2="1718.4" y2="877.7" />
-      <line id="Floor_Second_AllowedLine_49e9" class="st19" x1="1718.4" y1="958.5" x2="1718.4" y2="907.8" />
-      <line id="Floor_Second_AllowedLine_edd8" class="st19" x1="1718.4" y1="1010.5" x2="1718.4" y2="958.5" />
-      <line id="Floor_Second_AllowedLine_8ef7" class="st19" x1="1718.4" y1="1030.9" x2="1718.4" y2="1010.5" />
-      <line id="Floor_Second_AllowedLine_1309" class="st19" x1="1718.4" y1="1065.1" x2="1718.4" y2="1030.9" />
-      <line id="Floor_Second_AllowedLine_4b33" class="st19" x1="1718.4" y1="1099.2" x2="1718.4" y2="1065" />
-      <line id="Floor_Second_AllowedLine_be81" class="st19" x1="1718.4" y1="1146" x2="1718.4" y2="1099.2" />
-      <line id="Floor_Second_AllowedLine_333a" class="st19" x1="1718.4" y1="1173.3" x2="1718.4" y2="1146" />
-      <line id="Floor_Second_AllowedLine_fabe" class="st19" x1="1718.4" y1="1196.5" x2="1718.4" y2="1173.3" />
-      <line id="Floor_Second_AllowedLine_29cf" class="st19" x1="1718.4" y1="1216.5" x2="1718.4" y2="1196.5" />
-      <line id="Floor_Second_AllowedLine_e1e1" class="st19" x1="1718.4" y1="1249.7" x2="1718.4" y2="1216.5" />
-      <line id="Floor_Second_AllowedLine_fc52" class="st19" x1="1718.4" y1="1298.3" x2="1718.4" y2="1249.7" />
+      <line id="Floor_Second_AllowedLine_142d" class="st19" x1="994.7" y1="259.5" x2="1058.7" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_1b44" class="st19" x1="994.7" y1="242.3" x2="994.7" y2="259.1" />
+      <line id="Floor_Second_AllowedLine_6c09" class="st19" x1="895" y1="259.5" x2="994.7" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_9df8" class="st19" x1="895" y1="259.5" x2="895" y2="320.3" />
+      <line id="Floor_Second_AllowedLine_0a96" class="st19" x1="814.6" y1="242.5" x2="814.6" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_6b33" class="st19" x1="963.6" y1="320.3" x2="895.5" y2="320.3" />
+      <line id="Floor_Second_AllowedLine_ab70" class="st19" x1="895.5" y1="320.3" x2="847.2" y2="320.3" />
+      <line id="Floor_Second_AllowedLine_cb05" class="st19" x1="814.6" y1="259.5" x2="895" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_c2cc" class="st19" x1="541.8" y1="242.5" x2="541.8" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_ff88" class="st19" x1="678.4" y1="259.5" x2="814.6" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_c145" class="st19" x1="678.4" y1="259.5" x2="678.4" y2="284.3" />
+      <line id="Floor_Second_AllowedLine_f66c" class="st19" x1="596.1" y1="259.5" x2="678.4" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_03bd" class="st19" x1="596.1" y1="242.4" x2="596.1" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_a55e" class="st19" x1="394.9" y1="259.5" x2="394.9" y2="320.3" />
+      <line id="Floor_Second_AllowedLine_18a4" class="st19" x1="394.9" y1="240.8" x2="394.9" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_1aa1" class="st19" x1="394.9" y1="259.5" x2="541.8" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_35cf" class="st19" x1="339.7" y1="242.3" x2="339.7" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_b789" class="st19" x1="339.7" y1="259.5" x2="394.9" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_67ce" class="st19" x1="227.5" y1="259.5" x2="339.7" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_4697" class="st19" x1="227.5" y1="259.5" x2="227.5" y2="367.6" />
+      <line id="Floor_Second_AllowedLine_abb5" class="st19" x1="227.5" y1="259.5" x2="198.7" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_5e1b" class="st19" x1="227.5" y1="367.5" x2="227.5" y2="498.7" />
+      <line id="Floor_Second_AllowedLine_8e13" class="st19" x1="227.5" y1="498.7" x2="227.5" y2="525" />
+      <line id="Floor_Second_AllowedLine_757f" class="st19" x1="227.5" y1="525" x2="194.7" y2="525" />
+      <line id="Floor_Second_AllowedLine_3570" class="st19" x1="250.7" y1="498.7" x2="227.5" y2="498.7" />
+      <line id="Floor_Second_AllowedLine_330f" class="st19" x1="227.5" y1="525" x2="227.5" y2="620.8" />
+      <line id="Floor_Second_AllowedLine_6528" class="st19" x1="251.3" y1="620.8" x2="227.5" y2="620.8" />
+      <line id="Floor_Second_AllowedLine_40b9" class="st19" x1="227.5" y1="620.8" x2="227.5" y2="690.8" />
+      <line id="Floor_Second_AllowedLine_da6b" class="st19" x1="227.5" y1="690.8" x2="198.8" y2="690.8" />
+      <line id="Floor_Second_AllowedLine_8966" class="st19" x1="227.5" y1="690.8" x2="227.5" y2="863.3" />
+      <line id="Floor_Second_AllowedLine_ccc7" class="st19" x1="227.9" y1="1156" x2="196.5" y2="1156" />
+      <line id="Floor_Second_AllowedLine_3130" class="st19" x1="227.1" y1="863.3" x2="198.2" y2="863.3" />
+      <line id="Floor_Second_AllowedLine_93eb" class="st19" x1="227.5" y1="863.3" x2="227.5" y2="994.7" />
+      <line id="Floor_Second_AllowedLine_45cf" class="st19" x1="280.5" y1="994.7" x2="227.5" y2="994.7" />
+      <line id="Floor_Second_AllowedLine_f5aa" class="st19" x1="280.5" y1="994.3" x2="280.5" y2="1074" />
+      <line id="Floor_Second_AllowedLine_a732" class="st19" x1="227.5" y1="994.7" x2="227.5" y2="1156" />
+      <line id="Floor_Second_AllowedLine_4f2c" class="st19" x1="283.3" y1="1178.5" x2="227.1" y2="1178.5" />
+      <line id="Floor_Second_AllowedLine_44d6" class="st19" x1="227.5" y1="1178.5" x2="227.5" y2="1185.6" />
+      <line id="Floor_Second_AllowedLine_8e58" class="st19" x1="227.5" y1="1185.6" x2="227.5" y2="1199.2" />
+      <line id="Floor_Second_AllowedLine_cc56" class="st19" x1="227.2" y1="368" x2="196.2" y2="368" />
+      <line id="Floor_Second_AllowedLine_e9bc" class="st19" x1="1058.7" y1="242.3" x2="1058.7" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_90fa" class="st19" x1="1058.7" y1="259.5" x2="1098.4" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_0db2" class="st19" x1="541.8" y1="259.5" x2="596.1" y2="259.5" />
+      <line id="Floor_Second_AllowedLine_ff46" class="st19" x1="227.5" y1="1185.6" x2="196.5" y2="1185.6" />
+      <line id="Floor_Second_AllowedLine_bfba" class="st19" x1="227.5" y1="1156" x2="227.5" y2="1178.5" />
+      <line id="Floor_Second_AllowedLine_3cbb" class="st19" x1="283.3" y1="1178.5" x2="283.3" y2="1196.9" />
+      <line id="Floor_Second_AllowedLine_f4af" class="st19" x1="509.8" y1="320.3" x2="394.9" y2="320.3" />
+      <line id="Floor_Second_AllowedLine_60ed" class="st19" x1="885.6" y1="1199.7" x2="885.6" y2="1217.2" />
+      <line id="Floor_Second_AllowedLine_c747" class="st19" x1="854.8" y1="1217.2" x2="805.3" y2="1217.2" />
+      <line id="Floor_Second_AllowedLine_ffac" class="st19" x1="885.6" y1="1217.2" x2="854.9" y2="1217.2" />
+      <line id="Floor_Second_AllowedLine_b259" class="st19" x1="854.8" y1="1347.9" x2="854.8" y2="1217.2" />
+      <line id="Floor_Second_AllowedLine_0a9e" class="st19" x1="1417.9" y1="255.2" x2="1442.4" y2="255.2" />
+      <line id="Floor_Second_AllowedLine_7df4" class="st19" x1="1442.4" y1="232" x2="1442.4" y2="255.2" />
+      <line id="Floor_Second_AllowedLine_70d0" class="st19" x1="1442.4" y1="255.2" x2="1556.5" y2="255.2" />
+      <line id="Floor_Second_AllowedLine_7e70" class="st19" x1="1556.5" y1="255.2" x2="1556.5" y2="276.4" />
+      <line id="Floor_Second_AllowedLine_2fcc" class="st19" x1="1566.5" y1="232.4" x2="1566.5" y2="255.2" />
+      <line id="Floor_Second_AllowedLine_c548" class="st19" x1="1566.5" y1="255.2" x2="1556" y2="255.2" />
+      <line id="Floor_Second_AllowedLine_8aa0" class="st19" x1="1624.7" y1="255.2" x2="1566.5" y2="255.2" />
+      <line id="Floor_Second_AllowedLine_41a8" class="st19" x1="1624.7" y1="255.2" x2="1624.7" y2="150.1" />
+      <line id="Floor_Second_AllowedLine_5c99" class="st19" x1="1624.7" y1="292" x2="1624.7" y2="255.2" />
+      <line id="Floor_Second_AllowedLine_0fd6" class="st19" x1="1624.7" y1="292" x2="1718.4" y2="292" />
+      <line id="Floor_Second_AllowedLine_eac5" class="st19" x1="1718.4" y1="341.1" x2="1718.4" y2="292" />
+      <line id="Floor_Second_AllowedLine_4475" class="st19" x1="1718.4" y1="292" x2="1740.9" y2="292" />
+      <line id="Floor_Second_AllowedLine_67b4" class="st19" x1="1718.4" y1="341.1" x2="1740.9" y2="341.1" />
+      <line id="Floor_Second_AllowedLine_4868" class="st19" x1="1718.2" y1="390.1" x2="1740.7" y2="390.1" />
+      <line id="Floor_Second_AllowedLine_bc0f" class="st19" x1="1694.4" y1="475.9" x2="1718.4" y2="475.9" />
+      <line id="Floor_Second_AllowedLine_31e7" class="st19" x1="1718.2" y1="517.4" x2="1740.7" y2="517.4" />
+      <line id="Floor_Second_AllowedLine_2ca1" class="st19" x1="1718.2" y1="561.8" x2="1740.7" y2="561.8" />
+      <line id="Floor_Second_AllowedLine_7815" class="st19" x1="1718" y1="610.8" x2="1740.5" y2="610.8" />
+      <line id="Floor_Second_AllowedLine_0823" class="st19" x1="1694.9" y1="635.1" x2="1718.4" y2="635.1" />
+      <line id="Floor_Second_AllowedLine_e472" class="st19" x1="1694.9" y1="705.9" x2="1718.4" y2="705.9" />
+      <line id="Floor_Second_AllowedLine_c77b" class="st19" x1="1718.4" y1="786.9" x2="1740.9" y2="786.9" />
+      <line id="Floor_Second_AllowedLine_9e7e" class="st19" x1="1718.4" y1="828" x2="1741.9" y2="828" />
+      <line id="Floor_Second_AllowedLine_fd73" class="st19" x1="1718.4" y1="877.7" x2="1741.9" y2="877.7" />
+      <line id="Floor_Second_AllowedLine_b9fe" class="st19" x1="1694.4" y1="907.8" x2="1718.4" y2="907.8" />
+      <line id="Floor_Second_AllowedLine_82f1" class="st19" x1="1692.9" y1="958.5" x2="1718.4" y2="958.5" />
+      <line id="Floor_Second_AllowedLine_ca74" class="st19" x1="1718.4" y1="958.5" x2="1814.9" y2="958.5" />
+      <line id="Floor_Second_AllowedLine_af76" class="st19" x1="1694.4" y1="1010.5" x2="1718.4" y2="1010.5" />
+      <line id="Floor_Second_AllowedLine_dfed" class="st19" x1="1718.4" y1="1030.9" x2="1741.9" y2="1030.9" />
+      <line id="Floor_Second_AllowedLine_8ec2" class="st19" x1="1718.4" y1="1065.1" x2="1741.9" y2="1065.1" />
+      <line id="Floor_Second_AllowedLine_40d6" class="st19" x1="1718.4" y1="1099.2" x2="1741.9" y2="1099.2" />
+      <line id="Floor_Second_AllowedLine_a8bc" class="st19" x1="1718.4" y1="1146" x2="1741.9" y2="1146" />
+      <line id="Floor_Second_AllowedLine_f3c5" class="st19" x1="1718.4" y1="1196.5" x2="1741.9" y2="1196.5" />
+      <line id="Floor_Second_AllowedLine_c314" class="st19" x1="1694.4" y1="1173.2" x2="1718.4" y2="1173.2" />
+      <line id="Floor_Second_AllowedLine_2bff" class="st19" x1="1694.4" y1="1216.5" x2="1718.4" y2="1216.5" />
+      <line id="Floor_Second_AllowedLine_380c" class="st19" x1="1718.4" y1="1249.7" x2="1741.9" y2="1249.7" />
+      <line id="Floor_Second_AllowedLine_bf7b" class="st19" x1="1718.4" y1="1298.3" x2="1741.9" y2="1298.3" />
+      <line id="Floor_Second_AllowedLine_b2dd" class="st19" x1="1718.4" y1="390.1" x2="1718.4" y2="341.1" />
+      <line id="Floor_Second_AllowedLine_c64e" class="st19" x1="1718.4" y1="475.9" x2="1718.4" y2="390" />
+      <line id="Floor_Second_AllowedLine_1567" class="st19" x1="1718.4" y1="517.4" x2="1718.4" y2="475.9" />
+      <line id="Floor_Second_AllowedLine_9510" class="st19" x1="1718.4" y1="561.8" x2="1718.4" y2="517.4" />
+      <line id="Floor_Second_AllowedLine_4fd3" class="st19" x1="1718.4" y1="610.9" x2="1718.4" y2="561.8" />
+      <line id="Floor_Second_AllowedLine_d372" class="st19" x1="1718.4" y1="635.3" x2="1718.4" y2="610.9" />
+      <line id="Floor_Second_AllowedLine_e7af" class="st19" x1="1718.4" y1="705.9" x2="1718.4" y2="635.1" />
+      <line id="Floor_Second_AllowedLine_4034" class="st19" x1="1718.4" y1="786.9" x2="1718.4" y2="705.1" />
+      <line id="Floor_Second_AllowedLine_4711" class="st19" x1="1718.4" y1="828.1" x2="1718.4" y2="786.9" />
+      <line id="Floor_Second_AllowedLine_758b" class="st19" x1="1718.4" y1="877.7" x2="1718.4" y2="828" />
+      <line id="Floor_Second_AllowedLine_ae8e" class="st19" x1="1718.4" y1="907.8" x2="1718.4" y2="877.7" />
+      <line id="Floor_Second_AllowedLine_1592" class="st19" x1="1718.4" y1="958.5" x2="1718.4" y2="907.8" />
+      <line id="Floor_Second_AllowedLine_a026" class="st19" x1="1718.4" y1="1010.5" x2="1718.4" y2="958.5" />
+      <line id="Floor_Second_AllowedLine_f3d1" class="st19" x1="1718.4" y1="1030.9" x2="1718.4" y2="1010.5" />
+      <line id="Floor_Second_AllowedLine_40e1" class="st19" x1="1718.4" y1="1065.1" x2="1718.4" y2="1030.9" />
+      <line id="Floor_Second_AllowedLine_f426" class="st19" x1="1718.4" y1="1099.2" x2="1718.4" y2="1065" />
+      <line id="Floor_Second_AllowedLine_ddfc" class="st19" x1="1718.4" y1="1146" x2="1718.4" y2="1099.2" />
+      <line id="Floor_Second_AllowedLine_6203" class="st19" x1="1718.4" y1="1173.3" x2="1718.4" y2="1146" />
+      <line id="Floor_Second_AllowedLine_b524" class="st19" x1="1718.4" y1="1196.5" x2="1718.4" y2="1173.3" />
+      <line id="Floor_Second_AllowedLine_75c2" class="st19" x1="1718.4" y1="1216.5" x2="1718.4" y2="1196.5" />
+      <line id="Floor_Second_AllowedLine_1921" class="st19" x1="1718.4" y1="1249.7" x2="1718.4" y2="1216.5" />
+      <line id="Floor_Second_AllowedLine_b375" class="st19" x1="1718.4" y1="1298.3" x2="1718.4" y2="1249.7" />
     </g>
     <g id="Floor_Second_Intersections">
-      <circle id="Floor_Second_Intersection_b384" class="st20" cx="1058.7" cy="259.5" r="4.5" />
-      <circle id="Floor_Second_Intersection_c967" class="st20" cx="994.7" cy="259.5" r="4.5" />
-      <circle id="Floor_Second_Intersection_7a96" class="st20" cx="894.7" cy="260.2" r="4.5" />
-      <circle id="Floor_Second_Intersection_1ecf" class="st20" cx="895" cy="320.2" r="4.5" />
-      <circle id="Floor_Second_Intersection_18ef" class="st20" cx="814.6" cy="259.5" r="4.5" />
-      <circle id="Floor_Second_Intersection_7ef3" class="st20" cx="541.8" cy="259.5" r="4.5" />
-      <circle id="Floor_Second_Intersection_7a2f" class="st20" cx="678" cy="258.7" r="4.5" />
-      <circle id="Floor_Second_Intersection_34b7" class="st20" cx="596.1" cy="259.5" r="4.5" />
-      <circle id="Floor_Second_Intersection_2c51" class="st20" cx="394.9" cy="259.5" r="4.5" />
-      <circle id="Floor_Second_Intersection_e309" class="st20" cx="339.7" cy="260.2" r="4.5" />
-      <circle id="Floor_Second_Intersection_af66" class="st20" cx="227.2" cy="260.2" r="4.5" />
-      <circle id="Floor_Second_Intersection_de51" class="st20" cx="227.5" cy="368" r="2.5" />
-      <circle id="Floor_Second_Intersection_8b9a" class="st20" cx="227.5" cy="525" r="2.5" />
-      <circle id="Floor_Second_Intersection_9723" class="st20" cx="227.5" cy="498.7" r="2.5" />
-      <circle id="Floor_Second_Intersection_9ec0" class="st20" cx="227.5" cy="620.8" r="4.5" />
-      <circle id="Floor_Second_Intersection_37e5" class="st20" cx="226.3" cy="690.8" r="4.5" />
-      <circle id="Floor_Second_Intersection_119a" class="st20" cx="227.5" cy="994.7" r="2.5" />
-      <circle id="Floor_Second_Intersection_95ba" class="st20" cx="280.5" cy="994.7" r="2.5" />
-      <circle id="Floor_Second_Intersection_8731" class="st20" cx="283.3" cy="1178.5" r="2.5" />
-      <circle id="Floor_Second_Intersection_7f88" class="st20" cx="227.4" cy="1156" r="2.5" />
-      <circle id="Floor_Second_Intersection_374a" class="st20" cx="227.5" cy="1178.5" r="2.5" />
-      <circle id="Floor_Second_Intersection_77b4" class="st20" cx="226.9" cy="863.4" r="4.5" />
-      <circle id="Floor_Second_Intersection_771d" class="st20" cx="227.4" cy="1185.9" r="2.2" />
-      <circle id="Floor_Second_Intersection_1a11" class="st20" cx="394.9" cy="321.1" r="4.5" />
-      <circle id="Floor_Second_Intersection_3717" class="st20" cx="854.8" cy="1217.2" r="4.5" />
-      <circle id="Floor_Second_Intersection_eafe" class="st20" cx="885.7" cy="1216.7" r="4.5" />
-      <circle id="Floor_Second_Intersection_6da4" class="st20" cx="1442.4" cy="255.2" r="4.5" />
-      <circle id="Floor_Second_Intersection_97bc" class="st20" cx="1556.5" cy="255.2" r="4.5" />
-      <circle id="Floor_Second_Intersection_247e" class="st20" cx="1566.5" cy="255.2" r="4.5" />
-      <circle id="Floor_Second_Intersection_1e46" class="st20" cx="1624.7" cy="255.2" r="4.5" />
-      <circle id="Floor_Second_Intersection_054a" class="st20" cx="1624.7" cy="292" r="4.5" />
-      <circle id="Floor_Second_Intersection_91d5" class="st20" cx="1718.4" cy="292" r="4.5" />
-      <circle id="Floor_Second_Intersection_7f40" class="st20" cx="1718.2" cy="341.1" r="4.5" />
-      <circle id="Floor_Second_Intersection_398e" class="st20" cx="1718.9" cy="390.1" r="4.5" />
-      <circle id="Floor_Second_Intersection_70cf" class="st20" cx="1718.2" cy="475.9" r="4.5" />
-      <circle id="Floor_Second_Intersection_f4bd" class="st20" cx="1718.8" cy="517.4" r="4.5" />
-      <circle id="Floor_Second_Intersection_b080" class="st20" cx="1718.8" cy="561.8" r="4.5" />
-      <circle id="Floor_Second_Intersection_9d22" class="st20" cx="1718.4" cy="610.5" r="4.5" />
-      <circle id="Floor_Second_Intersection_0e19" class="st20" cx="1717.9" cy="634.9" r="4.5" />
-      <circle id="Floor_Second_Intersection_139d" class="st20" cx="1718.1" cy="705.7" r="4.5" />
-      <circle id="Floor_Second_Intersection_8a7a" class="st20" cx="1718.4" cy="786.5" r="4.5" />
-      <circle id="Floor_Second_Intersection_8ea2" class="st20" cx="1718.2" cy="828" r="4.5" />
-      <circle id="Floor_Second_Intersection_855c" class="st20" cx="1718" cy="877.7" r="4.5" />
-      <circle id="Floor_Second_Intersection_73af" class="st20" cx="1718" cy="908" r="4.5" />
-      <circle id="Floor_Second_Intersection_779e" class="st20" cx="1718.4" cy="957.7" r="4.5" />
-      <circle id="Floor_Second_Intersection_9b0e" class="st20" cx="1718.2" cy="1010.5" r="4.5" />
-      <circle id="Floor_Second_Intersection_ed51" class="st20" cx="1718.2" cy="1030.9" r="4.5" />
-      <circle id="Floor_Second_Intersection_6521" class="st20" cx="1718.4" cy="1064.7" r="4.5" />
-      <circle id="Floor_Second_Intersection_552b" class="st20" cx="1718.4" cy="1099.2" r="4.5" />
-      <circle id="Floor_Second_Intersection_7feb" class="st20" cx="1718.4" cy="1146" r="4.5" />
-      <circle id="Floor_Second_Intersection_b9f2" class="st20" cx="1718.4" cy="1173.2" r="4.5" />
-      <circle id="Floor_Second_Intersection_f931" class="st20" cx="1718.4" cy="1196.5" r="4.5" />
-      <circle id="Floor_Second_Intersection_1a64" class="st20" cx="1718.4" cy="1216.5" r="4.5" />
-      <circle id="Floor_Second_Intersection_22da" class="st20" cx="1718.4" cy="1249.7" r="4.5" />
-      <circle id="Floor_Second_Intersection_5f2e" class="st20" cx="1718.4" cy="1297.7" r="4.5" />
+      <circle id="Floor_Second_Intersection_c252" class="st20" cx="1058.7" cy="259.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_bdbc" class="st20" cx="994.7" cy="259.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_3a72" class="st20" cx="894.7" cy="260.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_1780" class="st20" cx="895" cy="320.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_38b5" class="st20" cx="814.6" cy="259.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_122b" class="st20" cx="541.8" cy="259.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_8c0a" class="st20" cx="678" cy="258.7" r="4.5" />
+      <circle id="Floor_Second_Intersection_f590" class="st20" cx="596.1" cy="259.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_5ee5" class="st20" cx="394.9" cy="259.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_3b80" class="st20" cx="339.7" cy="260.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_a1a5" class="st20" cx="227.2" cy="260.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_ccd0" class="st20" cx="227.5" cy="368" r="2.5" />
+      <circle id="Floor_Second_Intersection_fc4f" class="st20" cx="227.5" cy="525" r="2.5" />
+      <circle id="Floor_Second_Intersection_beb6" class="st20" cx="227.5" cy="498.7" r="2.5" />
+      <circle id="Floor_Second_Intersection_ef4f" class="st20" cx="227.5" cy="620.8" r="4.5" />
+      <circle id="Floor_Second_Intersection_519d" class="st20" cx="226.3" cy="690.8" r="4.5" />
+      <circle id="Floor_Second_Intersection_1daf" class="st20" cx="227.5" cy="994.7" r="2.5" />
+      <circle id="Floor_Second_Intersection_293e" class="st20" cx="280.5" cy="994.7" r="2.5" />
+      <circle id="Floor_Second_Intersection_3f5e" class="st20" cx="283.3" cy="1178.5" r="2.5" />
+      <circle id="Floor_Second_Intersection_d661" class="st20" cx="227.4" cy="1156" r="2.5" />
+      <circle id="Floor_Second_Intersection_0f65" class="st20" cx="227.5" cy="1178.5" r="2.5" />
+      <circle id="Floor_Second_Intersection_8ceb" class="st20" cx="226.9" cy="863.4" r="4.5" />
+      <circle id="Floor_Second_Intersection_f260" class="st20" cx="227.4" cy="1185.9" r="2.2" />
+      <circle id="Floor_Second_Intersection_97ae" class="st20" cx="394.9" cy="321.1" r="4.5" />
+      <circle id="Floor_Second_Intersection_dff2" class="st20" cx="854.8" cy="1217.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_c2cc" class="st20" cx="885.7" cy="1216.7" r="4.5" />
+      <circle id="Floor_Second_Intersection_6d99" class="st20" cx="1442.4" cy="255.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_d066" class="st20" cx="1556.5" cy="255.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_df80" class="st20" cx="1566.5" cy="255.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_5cb7" class="st20" cx="1624.7" cy="255.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_c3cd" class="st20" cx="1624.7" cy="292" r="4.5" />
+      <circle id="Floor_Second_Intersection_e527" class="st20" cx="1718.4" cy="292" r="4.5" />
+      <circle id="Floor_Second_Intersection_107f" class="st20" cx="1718.2" cy="341.1" r="4.5" />
+      <circle id="Floor_Second_Intersection_7312" class="st20" cx="1718.9" cy="390.1" r="4.5" />
+      <circle id="Floor_Second_Intersection_90eb" class="st20" cx="1718.2" cy="475.9" r="4.5" />
+      <circle id="Floor_Second_Intersection_3028" class="st20" cx="1718.8" cy="517.4" r="4.5" />
+      <circle id="Floor_Second_Intersection_9886" class="st20" cx="1718.8" cy="561.8" r="4.5" />
+      <circle id="Floor_Second_Intersection_9334" class="st20" cx="1718.4" cy="610.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_531c" class="st20" cx="1717.9" cy="634.9" r="4.5" />
+      <circle id="Floor_Second_Intersection_8a9a" class="st20" cx="1718.1" cy="705.7" r="4.5" />
+      <circle id="Floor_Second_Intersection_173c" class="st20" cx="1718.4" cy="786.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_8df1" class="st20" cx="1718.2" cy="828" r="4.5" />
+      <circle id="Floor_Second_Intersection_2e76" class="st20" cx="1718" cy="877.7" r="4.5" />
+      <circle id="Floor_Second_Intersection_1f81" class="st20" cx="1718" cy="908" r="4.5" />
+      <circle id="Floor_Second_Intersection_d4f6" class="st20" cx="1718.4" cy="957.7" r="4.5" />
+      <circle id="Floor_Second_Intersection_022b" class="st20" cx="1718.2" cy="1010.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_d61a" class="st20" cx="1718.2" cy="1030.9" r="4.5" />
+      <circle id="Floor_Second_Intersection_6794" class="st20" cx="1718.4" cy="1064.7" r="4.5" />
+      <circle id="Floor_Second_Intersection_5f89" class="st20" cx="1718.4" cy="1099.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_2541" class="st20" cx="1718.4" cy="1146" r="4.5" />
+      <circle id="Floor_Second_Intersection_110f" class="st20" cx="1718.4" cy="1173.2" r="4.5" />
+      <circle id="Floor_Second_Intersection_8970" class="st20" cx="1718.4" cy="1196.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_07f3" class="st20" cx="1718.4" cy="1216.5" r="4.5" />
+      <circle id="Floor_Second_Intersection_64d6" class="st20" cx="1718.4" cy="1249.7" r="4.5" />
+      <circle id="Floor_Second_Intersection_51c4" class="st20" cx="1718.4" cy="1297.7" r="4.5" />
     </g>
   </g>
   <g id="Floor_Third">
@@ -1206,81 +1206,81 @@
       <rect id="Floor_Third_Door_Stairs_Third_1" class="st16" x="963.3" y="302.4" width="3" height="20" />
     </g>
     <g id="Floor_Third_AllowedLines">
-      <line id="Floor_Third_AllowedLine_2507" class="st19" x1="994.4" y1="260.4" x2="1058.4" y2="260.4" />
-      <line id="Floor_Third_AllowedLine_e7ed" class="st19" x1="994.4" y1="243.2" x2="994.4" y2="260" />
-      <line id="Floor_Third_AllowedLine_2063" class="st19" x1="894.7" y1="260.4" x2="994.4" y2="260.4" />
-      <line id="Floor_Third_AllowedLine_28fb" class="st19" x1="894.7" y1="260.4" x2="894.7" y2="312.4" />
-      <line id="Floor_Third_AllowedLine_0c73" class="st19" x1="814.3" y1="243.4" x2="814.3" y2="260.4" />
-      <line id="Floor_Third_AllowedLine_4b7c" class="st19" x1="963.3" y1="312.4" x2="895.2" y2="312.4" />
-      <line id="Floor_Third_AllowedLine_ec2f" class="st19" x1="895.2" y1="312.4" x2="846.9" y2="312.4" />
-      <line id="Floor_Third_AllowedLine_2bcb" class="st19" x1="814.3" y1="260.4" x2="894.7" y2="260.4" />
-      <line id="Floor_Third_AllowedLine_2f52" class="st19" x1="727.2" y1="243.4" x2="727.2" y2="260.4" />
-      <line id="Floor_Third_AllowedLine_9ce8" class="st19" x1="727.2" y1="260.4" x2="814.3" y2="260.4" />
-      <line id="Floor_Third_AllowedLine_5e66" class="st19" x1="678.1" y1="260.4" x2="678.1" y2="285.2" />
-      <line id="Floor_Third_AllowedLine_4bfe" class="st19" x1="595.8" y1="260.4" x2="678.1" y2="260.4" />
-      <line id="Floor_Third_AllowedLine_00bf" class="st19" x1="595.8" y1="243.3" x2="595.8" y2="260.4" />
-      <line id="Floor_Third_AllowedLine_bf54" class="st19" x1="595.8" y1="260.4" x2="595.8" y2="284.7" />
-      <line id="Floor_Third_AllowedLine_77a1" class="st19" x1="378.7" y1="243.2" x2="378.7" y2="260.4" />
-      <line id="Floor_Third_AllowedLine_7db8" class="st19" x1="378.7" y1="260.4" x2="595.8" y2="260.4" />
-      <line id="Floor_Third_AllowedLine_1140" class="st19" x1="339.4" y1="243.2" x2="339.4" y2="260.4" />
-      <line id="Floor_Third_AllowedLine_520b" class="st19" x1="339.4" y1="260.4" x2="378.7" y2="260.4" />
-      <line id="Floor_Third_AllowedLine_f03e" class="st19" x1="227.2" y1="260.4" x2="339.4" y2="260.4" />
-      <line id="Floor_Third_AllowedLine_6f3a" class="st19" x1="227.2" y1="260.4" x2="227.2" y2="368.5" />
-      <line id="Floor_Third_AllowedLine_0045" class="st19" x1="227.2" y1="260.4" x2="198.4" y2="260.4" />
-      <line id="Floor_Third_AllowedLine_1179" class="st19" x1="227.2" y1="407.9" x2="227.2" y2="499.6" />
-      <line id="Floor_Third_AllowedLine_54cc" class="st19" x1="251.1" y1="407.9" x2="227.2" y2="407.9" />
-      <line id="Floor_Third_AllowedLine_2a9c" class="st19" x1="227.2" y1="499.6" x2="227.2" y2="521.8" />
-      <line id="Floor_Third_AllowedLine_3c4b" class="st19" x1="227.2" y1="521.8" x2="197" y2="521.8" />
-      <line id="Floor_Third_AllowedLine_d0dc" class="st19" x1="252.6" y1="499.6" x2="227.2" y2="499.6" />
-      <line id="Floor_Third_AllowedLine_d3a6" class="st19" x1="227.2" y1="521.8" x2="227.2" y2="621.7" />
-      <line id="Floor_Third_AllowedLine_0d30" class="st19" x1="251" y1="621.7" x2="227.2" y2="621.7" />
-      <line id="Floor_Third_AllowedLine_9684" class="st19" x1="227.2" y1="621.7" x2="227.2" y2="691.7" />
-      <line id="Floor_Third_AllowedLine_bb37" class="st19" x1="227.2" y1="691.7" x2="198.5" y2="691.7" />
-      <line id="Floor_Third_AllowedLine_2d17" class="st19" x1="227.2" y1="691.7" x2="227.2" y2="864.2" />
-      <line id="Floor_Third_AllowedLine_c0c3" class="st19" x1="227.6" y1="1134.3" x2="198.5" y2="1134.3" />
-      <line id="Floor_Third_AllowedLine_af4c" class="st19" x1="226.8" y1="864.2" x2="197.9" y2="864.2" />
-      <line id="Floor_Third_AllowedLine_b877" class="st19" x1="227.2" y1="864.2" x2="227.2" y2="995.6" />
-      <line id="Floor_Third_AllowedLine_ba7b" class="st19" x1="276.4" y1="995.6" x2="227.2" y2="995.6" />
-      <line id="Floor_Third_AllowedLine_c731" class="st19" x1="276.4" y1="995.6" x2="276.4" y2="1073" />
-      <line id="Floor_Third_AllowedLine_b44a" class="st19" x1="227.2" y1="995.6" x2="227.2" y2="1134.3" />
-      <line id="Floor_Third_AllowedLine_bee2" class="st19" x1="283" y1="1173.5" x2="226.8" y2="1173.5" />
-      <line id="Floor_Third_AllowedLine_c062" class="st19" x1="227.2" y1="1187.5" x2="227.2" y2="1197.8" />
-      <line id="Floor_Third_AllowedLine_609a" class="st19" x1="227.2" y1="1173.5" x2="227.2" y2="1187.5" />
-      <line id="Floor_Third_AllowedLine_6d62" class="st19" x1="276.4" y1="940.9" x2="276.4" y2="995.6" />
-      <line id="Floor_Third_AllowedLine_4356" class="st19" x1="226.9" y1="368.4" x2="198.4" y2="368.4" />
-      <line id="Floor_Third_AllowedLine_00ef" class="st19" x1="1058.4" y1="243.2" x2="1058.4" y2="260.4" />
-      <line id="Floor_Third_AllowedLine_e12f" class="st19" x1="1058.4" y1="260.4" x2="1098.1" y2="260.4" />
-      <line id="Floor_Third_AllowedLine_7d3c" class="st19" x1="227.2" y1="368.1" x2="227.2" y2="407.9" />
-      <line id="Floor_Third_AllowedLine_d7bd" class="st19" x1="678.1" y1="260.4" x2="727.2" y2="260.4" />
-      <line id="Floor_Third_AllowedLine_6531" class="st19" x1="227.6" y1="1187.5" x2="198.5" y2="1187.5" />
-      <line id="Floor_Third_AllowedLine_85e9" class="st19" x1="227.2" y1="1133.7" x2="227.2" y2="1173.5" />
-      <line id="Floor_Third_AllowedLine_9d7b" class="st19" x1="283" y1="1173.5" x2="283" y2="1197.8" />
+      <line id="Floor_Third_AllowedLine_45df" class="st19" x1="994.4" y1="260.4" x2="1058.4" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_4171" class="st19" x1="994.4" y1="243.2" x2="994.4" y2="260" />
+      <line id="Floor_Third_AllowedLine_db04" class="st19" x1="894.7" y1="260.4" x2="994.4" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_5c86" class="st19" x1="894.7" y1="260.4" x2="894.7" y2="312.4" />
+      <line id="Floor_Third_AllowedLine_37bd" class="st19" x1="814.3" y1="243.4" x2="814.3" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_bfc6" class="st19" x1="963.3" y1="312.4" x2="895.2" y2="312.4" />
+      <line id="Floor_Third_AllowedLine_4101" class="st19" x1="895.2" y1="312.4" x2="846.9" y2="312.4" />
+      <line id="Floor_Third_AllowedLine_cd35" class="st19" x1="814.3" y1="260.4" x2="894.7" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_1088" class="st19" x1="727.2" y1="243.4" x2="727.2" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_335f" class="st19" x1="727.2" y1="260.4" x2="814.3" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_c1b8" class="st19" x1="678.1" y1="260.4" x2="678.1" y2="285.2" />
+      <line id="Floor_Third_AllowedLine_1015" class="st19" x1="595.8" y1="260.4" x2="678.1" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_11bd" class="st19" x1="595.8" y1="243.3" x2="595.8" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_6bbf" class="st19" x1="595.8" y1="260.4" x2="595.8" y2="284.7" />
+      <line id="Floor_Third_AllowedLine_002c" class="st19" x1="378.7" y1="243.2" x2="378.7" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_33f5" class="st19" x1="378.7" y1="260.4" x2="595.8" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_d48a" class="st19" x1="339.4" y1="243.2" x2="339.4" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_78c5" class="st19" x1="339.4" y1="260.4" x2="378.7" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_0791" class="st19" x1="227.2" y1="260.4" x2="339.4" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_96cf" class="st19" x1="227.2" y1="260.4" x2="227.2" y2="368.5" />
+      <line id="Floor_Third_AllowedLine_82bb" class="st19" x1="227.2" y1="260.4" x2="198.4" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_c0db" class="st19" x1="227.2" y1="407.9" x2="227.2" y2="499.6" />
+      <line id="Floor_Third_AllowedLine_3292" class="st19" x1="251.1" y1="407.9" x2="227.2" y2="407.9" />
+      <line id="Floor_Third_AllowedLine_d740" class="st19" x1="227.2" y1="499.6" x2="227.2" y2="521.8" />
+      <line id="Floor_Third_AllowedLine_3578" class="st19" x1="227.2" y1="521.8" x2="197" y2="521.8" />
+      <line id="Floor_Third_AllowedLine_7c4a" class="st19" x1="252.6" y1="499.6" x2="227.2" y2="499.6" />
+      <line id="Floor_Third_AllowedLine_d2a3" class="st19" x1="227.2" y1="521.8" x2="227.2" y2="621.7" />
+      <line id="Floor_Third_AllowedLine_c2cd" class="st19" x1="251" y1="621.7" x2="227.2" y2="621.7" />
+      <line id="Floor_Third_AllowedLine_b5d7" class="st19" x1="227.2" y1="621.7" x2="227.2" y2="691.7" />
+      <line id="Floor_Third_AllowedLine_ed00" class="st19" x1="227.2" y1="691.7" x2="198.5" y2="691.7" />
+      <line id="Floor_Third_AllowedLine_e2e1" class="st19" x1="227.2" y1="691.7" x2="227.2" y2="864.2" />
+      <line id="Floor_Third_AllowedLine_a989" class="st19" x1="227.6" y1="1134.3" x2="198.5" y2="1134.3" />
+      <line id="Floor_Third_AllowedLine_19c6" class="st19" x1="226.8" y1="864.2" x2="197.9" y2="864.2" />
+      <line id="Floor_Third_AllowedLine_4957" class="st19" x1="227.2" y1="864.2" x2="227.2" y2="995.6" />
+      <line id="Floor_Third_AllowedLine_7078" class="st19" x1="276.4" y1="995.6" x2="227.2" y2="995.6" />
+      <line id="Floor_Third_AllowedLine_6b8a" class="st19" x1="276.4" y1="995.6" x2="276.4" y2="1073" />
+      <line id="Floor_Third_AllowedLine_6a6d" class="st19" x1="227.2" y1="995.6" x2="227.2" y2="1134.3" />
+      <line id="Floor_Third_AllowedLine_2d32" class="st19" x1="283" y1="1173.5" x2="226.8" y2="1173.5" />
+      <line id="Floor_Third_AllowedLine_a1a3" class="st19" x1="227.2" y1="1187.5" x2="227.2" y2="1197.8" />
+      <line id="Floor_Third_AllowedLine_e6a8" class="st19" x1="227.2" y1="1173.5" x2="227.2" y2="1187.5" />
+      <line id="Floor_Third_AllowedLine_bd0a" class="st19" x1="276.4" y1="940.9" x2="276.4" y2="995.6" />
+      <line id="Floor_Third_AllowedLine_4aab" class="st19" x1="226.9" y1="368.4" x2="198.4" y2="368.4" />
+      <line id="Floor_Third_AllowedLine_de43" class="st19" x1="1058.4" y1="243.2" x2="1058.4" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_d1ec" class="st19" x1="1058.4" y1="260.4" x2="1098.1" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_fbd7" class="st19" x1="227.2" y1="368.1" x2="227.2" y2="407.9" />
+      <line id="Floor_Third_AllowedLine_d089" class="st19" x1="678.1" y1="260.4" x2="727.2" y2="260.4" />
+      <line id="Floor_Third_AllowedLine_1116" class="st19" x1="227.6" y1="1187.5" x2="198.5" y2="1187.5" />
+      <line id="Floor_Third_AllowedLine_87d3" class="st19" x1="227.2" y1="1133.7" x2="227.2" y2="1173.5" />
+      <line id="Floor_Third_AllowedLine_e1c3" class="st19" x1="283" y1="1173.5" x2="283" y2="1197.8" />
     </g>
     <g id="Floor_Third_Intersections">
-      <circle id="Floor_Third_Intersection_00b6" class="st20" cx="1058.4" cy="260.4" r="4.5" />
-      <circle id="Floor_Third_Intersection_1419" class="st20" cx="994.4" cy="260.4" r="4.5" />
-      <circle id="Floor_Third_Intersection_f3f5" class="st20" cx="894.4" cy="261.1" r="4.5" />
-      <circle id="Floor_Third_Intersection_920f" class="st20" cx="894.4" cy="313.2" r="4.5" />
-      <circle id="Floor_Third_Intersection_a57e" class="st20" cx="814.3" cy="260.4" r="4.5" />
-      <circle id="Floor_Third_Intersection_61ae" class="st20" cx="726.9" cy="260.4" r="4.5" />
-      <circle id="Floor_Third_Intersection_fd27" class="st20" cx="677.7" cy="259.6" r="4.5" />
-      <circle id="Floor_Third_Intersection_d945" class="st20" cx="595.8" cy="260.4" r="4.5" />
-      <circle id="Floor_Third_Intersection_d8d7" class="st20" cx="378.3" cy="261" r="4.5" />
-      <circle id="Floor_Third_Intersection_a4e8" class="st20" cx="339.4" cy="261.1" r="4.5" />
-      <circle id="Floor_Third_Intersection_7678" class="st20" cx="226.9" cy="261.1" r="4.5" />
-      <circle id="Floor_Third_Intersection_3fe3" class="st20" cx="226.4" cy="368.5" r="4.5" />
-      <circle id="Floor_Third_Intersection_458e" class="st20" cx="226.9" cy="407.9" r="4.5" />
-      <circle id="Floor_Third_Intersection_0974" class="st20" cx="226.9" cy="521.7" r="4.5" />
-      <circle id="Floor_Third_Intersection_d278" class="st20" cx="227.2" cy="499.6" r="4.5" />
-      <circle id="Floor_Third_Intersection_7535" class="st20" cx="227.2" cy="621.7" r="4.5" />
-      <circle id="Floor_Third_Intersection_fa34" class="st20" cx="226" cy="691.7" r="4.5" />
-      <circle id="Floor_Third_Intersection_c8fc" class="st20" cx="227.7" cy="995.2" r="4.5" />
-      <circle id="Floor_Third_Intersection_c223" class="st20" cx="276.1" cy="996.3" r="4.5" />
-      <circle id="Floor_Third_Intersection_c156" class="st20" cx="283" cy="1173.9" r="3" />
-      <circle id="Floor_Third_Intersection_311f" class="st20" cx="227" cy="1134.3" r="4.5" />
-      <circle id="Floor_Third_Intersection_b16c" class="st20" cx="227.2" cy="1173.5" r="2.7" />
-      <circle id="Floor_Third_Intersection_cd70" class="st20" cx="226.6" cy="864.3" r="4.5" />
-      <circle id="Floor_Third_Intersection_9de8" class="st20" cx="227" cy="1187.5" r="2.2" />
+      <circle id="Floor_Third_Intersection_4c12" class="st20" cx="1058.4" cy="260.4" r="4.5" />
+      <circle id="Floor_Third_Intersection_c0f6" class="st20" cx="994.4" cy="260.4" r="4.5" />
+      <circle id="Floor_Third_Intersection_887b" class="st20" cx="894.4" cy="261.1" r="4.5" />
+      <circle id="Floor_Third_Intersection_80cc" class="st20" cx="894.4" cy="313.2" r="4.5" />
+      <circle id="Floor_Third_Intersection_420f" class="st20" cx="814.3" cy="260.4" r="4.5" />
+      <circle id="Floor_Third_Intersection_7769" class="st20" cx="726.9" cy="260.4" r="4.5" />
+      <circle id="Floor_Third_Intersection_be92" class="st20" cx="677.7" cy="259.6" r="4.5" />
+      <circle id="Floor_Third_Intersection_26c2" class="st20" cx="595.8" cy="260.4" r="4.5" />
+      <circle id="Floor_Third_Intersection_6802" class="st20" cx="378.3" cy="261" r="4.5" />
+      <circle id="Floor_Third_Intersection_539a" class="st20" cx="339.4" cy="261.1" r="4.5" />
+      <circle id="Floor_Third_Intersection_edba" class="st20" cx="226.9" cy="261.1" r="4.5" />
+      <circle id="Floor_Third_Intersection_24e0" class="st20" cx="226.4" cy="368.5" r="4.5" />
+      <circle id="Floor_Third_Intersection_506b" class="st20" cx="226.9" cy="407.9" r="4.5" />
+      <circle id="Floor_Third_Intersection_3d11" class="st20" cx="226.9" cy="521.7" r="4.5" />
+      <circle id="Floor_Third_Intersection_aea2" class="st20" cx="227.2" cy="499.6" r="4.5" />
+      <circle id="Floor_Third_Intersection_b42a" class="st20" cx="227.2" cy="621.7" r="4.5" />
+      <circle id="Floor_Third_Intersection_0b22" class="st20" cx="226" cy="691.7" r="4.5" />
+      <circle id="Floor_Third_Intersection_a085" class="st20" cx="227.7" cy="995.2" r="4.5" />
+      <circle id="Floor_Third_Intersection_5f99" class="st20" cx="276.1" cy="996.3" r="4.5" />
+      <circle id="Floor_Third_Intersection_c8b4" class="st20" cx="283" cy="1173.9" r="3" />
+      <circle id="Floor_Third_Intersection_8f37" class="st20" cx="227" cy="1134.3" r="4.5" />
+      <circle id="Floor_Third_Intersection_7076" class="st20" cx="227.2" cy="1173.5" r="2.7" />
+      <circle id="Floor_Third_Intersection_eab9" class="st20" cx="226.6" cy="864.3" r="4.5" />
+      <circle id="Floor_Third_Intersection_5d48" class="st20" cx="227" cy="1187.5" r="2.2" />
     </g>
   </g>
   <g id="Floor_Fourth">
@@ -1402,99 +1402,99 @@
       <rect id="Floor_Fourth_Door_Stairs_Second_1" class="st16" x="843.8" y="303.6" width="3" height="20" />
     </g>
     <g id="Floor_Fourth_AllowedLines">
-      <line id="Floor_Fourth_AllowedLine_a6ba" class="st19" x1="1394.7" y1="261.2" x2="1271.1" y2="261.2" />
-      <line id="Floor_Fourth_AllowedLine_154e" class="st19" x1="1271.1" y1="261.8" x2="1271.1" y2="243.3" />
-      <line id="Floor_Fourth_AllowedLine_b106" class="st19" x1="1160.1" y1="261.5" x2="1271.1" y2="261.5" />
-      <line id="Floor_Fourth_AllowedLine_d279" class="st19" x1="1160.1" y1="261.5" x2="1160.1" y2="278.6" />
-      <line id="Floor_Fourth_AllowedLine_1d7c" class="st19" x1="1101.6" y1="261.5" x2="1160.6" y2="261.5" />
-      <line id="Floor_Fourth_AllowedLine_bbf9" class="st19" x1="1101.6" y1="241.1" x2="1101.6" y2="261.5" />
-      <line id="Floor_Fourth_AllowedLine_b0d2" class="st19" x1="1066.5" y1="261.5" x2="1101.6" y2="261.5" />
-      <line id="Floor_Fourth_AllowedLine_bc9c" class="st19" x1="1067.1" y1="261.1" x2="1067.1" y2="278.6" />
-      <line id="Floor_Fourth_AllowedLine_b920" class="st19" x1="930.3" y1="261.5" x2="1067.1" y2="261.5" />
-      <line id="Floor_Fourth_AllowedLine_8762" class="st19" x1="930.3" y1="243" x2="930.3" y2="261.5" />
-      <line id="Floor_Fourth_AllowedLine_0c91" class="st19" x1="896.6" y1="261.5" x2="930.3" y2="261.5" />
-      <line id="Floor_Fourth_AllowedLine_7da2" class="st19" x1="896.6" y1="261.5" x2="896.6" y2="313.5" />
-      <line id="Floor_Fourth_AllowedLine_a82c" class="st19" x1="950" y1="313.5" x2="897.1" y2="313.5" />
-      <line id="Floor_Fourth_AllowedLine_e3e7" class="st19" x1="897.1" y1="313.5" x2="847.1" y2="313.5" />
-      <line id="Floor_Fourth_AllowedLine_c83e" class="st19" x1="761.9" y1="261.5" x2="896.6" y2="261.5" />
-      <line id="Floor_Fourth_AllowedLine_eb07" class="st19" x1="761.9" y1="242.6" x2="761.9" y2="261.5" />
-      <line id="Floor_Fourth_AllowedLine_5b3d" class="st19" x1="672" y1="261.5" x2="761.9" y2="261.5" />
-      <line id="Floor_Fourth_AllowedLine_39fc" class="st19" x1="672" y1="260.9" x2="672" y2="285.3" />
-      <line id="Floor_Fourth_AllowedLine_113f" class="st19" x1="623.3" y1="261.5" x2="672" y2="261.5" />
-      <line id="Floor_Fourth_AllowedLine_74c6" class="st19" x1="623.3" y1="242.6" x2="623.3" y2="261.5" />
-      <line id="Floor_Fourth_AllowedLine_bab4" class="st19" x1="583.3" y1="261.5" x2="623.3" y2="261.5" />
-      <line id="Floor_Fourth_AllowedLine_639f" class="st19" x1="583.4" y1="261.5" x2="583.4" y2="285.3" />
-      <line id="Floor_Fourth_AllowedLine_99fb" class="st19" x1="471.6" y1="261.5" x2="583.4" y2="261.5" />
-      <line id="Floor_Fourth_AllowedLine_7075" class="st19" x1="471.6" y1="243.1" x2="471.6" y2="261.5" />
-      <line id="Floor_Fourth_AllowedLine_9512" class="st19" x1="330.4" y1="261.5" x2="471.6" y2="261.5" />
-      <line id="Floor_Fourth_AllowedLine_59d4" class="st19" x1="330.4" y1="242.9" x2="330.4" y2="261.5" />
-      <line id="Floor_Fourth_AllowedLine_86f9" class="st19" x1="291.4" y1="261.5" x2="330.4" y2="261.5" />
-      <line id="Floor_Fourth_AllowedLine_cfd0" class="st19" x1="291.4" y1="261.5" x2="291.4" y2="285.3" />
-      <line id="Floor_Fourth_AllowedLine_7c84" class="st19" x1="229.1" y1="261.5" x2="291.4" y2="261.5" />
-      <line id="Floor_Fourth_AllowedLine_f9ed" class="st19" x1="229.1" y1="261.5" x2="229.1" y2="319.3" />
-      <line id="Floor_Fourth_AllowedLine_dd19" class="st19" x1="229.1" y1="319.3" x2="198.3" y2="319.3" />
-      <line id="Floor_Fourth_AllowedLine_5e24" class="st19" x1="229.1" y1="319.3" x2="229.1" y2="484.4" />
-      <line id="Floor_Fourth_AllowedLine_62ca" class="st19" x1="249.8" y1="484.4" x2="229.1" y2="484.4" />
-      <line id="Floor_Fourth_AllowedLine_1b6a" class="st19" x1="229.1" y1="484.4" x2="229.1" y2="525.5" />
-      <line id="Floor_Fourth_AllowedLine_4cf6" class="st19" x1="229.1" y1="525.5" x2="229.1" y2="593.2" />
-      <line id="Floor_Fourth_AllowedLine_e9cd" class="st19" x1="229.1" y1="525.5" x2="197.9" y2="525.5" />
-      <line id="Floor_Fourth_AllowedLine_e98e" class="st19" x1="250.3" y1="593.2" x2="229.1" y2="593.2" />
-      <line id="Floor_Fourth_AllowedLine_735c" class="st19" x1="229.1" y1="645.1" x2="197.9" y2="645.1" />
-      <line id="Floor_Fourth_AllowedLine_b7b4" class="st19" x1="229.1" y1="593.2" x2="229.1" y2="645.1" />
-      <line id="Floor_Fourth_AllowedLine_eb34" class="st19" x1="249.8" y1="696.5" x2="229.1" y2="696.5" />
-      <line id="Floor_Fourth_AllowedLine_3178" class="st19" x1="229.1" y1="696.5" x2="229.1" y2="804.1" />
-      <line id="Floor_Fourth_AllowedLine_0e4b" class="st19" x1="229.1" y1="827.2" x2="198.5" y2="827.2" />
-      <line id="Floor_Fourth_AllowedLine_52e7" class="st19" x1="250.3" y1="804.1" x2="229.1" y2="804.1" />
-      <line id="Floor_Fourth_AllowedLine_b2aa" class="st19" x1="229.1" y1="827.2" x2="229.1" y2="918" />
-      <line id="Floor_Fourth_AllowedLine_7716" class="st19" x1="229.1" y1="1087.6" x2="198.5" y2="1087.6" />
-      <line id="Floor_Fourth_AllowedLine_ab03" class="st19" x1="249.6" y1="918" x2="229.1" y2="918" />
-      <line id="Floor_Fourth_AllowedLine_d105" class="st19" x1="229.1" y1="918" x2="229.1" y2="996.7" />
-      <line id="Floor_Fourth_AllowedLine_fcad" class="st19" x1="278.3" y1="996.7" x2="229.1" y2="996.7" />
-      <line id="Floor_Fourth_AllowedLine_a3e4" class="st19" x1="278.3" y1="996.7" x2="278.3" y2="1073" />
-      <line id="Floor_Fourth_AllowedLine_8ca7" class="st19" x1="229.1" y1="1087.6" x2="229.1" y2="1156.9" />
-      <line id="Floor_Fourth_AllowedLine_1cb7" class="st19" x1="228.8" y1="1156.9" x2="198.5" y2="1156.9" />
-      <line id="Floor_Fourth_AllowedLine_82bd" class="st19" x1="229.1" y1="1156.9" x2="229.1" y2="1184.1" />
-      <line id="Floor_Fourth_AllowedLine_e735" class="st19" x1="229.1" y1="1197.8" x2="229.1" y2="1184.1" />
-      <line id="Floor_Fourth_AllowedLine_c098" class="st19" x1="284.5" y1="1184.1" x2="228.8" y2="1184.1" />
-      <line id="Floor_Fourth_AllowedLine_474e" class="st19" x1="284.5" y1="1184.1" x2="284.5" y2="1197.7" />
-      <line id="Floor_Fourth_AllowedLine_9bcf" class="st19" x1="229.1" y1="645.1" x2="229.1" y2="696.5" />
-      <line id="Floor_Fourth_AllowedLine_0f61" class="st19" x1="229.1" y1="804.1" x2="229.1" y2="827.2" />
-      <line id="Floor_Fourth_AllowedLine_a2c7" class="st19" x1="229.1" y1="996.7" x2="229.1" y2="1087.6" />
-      <line id="Floor_Fourth_AllowedLine_9e71" class="st19" x1="1271.1" y1="241" x2="1271.1" y2="181.1" />
-      <line id="Floor_Fourth_AllowedLine_25de" class="st19" x1="1271.1" y1="181" x2="1318.5" y2="181" />
+      <line id="Floor_Fourth_AllowedLine_7b6a" class="st19" x1="1394.7" y1="261.2" x2="1271.1" y2="261.2" />
+      <line id="Floor_Fourth_AllowedLine_5da3" class="st19" x1="1271.1" y1="261.8" x2="1271.1" y2="243.3" />
+      <line id="Floor_Fourth_AllowedLine_6b43" class="st19" x1="1160.1" y1="261.5" x2="1271.1" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_0fd0" class="st19" x1="1160.1" y1="261.5" x2="1160.1" y2="278.6" />
+      <line id="Floor_Fourth_AllowedLine_0f25" class="st19" x1="1101.6" y1="261.5" x2="1160.6" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_8b7b" class="st19" x1="1101.6" y1="241.1" x2="1101.6" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_0211" class="st19" x1="1066.5" y1="261.5" x2="1101.6" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_abc5" class="st19" x1="1067.1" y1="261.1" x2="1067.1" y2="278.6" />
+      <line id="Floor_Fourth_AllowedLine_b8eb" class="st19" x1="930.3" y1="261.5" x2="1067.1" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_a7e3" class="st19" x1="930.3" y1="243" x2="930.3" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_71ef" class="st19" x1="896.6" y1="261.5" x2="930.3" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_9f1c" class="st19" x1="896.6" y1="261.5" x2="896.6" y2="313.5" />
+      <line id="Floor_Fourth_AllowedLine_7c3e" class="st19" x1="950" y1="313.5" x2="897.1" y2="313.5" />
+      <line id="Floor_Fourth_AllowedLine_7da6" class="st19" x1="897.1" y1="313.5" x2="847.1" y2="313.5" />
+      <line id="Floor_Fourth_AllowedLine_f385" class="st19" x1="761.9" y1="261.5" x2="896.6" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_0f56" class="st19" x1="761.9" y1="242.6" x2="761.9" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_f90a" class="st19" x1="672" y1="261.5" x2="761.9" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_89ff" class="st19" x1="672" y1="260.9" x2="672" y2="285.3" />
+      <line id="Floor_Fourth_AllowedLine_7989" class="st19" x1="623.3" y1="261.5" x2="672" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_98fd" class="st19" x1="623.3" y1="242.6" x2="623.3" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_f565" class="st19" x1="583.3" y1="261.5" x2="623.3" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_8ac8" class="st19" x1="583.4" y1="261.5" x2="583.4" y2="285.3" />
+      <line id="Floor_Fourth_AllowedLine_0b41" class="st19" x1="471.6" y1="261.5" x2="583.4" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_e424" class="st19" x1="471.6" y1="243.1" x2="471.6" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_6044" class="st19" x1="330.4" y1="261.5" x2="471.6" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_11df" class="st19" x1="330.4" y1="242.9" x2="330.4" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_3a45" class="st19" x1="291.4" y1="261.5" x2="330.4" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_427d" class="st19" x1="291.4" y1="261.5" x2="291.4" y2="285.3" />
+      <line id="Floor_Fourth_AllowedLine_377b" class="st19" x1="229.1" y1="261.5" x2="291.4" y2="261.5" />
+      <line id="Floor_Fourth_AllowedLine_c202" class="st19" x1="229.1" y1="261.5" x2="229.1" y2="319.3" />
+      <line id="Floor_Fourth_AllowedLine_af29" class="st19" x1="229.1" y1="319.3" x2="198.3" y2="319.3" />
+      <line id="Floor_Fourth_AllowedLine_c03b" class="st19" x1="229.1" y1="319.3" x2="229.1" y2="484.4" />
+      <line id="Floor_Fourth_AllowedLine_0e2b" class="st19" x1="249.8" y1="484.4" x2="229.1" y2="484.4" />
+      <line id="Floor_Fourth_AllowedLine_8bca" class="st19" x1="229.1" y1="484.4" x2="229.1" y2="525.5" />
+      <line id="Floor_Fourth_AllowedLine_f320" class="st19" x1="229.1" y1="525.5" x2="229.1" y2="593.2" />
+      <line id="Floor_Fourth_AllowedLine_bed3" class="st19" x1="229.1" y1="525.5" x2="197.9" y2="525.5" />
+      <line id="Floor_Fourth_AllowedLine_efb0" class="st19" x1="250.3" y1="593.2" x2="229.1" y2="593.2" />
+      <line id="Floor_Fourth_AllowedLine_c5c3" class="st19" x1="229.1" y1="645.1" x2="197.9" y2="645.1" />
+      <line id="Floor_Fourth_AllowedLine_3eda" class="st19" x1="229.1" y1="593.2" x2="229.1" y2="645.1" />
+      <line id="Floor_Fourth_AllowedLine_c42f" class="st19" x1="249.8" y1="696.5" x2="229.1" y2="696.5" />
+      <line id="Floor_Fourth_AllowedLine_7c3f" class="st19" x1="229.1" y1="696.5" x2="229.1" y2="804.1" />
+      <line id="Floor_Fourth_AllowedLine_34f4" class="st19" x1="229.1" y1="827.2" x2="198.5" y2="827.2" />
+      <line id="Floor_Fourth_AllowedLine_6cd7" class="st19" x1="250.3" y1="804.1" x2="229.1" y2="804.1" />
+      <line id="Floor_Fourth_AllowedLine_b2ac" class="st19" x1="229.1" y1="827.2" x2="229.1" y2="918" />
+      <line id="Floor_Fourth_AllowedLine_5cd6" class="st19" x1="229.1" y1="1087.6" x2="198.5" y2="1087.6" />
+      <line id="Floor_Fourth_AllowedLine_c041" class="st19" x1="249.6" y1="918" x2="229.1" y2="918" />
+      <line id="Floor_Fourth_AllowedLine_7094" class="st19" x1="229.1" y1="918" x2="229.1" y2="996.7" />
+      <line id="Floor_Fourth_AllowedLine_9f3a" class="st19" x1="278.3" y1="996.7" x2="229.1" y2="996.7" />
+      <line id="Floor_Fourth_AllowedLine_9f6c" class="st19" x1="278.3" y1="996.7" x2="278.3" y2="1073" />
+      <line id="Floor_Fourth_AllowedLine_a7a9" class="st19" x1="229.1" y1="1087.6" x2="229.1" y2="1156.9" />
+      <line id="Floor_Fourth_AllowedLine_a8e6" class="st19" x1="228.8" y1="1156.9" x2="198.5" y2="1156.9" />
+      <line id="Floor_Fourth_AllowedLine_f21f" class="st19" x1="229.1" y1="1156.9" x2="229.1" y2="1184.1" />
+      <line id="Floor_Fourth_AllowedLine_2d21" class="st19" x1="229.1" y1="1197.8" x2="229.1" y2="1184.1" />
+      <line id="Floor_Fourth_AllowedLine_8283" class="st19" x1="284.5" y1="1184.1" x2="228.8" y2="1184.1" />
+      <line id="Floor_Fourth_AllowedLine_ec5f" class="st19" x1="284.5" y1="1184.1" x2="284.5" y2="1197.7" />
+      <line id="Floor_Fourth_AllowedLine_2711" class="st19" x1="229.1" y1="645.1" x2="229.1" y2="696.5" />
+      <line id="Floor_Fourth_AllowedLine_0a4f" class="st19" x1="229.1" y1="804.1" x2="229.1" y2="827.2" />
+      <line id="Floor_Fourth_AllowedLine_3498" class="st19" x1="229.1" y1="996.7" x2="229.1" y2="1087.6" />
+      <line id="Floor_Fourth_AllowedLine_44b5" class="st19" x1="1271.1" y1="241" x2="1271.1" y2="181.1" />
+      <line id="Floor_Fourth_AllowedLine_88d7" class="st19" x1="1271.1" y1="181" x2="1318.5" y2="181" />
     </g>
     <g id="Floor_Fourth_Intersections">
-      <circle id="Floor_Fourth_Intersection_effd" class="st20" cx="1271.1" cy="261.5" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_f58c" class="st20" cx="1160.1" cy="261.5" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_a3f8" class="st20" cx="1101.6" cy="261.5" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_d191" class="st20" cx="1067.1" cy="261.5" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_d90a" class="st20" cx="930.2" cy="261.5" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_d41e" class="st20" cx="896.6" cy="261.5" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_77e9" class="st20" cx="896.6" cy="313.6" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_d70f" class="st20" cx="761.9" cy="261.5" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_7a29" class="st20" cx="672" cy="261.5" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_8660" class="st20" cx="623.3" cy="261.5" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_1140" class="st20" cx="583.4" cy="261.5" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_2fc9" class="st20" cx="471.6" cy="261.5" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_496f" class="st20" cx="330.4" cy="261.3" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_4ddd" class="st20" cx="291.4" cy="261.5" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_c778" class="st20" cx="229.1" cy="261.5" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_9a60" class="st20" cx="229.2" cy="319.1" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_2a8e" class="st20" cx="229.1" cy="484" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_a437" class="st20" cx="229.1" cy="525.5" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_1dad" class="st20" cx="229.1" cy="593.2" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_a5b3" class="st20" cx="228.9" cy="645.3" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_1398" class="st20" cx="229" cy="696.5" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_8013" class="st20" cx="229.1" cy="804.1" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_6666" class="st20" cx="229.1" cy="827.2" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_25f2" class="st20" cx="229.1" cy="917.6" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_033c" class="st20" cx="228.8" cy="1087.6" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_3d0d" class="st20" cx="278.3" cy="996.7" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_6c2e" class="st20" cx="229.4" cy="1157.3" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_ef0d" class="st20" cx="229.1" cy="1184.1" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_d1e8" class="st20" cx="284.5" cy="1184.1" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_6656" class="st20" cx="229.1" cy="996.7" r="4.5" />
-      <circle id="Floor_Fourth_Intersection_4fb9" class="st20" cx="1271.1" cy="181" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_1623" class="st20" cx="1271.1" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_9532" class="st20" cx="1160.1" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_edb9" class="st20" cx="1101.6" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_6ad2" class="st20" cx="1067.1" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_b3c3" class="st20" cx="930.2" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_2065" class="st20" cx="896.6" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_2a3b" class="st20" cx="896.6" cy="313.6" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_da2a" class="st20" cx="761.9" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_046f" class="st20" cx="672" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_c879" class="st20" cx="623.3" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_9b65" class="st20" cx="583.4" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_164a" class="st20" cx="471.6" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_38a9" class="st20" cx="330.4" cy="261.3" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_cd46" class="st20" cx="291.4" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_820b" class="st20" cx="229.1" cy="261.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_76a5" class="st20" cx="229.2" cy="319.1" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_83ad" class="st20" cx="229.1" cy="484" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_7b36" class="st20" cx="229.1" cy="525.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_7106" class="st20" cx="229.1" cy="593.2" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_076e" class="st20" cx="228.9" cy="645.3" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_9878" class="st20" cx="229" cy="696.5" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_b943" class="st20" cx="229.1" cy="804.1" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_8904" class="st20" cx="229.1" cy="827.2" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_54ca" class="st20" cx="229.1" cy="917.6" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_0535" class="st20" cx="228.8" cy="1087.6" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_ee6f" class="st20" cx="278.3" cy="996.7" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_2bae" class="st20" cx="229.4" cy="1157.3" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_b8fd" class="st20" cx="229.1" cy="1184.1" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_f28a" class="st20" cx="284.5" cy="1184.1" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_6e85" class="st20" cx="229.1" cy="996.7" r="4.5" />
+      <circle id="Floor_Fourth_Intersection_6b0f" class="st20" cx="1271.1" cy="181" r="4.5" />
     </g>
   </g>
 </svg>
