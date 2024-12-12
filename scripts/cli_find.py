@@ -1,13 +1,22 @@
+import argparse
 import json
+import sys
 from heapq import nsmallest
 
 import networkx as nx
 
 
 def load_data(file_path):
-    with open(file_path, 'r', encoding='utf-8') as file:
-        data = json.load(file)
-    return data
+    try:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            data = json.load(file)
+        return data
+    except FileNotFoundError:
+        print(f"Файл '{file_path}' не найден.")
+        sys.exit(1)
+    except json.JSONDecodeError:
+        print(f"Ошибка при разборе JSON файла '{file_path}'.")
+        sys.exit(1)
 
 
 def get_office_doors(objects, office_id):
@@ -63,12 +72,22 @@ def compute_path_weight(G, path):
 
 
 def main():
-    # Путь к вашему JSON файлу
-    file_path = 'plan_combined.json'
+    parser = argparse.ArgumentParser(description="Найти топ-K кратчайших маршрутов между двумя офисами.")
+    parser.add_argument('-i', '--input', type=str, help="Путь к JSON файлу с данными (например, plan_combined.json)")
+    parser.add_argument('-a', 'office_a_id', type=str, help="ID кабинета A")
+    parser.add_argument('-b', 'office_b_id', type=str, help="ID кабинета B")
+    parser.add_argument('-k', '--top_k', type=int, default=3, help="Количество топ маршрутов (по умолчанию: 3)")
 
-    # Входные данные: ID кабинета A и кабинета B
-    office_a_id = input("Введите ID кабинета A: ").strip()
-    office_b_id = input("Введите ID кабинета B: ").strip()
+    args = parser.parse_args()
+
+    if args.file_path:
+        file_path = args.file_path
+    else:
+        file_path = 'plan_combined.json'
+
+    office_a_id = args.office_a_id
+    office_b_id = args.office_b_id
+    top_k = args.top_k
 
     # Загрузка данных
     data = load_data(file_path)
@@ -81,15 +100,14 @@ def main():
 
     if not doors_a:
         print(f"Кабинет A с ID '{office_a_id}' не найден или у него нет дверей.")
-        return
+        sys.exit(1)
     if not doors_b:
         print(f"Кабинет B с ID '{office_b_id}' не найден или у него нет дверей.")
-        return
+        sys.exit(1)
 
     # Построение графа
     G = build_graph(data.get('combined_graph', {}))
 
-    top_k = 3  # Количество топ маршрутов
     all_top_paths = []
 
     for door_a in doors_a:
@@ -106,14 +124,14 @@ def main():
                     total_weight = compute_path_weight(G, path)
                     all_top_paths.append((path, total_weight))
             except (nx.NetworkXNoPath, StopIteration):
-                # Нет пути или меньше топ_k путей доступно
+                # Нет пути или меньше top_k путей доступно
                 continue
 
     if not all_top_paths:
         print("Маршруты от кабинета A до кабинета B не найдены.")
-        return
+        sys.exit(1)
 
-    # Выбираем глобальные топ_k маршрутов
+    # Выбираем глобальные top_k маршрутов
     global_top_paths = nsmallest(top_k, all_top_paths, key=lambda x: x[1])
 
     # Убираем дубликаты путей
@@ -128,7 +146,7 @@ def main():
             break
 
     # Извлечение line_id для каждого пути и вывод результатов
-    print(f"Топ-{len(unique_top_paths)} самых кратчайших маршрутов от '{office_a_id}' до '{office_b_id}':")
+    print(f"\nТоп-{len(unique_top_paths)} самых кратчайших маршрутов от '{office_a_id}' до '{office_b_id}':")
     for idx, (path, weight) in enumerate(unique_top_paths, 1):
         line_ids = extract_line_ids(G, path)
         print(f"\nМаршрут {idx}:")
