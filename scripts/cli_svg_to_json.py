@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 import argparse
 import json
 import math
@@ -197,12 +194,10 @@ def parse_svg(svg_file, floor, threshold):
     num_stairs = len(objects[f"{floor}_Stairs"])
     num_offices = len(objects[f"{floor}_Offices"])
     num_doors = len(doors_dict)
-    print(f"Обнаружено {num_stairs} лестниц")
-    print(f"Обнаружено {num_offices} офисов")
-    print(f"Обнаружено {num_doors} дверей")
+    print(f"Этаж '{floor}': Обнаружено {num_stairs} лестниц, {num_offices} офисов, {num_doors} дверей.")
 
     # Проверка, что пересечения были успешно распознаны
-    print(f"Обнаружено {len(intersections)} пересечений")
+    print(f"Этаж '{floor}': Обнаружено {len(intersections)} пересечений.")
 
     # Извлечение узлов графа (двери и пересечения)
     graph_nodes = list(doors_dict.keys()) + list(intersections.keys())
@@ -225,12 +220,13 @@ def parse_svg(svg_file, floor, threshold):
                 {'from': point1_id, 'to': point2_id, 'line_id': line_id, 'weight': math.hypot(x2 - x1, y2 - y1)}
             )
         else:
-            print(f"Предупреждение: Линия '{line_id}' не сопоставлена с дверьми или пересечениями.")
+            print(f"Предупреждение: Линия '{line_id}' не сопоставлена с дверьми или пересечениями на этаже '{floor}'.")
 
     graph = {'nodes': graph_nodes, 'edges': graph_edges}
 
     # Компиляция окончательного JSON
     floor_plan = {
+        'floor': floor,
         'objects': objects,
         'doors': doors_dict,  # Добавляем двери
         'intersections': intersections,
@@ -250,101 +246,137 @@ def save_json(data, output_file):
         sys.exit(1)
 
 
-def visualize_threshold(svg_file, floor, threshold, floor_plan):
+def visualize_threshold(all_floor_plans, threshold):
     fig, ax = plt.subplots(figsize=(10, 10))
 
-    # Парсим SVG для визуализации объектов
-    try:
-        tree = ET.parse(svg_file)
-        root = tree.getroot()
-    except Exception as e:
-        print(f"Ошибка при парсинге SVG-файла для визуализации: {e}")
-        return
+    door_centers_all = {}
+    intersection_centers_all = {}
 
-    # Пространство имён SVG
-    namespaces = {'svg': 'http://www.w3.org/2000/svg'}
+    # Смещение этажей по оси Y для визуализации
+    floor_offset = 0
+    floor_spacing = 1000  # Примерное смещение между этажами
 
-    # Нарисуем двери
-    doors_group = root.find(f'.//svg:g[@id="{floor}_Doors"]', namespaces)
-    door_centers = {}
-    if doors_group is not None:
-        for door in doors_group.findall('svg:rect', namespaces):
-            door_id = door.get('id')
-            if door_id in floor_plan['doors']:
-                door_info = floor_plan['doors'][door_id]
-                x = door_info['position']['x']
-                y = door_info['position']['y']
-                width = door_info['position']['width']
-                height = door_info['position']['height']
-                rect = patches.Rectangle((x, y), width, height, linewidth=1, edgecolor='blue', facecolor='none')
-                ax.add_patch(rect)
-                # Центр двери
-                center_x = x + width / 2
-                center_y = y + height / 2
-                door_centers[door_id] = (center_x, center_y)
-                ax.plot(center_x, center_y, 'bo')  # Синий маркер для двери
-                # Круг вокруг двери
-                circle = patches.Circle(
-                    (center_x, center_y), threshold, linewidth=1, edgecolor='blue', facecolor='none', linestyle='--'
-                )
-                ax.add_patch(circle)
+    for floor_plan in all_floor_plans:
+        floor = floor_plan['floor']
+        print(f"Визуализация этажа: {floor}")
+
+        # Смещение координат для этажей
+        current_offset = floor_offset
+        floor_offset += floor_spacing
+
+        # Парсинг SVG для визуализации объектов
+        # Предполагается, что каждая плоскость имеет свои координаты
+
+        # Нарисуем двери
+        for door_id, door_info in floor_plan['doors'].items():
+            x = door_info['position']['x']
+            y = door_info['position']['y'] + current_offset  # Смещение по Y
+            width = door_info['position']['width']
+            height = door_info['position']['height']
+            rect = patches.Rectangle((x, y), width, height, linewidth=1, edgecolor='blue', facecolor='none')
+            ax.add_patch(rect)
+            # Центр двери
+            center_x = x + width / 2
+            center_y = y + height / 2
+            door_centers_all[f"{floor}_{door_id}"] = (center_x, center_y)
+            ax.plot(center_x, center_y, 'bo')  # Синий маркер для двери
+            # Круг вокруг двери
+            circle = patches.Circle(
+                (center_x, center_y), threshold, linewidth=1, edgecolor='blue', facecolor='none', linestyle='--'
+            )
+            ax.add_patch(circle)
+
+        # Нарисуем пересечения
+        for intersection_id, intersection_info in floor_plan['intersections'].items():
+            pos = intersection_info['position']
+            if 'cx' in intersection_info['parsed_id']:
+                cx = pos['x']
+                cy = pos['y'] + current_offset
             else:
-                print(f"Предупреждение: Дверь '{door_id}' не сопоставлена с пересечениями.")
+                x = pos['x']
+                y = pos['y'] + current_offset
+                cx = x + pos['width'] / 2
+                cy = y + pos['height'] / 2
+            intersection_centers_all[f"{floor}_{intersection_id}"] = (cx, cy)
+            ax.plot(cx, cy, 'ro')  # Красный маркер для пересечения
+            # Круг вокруг пересечения
+            circle = patches.Circle((cx, cy), threshold, linewidth=1, edgecolor='red', facecolor='none', linestyle='--')
+            ax.add_patch(circle)
 
-    # Нарисуем пересечения
-    intersections_group = root.find(f'.//svg:g[@id="{floor}_Intersections"]', namespaces)
-    intersection_centers = {}
-    if intersections_group is not None:
-        for elem in intersections_group:
-            elem_id = elem.get('id')
-            if elem_id in floor_plan['intersections']:
-                pos = floor_plan['intersections'][elem_id]['position']
-                if elem.tag.endswith('circle'):
-                    cx = pos['x']
-                    cy = pos['y']
-                    intersection_centers[elem_id] = (cx, cy)
-                    ax.plot(cx, cy, 'ro')  # Красный маркер для пересечения
-                    # Круг вокруг пересечения
-                    circle = patches.Circle(
-                        (cx, cy), threshold, linewidth=1, edgecolor='red', facecolor='none', linestyle='--'
-                    )
-                    ax.add_patch(circle)
-                elif elem.tag.endswith('rect'):
-                    x = pos['x']
-                    y = pos['y']
-                    width = pos['width']
-                    height = pos['height']
-                    center_x = x + width / 2
-                    center_y = y + height / 2
-                    intersection_centers[elem_id] = (center_x, center_y)
-                    ax.plot(center_x, center_y, 'ro')  # Красный маркер для пересечения
-                    # Круг вокруг пересечения
-                    circle = patches.Circle(
-                        (center_x, center_y), threshold, linewidth=1, edgecolor='red', facecolor='none', linestyle='--'
-                    )
-                    ax.add_patch(circle)
+    # Объединение графов этажей
+    combined_nodes = {}
+    combined_edges = []
+
+    # Добавление всех узлов и ребер
+    for floor_plan in all_floor_plans:
+        floor = floor_plan['floor']
+        graph = floor_plan['graph']
+        for node in graph['nodes']:
+            combined_nodes[f"{floor}_{node}"] = {
+                'x': door_centers_all.get(f"{floor}_{node}", intersection_centers_all.get(f"{floor}_{node}", (0, 0)))[
+                    0
+                ],
+                'y': door_centers_all.get(f"{floor}_{node}", intersection_centers_all.get(f"{floor}_{node}", (0, 0)))[
+                    1
+                ],
+            }
+        for edge in graph['edges']:
+            combined_edges.append(
+                {
+                    'from': f"{floor}_{edge['from']}",
+                    'to': f"{floor}_{edge['to']}",
+                    'line_id': edge['line_id'],
+                    'weight': edge['weight'],
+                }
+            )
+
+    # Соединение лестниц между этажами
+    # Предполагается, что лестницы имеют одинаковые номера на разных этажах
+    # Например: Stairs_First, Stairs_Second и т.д.
+    stairs_dict = {}
+    for floor_plan in all_floor_plans:
+        floor = floor_plan['floor']
+        for stair in floor_plan['objects'].get(f"{floor}_Stairs", []):
+            stair_number = stair['parsed_id'].get('detail', '')
+            if stair_number:
+                stairs_dict.setdefault(stair_number, []).append(stair['id'])
+
+    # Создание соединений между лестницами разных этажей
+    for stair_number, stair_ids in stairs_dict.items():
+        sorted_stairs = sorted(
+            stair_ids, key=lambda sid: all_floor_plans.index(next(fp for fp in all_floor_plans if fp['floor'] in sid))
+        )
+        for i in range(len(sorted_stairs) - 1):
+            from_floor = next(fp for fp in all_floor_plans if fp['floor'] in sorted_stairs[i])
+            to_floor = next(fp for fp in all_floor_plans if fp['floor'] in sorted_stairs[i + 1])
+            from_id = f"{from_floor['floor']}_{sorted_stairs[i]}"
+            to_id = f"{to_floor['floor']}_{sorted_stairs[i+1]}"
+            combined_edges.append(
+                {
+                    'from': from_id,
+                    'to': to_id,
+                    'line_id': f"Stairs_{stair_number}_Connection",
+                    'weight': threshold * 2,
+                }
+            )
 
     # Нарисуем линии и их сопоставленные точки
-    for edge in floor_plan['graph']['edges']:
+    for edge in combined_edges:
         from_id = edge['from']
         to_id = edge['to']
 
         # Получаем координаты точек
-        if from_id in door_centers:
-            x1, y1 = door_centers[from_id]
-        elif from_id in intersection_centers:
-            x1, y1 = intersection_centers[from_id]
+        if from_id in combined_nodes:
+            x1, y1 = combined_nodes[from_id]['x'], combined_nodes[from_id]['y']
         else:
             print(f"Предупреждение: ID '{from_id}' не найден среди дверей или пересечений.")
-            continue  # Пропустить, если ID не найден
+            continue
 
-        if to_id in door_centers:
-            x2, y2 = door_centers[to_id]
-        elif to_id in intersection_centers:
-            x2, y2 = intersection_centers[to_id]
+        if to_id in combined_nodes:
+            x2, y2 = combined_nodes[to_id]['x'], combined_nodes[to_id]['y']
         else:
             print(f"Предупреждение: ID '{to_id}' не найден среди дверей или пересечений.")
-            continue  # Пропустить, если ID не найден
+            continue
 
         ax.plot([x1, x2], [y1, y2], 'g-')  # Зеленые линии
         # Опционально: отображение сопоставленных точек
@@ -352,26 +384,30 @@ def visualize_threshold(svg_file, floor, threshold, floor_plan):
         mid_y = (y1 + y2) / 2
         ax.plot(mid_x, mid_y, 'k*')  # Черная звезда для сопоставленной точки
 
-    ax.set_title('Визуализация порога детектирования дверей и пересечений')
+    ax.set_title('Визуализация всех этажей, объединённых через лестницы')
     ax.set_xlabel('X')
     ax.set_ylabel('Y')
     ax.set_aspect('equal', 'box')
     plt.grid(True)
+    ax.invert_yaxis()
     plt.show()
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Парсер SVG-файлов планов этажей в JSON формат.")
+    parser = argparse.ArgumentParser(
+        description="Парсер SVG-файлов планов этажей в JSON формат с поддержкой нескольких этажей."
+    )
     parser.add_argument('-i', '--input', type=str, required=True, help="Путь к входному SVG-файлу.")
     parser.add_argument(
-        '-o', '--output', type=str, default=None, help="Путь к выходному JSON-файлу. По умолчанию 'plan_<FLOOR>.json'."
+        '-o', '--output', type=str, default=None, help="Путь к выходному JSON-файлу. По умолчанию 'plan_combined.json'."
     )
     parser.add_argument(
         '-f',
-        '--floor',
+        '--floors',
         type=str,
-        default='Floor_Fourth',
-        help="Имя этажа, используемое в ID групп SVG. По умолчанию 'Floor_Fourth'.",
+        nargs='+',
+        default=['Floor_First', 'Floor_Second', 'Floor_Third', 'Floor_Fourth'],
+        help="Имена этажей, используемые в ID групп SVG. Например: 'Floor_First Floor_Second'.",
     )
     parser.add_argument(
         '-t',
@@ -389,25 +425,95 @@ def main():
     args = parser.parse_args()
 
     svg_file = args.input
-    floor = args.floor
+    floors = args.floors
     threshold = args.threshold
 
     if args.output:
         output_file = args.output
     else:
-        output_file = f'plan_{floor}.json'
+        output_file = 'plan_combined.json'
 
     print(f"Парсинг SVG-файла: {svg_file}")
-    print(f"Этаж: {floor}")
+    print(f"Этажи: {', '.join(floors)}")
     print(f"Пороговое значение: {threshold}")
     print(f"Файл вывода: {output_file}")
 
-    floor_plan = parse_svg(svg_file, floor, threshold)
-    save_json(floor_plan, output_file)
+    all_floor_plans = []
+    combined_graph_nodes = set()
+    combined_graph_edges = []
+    stairs_connections = {  # Словарь для лестниц и связанных с ними дверей
+        "First": [],
+        "Second": [],
+        "Third": [],
+        "Fourth": [],
+        "Fifth": [],
+        "Sixth": [],
+    }
+
+    # хранение всех office
+    all_objects_list = []
+    for floor in floors:
+        floor_plan = parse_svg(svg_file, floor, threshold)
+        all_floor_plans.append(floor_plan)
+
+        offices = floor_plan['objects'].get(f"{floor}_Offices", [])
+        all_objects_list += offices
+
+        # Узлы и рёбра для текущего этажа
+        graph = floor_plan['graph']
+        combined_graph_nodes.update(graph['nodes'])
+        combined_graph_edges.extend(graph['edges'])
+
+        # Сбор дверей, связанных с лестницами
+        for stair in floor_plan['objects'].get(f"{floor}_Stairs", []):
+            parsed_id = stair.get('parsed_id', {})
+            stair_name = parsed_id.get('detail')
+            if not stair_name:
+                continue
+            if stair_name in stairs_connections:
+                for door in stair['doors']:
+                    stairs_connections[stair_name].append((floor, door['id']))
+
+        print(f"{floor} -> {stairs_connections}")
+
+    # Добавление рёбер между дверями одной лестницы
+    for stair_name, doors_by_stair in stairs_connections.items():
+        for i in range(len(doors_by_stair) - 1):
+            for j in range(i + 1, len(doors_by_stair)):
+                floor1, door1 = doors_by_stair[i]
+                floor2, door2 = doors_by_stair[j]
+
+                # Найти ID лестницы на этаже floor1, связанной с door1
+                stair_id = None
+                for stair in all_floor_plans[floors.index(floor1)]['objects'].get(f"{floor1}_Stairs", []):
+                    if any(d['id'] == door1 for d in stair['doors']):
+                        stair_id = stair['id']
+                        break
+
+                combined_graph_edges.append(
+                    {
+                        'from': f"{door1}",
+                        'to': f"{door2}",
+                        'line_id': (stair_id if stair_id else f"{stair_name}_Unknown"),
+                        'weight': 100,
+                    }
+                )
+
+    # Сохранение всех этажей в одном JSON
+    combined_plan = {
+        "all_objects": all_objects_list,
+        'floors': all_floor_plans,
+        'combined_graph': {
+            'nodes': list(combined_graph_nodes),
+            'edges': combined_graph_edges,
+        },
+    }
+
+    save_json(combined_plan, output_file)
 
     # Визуализация, если флаг установлен
     if args.visualize:
-        visualize_threshold(svg_file, floor, threshold, floor_plan)
+        visualize_threshold(all_floor_plans, threshold)
 
 
 if __name__ == "__main__":

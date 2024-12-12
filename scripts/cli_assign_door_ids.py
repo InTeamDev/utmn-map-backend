@@ -3,6 +3,7 @@
 
 import argparse
 import sys
+import uuid
 import xml.etree.ElementTree as ET
 
 
@@ -121,6 +122,26 @@ def assign_new_ids_with_threshold(root, doors_group, objects, stairs_group, floo
             print(f"Дверь {door_id} не пересекается с ни одним офисом или лестницей; присваивается новый ID: {new_id}")
             door.set('id', new_id)
             unassigned_door_counter += 1
+
+
+def assign_random_ids(root, floor, group_suffix, id_prefix):
+    """
+    Присваивает случайные уникальные ID элементам в указанной группе.
+
+    :param root: Корневой элемент XML дерева.
+    :param floor: Название этажа, например, 'Floor_First'.
+    :param group_suffix: Суффикс названия группы, например, 'AllowedLines' или 'Intersections'.
+    :param id_prefix: Префикс для ID, например, 'AllowedLine' или 'Intersection'.
+    """
+    group_id = f"{floor}_{group_suffix}"
+    group = root.find(f'.//svg:g[@id="{group_id}"]', namespaces={'svg': 'http://www.w3.org/2000/svg'})
+    if group is not None:
+        for elem in group.findall('svg:*', namespaces={'svg': 'http://www.w3.org/2000/svg'}):
+            new_id = f"{floor}_{id_prefix}_{uuid.uuid4().hex[:4]}"
+            print(f"Присваивается новый ID элементу <{elem.tag}>: {new_id}")
+            elem.set('id', new_id)
+    else:
+        print(f"Группа '{group_id}' не найдена в SVG.")
 
 
 def parse_svg(svg_input_file, floors, threshold):
@@ -243,6 +264,10 @@ def parse_svg(svg_input_file, floors, threshold):
         else:
             print(f"Группа '{floor}_Doors' не найдена в SVG.")
 
+        # Присваиваем случайные ID элементам в группах AllowedLines и Intersections
+        assign_random_ids(root, floor, "AllowedLines", "AllowedLine")
+        assign_random_ids(root, floor, "Intersections", "Intersection")
+
         # Добавляем объекты текущего этажа в общую структуру
         objects_all_floors.update(objects)
 
@@ -300,7 +325,7 @@ def main():
         '--floors',
         type=str,
         nargs='+',
-        required=True,
+        default=['Floor_First', 'Floor_Second', 'Floor_Third', 'Floor_Fourth'],
         help="Имена этажей, используемые в ID групп SVG (например, 'Floor_First' 'Floor_Second').",
     )
     parser.add_argument(
