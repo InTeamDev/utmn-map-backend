@@ -12,7 +12,7 @@ from app.services.route_service import RouteService
 import xml.etree.ElementTree as ET
 import os
 from tempfile import NamedTemporaryFile
-from app.services.svg_processor import process_floor_svg, process_route_svg
+from app.services.svg_processor import process_floor_svg, process_route_svg, add_room_labels
 from app.services.object_processor import get_objects_map
 
 router = APIRouter()
@@ -59,14 +59,13 @@ async def get_floor_plan(
     try:
         tree = ET.parse(file_path)
         
-        # Если указаны оба кабинета, строим маршрут
+        # Process the SVG based on whether we're showing a route or just a floor
         if office_a_id and office_b_id:
             try:
                 routes = service.find_top_k_paths(office_a_id, office_b_id, top_k)
                 if not routes:
                     raise HTTPException(status_code=404, detail="No routes found")
                 
-                # Группируем line_ids по этажам для первого (лучшего) маршрута
                 route_lines = {}
                 for line_id in routes[0]["line_ids"]:
                     line_floor = '_'.join(line_id.split('_')[:2])
@@ -74,20 +73,20 @@ async def get_floor_plan(
                         route_lines[line_floor] = []
                     route_lines[line_floor].append(line_id)
                 
-                # Если на запрошенном этаже нет маршрута, показываем обычный план этажа
+                # Add labels before processing the route
+                add_room_labels(tree)
+                
                 if floor not in route_lines:
                     processed_tree = process_floor_svg(tree, floor, all_floors)
-                    filename = f"floor_{floor}.svg"
                 else:
                     processed_tree = process_route_svg(tree, route_lines, all_floors, floor)
-                    filename = f"route_{floor}.svg"
+                    
             except ValueError as e:
                 raise HTTPException(status_code=400, detail=str(e))
-                
-        # Иначе просто показываем план этажа
         else:
+            # Add labels before processing the floor
+            add_room_labels(tree)
             processed_tree = process_floor_svg(tree, floor, all_floors)
-            filename = f"floor_{floor}.svg"
         
         # Создаем временный файл
         with NamedTemporaryFile(delete=False, suffix='.svg') as tmp_file:
@@ -102,7 +101,7 @@ async def get_floor_plan(
             return FileResponse(
                 tmp_file.name,
                 media_type="image/svg+xml",
-                filename=filename,
+                filename=f"floor_{floor}.svg",
                 background=cleanup_file
             )
             
@@ -115,7 +114,7 @@ async def get_floor_plan(
 @router.get("/objects", response_model=Dict[str, str])
 async def get_objects():
     """
-    Возвращает мапу соответствия ID объектов и их человекочитаемых названий.
+    Возвращает мапу соответствия ID объектов и их человекочитаемых назв��ний.
     """
     file_path = "media/улк-5.svg"
     all_floors = ['Floor_First', 'Floor_Second', 'Floor_Third', 'Floor_Fourth']
