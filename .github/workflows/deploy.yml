@@ -17,11 +17,14 @@ jobs:
           echo "${{ secrets.SERVER_SSH_KEY }}" > /tmp/ssh_key
           chmod 600 /tmp/ssh_key
 
-      - name: Test SSH Connection
+      - name: Ensure Directory on Server
         run: |
-          ssh -i /tmp/ssh_key -o StrictHostKeyChecking=no ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_HOST }} "echo 'SSH Connected Successfully!'"
+          ssh -i /tmp/ssh_key -o StrictHostKeyChecking=no ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_HOST }} "mkdir -p /var/www/utmn-map/backend"
 
       - name: Deploy Code
         run: |
-          scp -i /tmp/ssh_key -o StrictHostKeyChecking=no -r . ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_HOST }}:/var/www/utmn-map/backend
+          scp -i /tmp/ssh_key -o StrictHostKeyChecking=no -r ./ ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_HOST }}:/var/www/utmn-map/backend
+
+      - name: Restart Backend Service
+        run: |
           ssh -i /tmp/ssh_key -o StrictHostKeyChecking=no ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_HOST }} "sudo systemctl restart utmn-map-backend"
