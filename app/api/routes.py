@@ -7,18 +7,25 @@ from fastapi.responses import FileResponse
 from pydantic import BaseModel
 
 from app.core.config import settings
+from app.models.userContext import Location
 from app.repositories.graph_repository import GraphRepository
 from app.services.route_service import RouteService
 import xml.etree.ElementTree as ET
 import os
 from tempfile import NamedTemporaryFile
 from app.services.svg_processor import process_floor_svg, process_route_svg, add_room_labels
-from app.services.object_processor import get_objects_map
+from typing import Optional
+from app.models.userContext import UserContext
+from app.services.search_engine import search_entities
+from app.services.search_engine import load_data
 
+
+
+from app.services.object_processor import get_objects_map
 router = APIRouter()
 
+data = load_data("data/plan_combined.json")
 
-# Зависимости
 def get_repository() -> GraphRepository:
     return GraphRepository(data_file_path=settings.data_file_path)
 
@@ -32,6 +39,28 @@ class RouteResponse(BaseModel):
     path: List[str]
     line_ids: List[str]
     total_weight: float
+
+
+@router.post("/search", summary="Поиск объектов", description="Позволяет искать объекты по запросу пользователя.")
+async def search(
+    query: str = Query(..., description="Запрос пользователя"),
+        user_floor: str = Query(None, description="Этаж пользователя"),
+        user_context: Optional[UserContext] = None
+):
+    """
+    Выполняет поиск объектов в системе.
+
+    - **query**: Запрос пользователя.
+    - **user_floor**: Этаж, на котором находится пользователь.
+    - **user_preferences**: Избранные объекты пользователя.
+    """
+    results = search_entities(query, user_floor, user_context, data)
+    return {
+            "query": query,
+            "results": results,
+            "user_context": user_context
+        }
+
 
 
 @router.get("/floor-plan", response_class=FileResponse)
