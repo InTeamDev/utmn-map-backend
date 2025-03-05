@@ -1,6 +1,6 @@
-from typing import Dict
 import xml.etree.ElementTree as ET
-from fastapi import HTTPException
+from typing import Dict
+
 
 def get_objects_map(svg_tree: ET.ElementTree, all_floors: list[str]) -> Dict[str, str]:
     """
@@ -9,22 +9,23 @@ def get_objects_map(svg_tree: ET.ElementTree, all_floors: list[str]) -> Dict[str
     try:
         objects_map = {}
         root = svg_tree.getroot()
-        
+
         # Обрабатываем все группы с id
         for floor_group in root.findall(".//*[@id]"):
             element_id = floor_group.get('id', '')
-            
+
             # Пропускаем служебные группы и IDK объекты
             if any(x in element_id for x in ["AllowedLines", "Intersections", "Doors", "IDK"]):
                 continue
-                
+
             # Проверяем принадлежность к этажу
             floor_match = next((f for f in all_floors if element_id.startswith(f)), None)
             if floor_match and len(element_id.split('_')) >= 3:
                 parts = element_id.split('_')
-                floor_name = parts[1].replace("First", "1").replace("Second", "2") \
-                                  .replace("Third", "3").replace("Fourth", "4")
-                
+                floor_name = (
+                    parts[1].replace("First", "1").replace("Second", "2").replace("Third", "3").replace("Fourth", "4")
+                )
+
                 if parts[2] == "Office":
                     if len(parts) > 3:
                         if "Toilet" in element_id:
@@ -50,9 +51,9 @@ def get_objects_map(svg_tree: ET.ElementTree, all_floors: list[str]) -> Dict[str
                 elif parts[2] == "Stairs" and len(parts) > 3:
                     readable_name = f"Лестница {parts[3]}"
                     objects_map[element_id] = f"{readable_name} ({floor_name} этаж)"
-        
+
         return objects_map
-        
+
     except Exception as e:
         print(f"Error in get_objects_map: {str(e)}")
         raise

@@ -1,6 +1,5 @@
-
-from functools import lru_cache
 import time
+
 
 class SearchCache:
     def __init__(self, ttl=3600):

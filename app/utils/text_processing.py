@@ -1,22 +1,19 @@
-
-from rapidfuzz.fuzz import partial_ratio
 import json
-import re
 import math
-import nltk
-from nltk.tokenize import word_tokenize
+import re
 from datetime import datetime
-from transliterate import translit
-from symspellpy import SymSpell
-from nltk.tokenize import word_tokenize
+
+import nltk
 from nltk.stem.snowball import SnowballStemmer
-from functools import lru_cache
+from nltk.tokenize import word_tokenize
+from rapidfuzz.fuzz import partial_ratio
+from symspellpy import SymSpell
+from transliterate import translit
 
 
 nltk.download('punkt')
 nltk.download('punkt_tab')
 stemmer = SnowballStemmer("russian")
-
 
 
 
@@ -26,9 +23,18 @@ sym_spell.load_dictionary("frequency_dictionary_ru.txt", term_index=0, count_ind
 
 # Словарь цифр для обработки чисел
 NUMBERS = {
-    "один": "1", "два": "2", "три": "3", "четыре": "4", "пять": "5",
-    "шесть": "6", "семь": "7", "восемь": "8", "девять": "9", "десять": "10"
+    "один": "1",
+    "два": "2",
+    "три": "3",
+    "четыре": "4",
+    "пять": "5",
+    "шесть": "6",
+    "семь": "7",
+    "восемь": "8",
+    "девять": "9",
+    "десять": "10",
 }
+
 
 # Преобразование текста (нормализация)
 def normalize_text(text: str) -> str:
@@ -37,14 +43,17 @@ def normalize_text(text: str) -> str:
         text = text.replace(word, num)
     return text
 
+
 # Обработка транслита
 def handle_translit(text: str) -> str:
     return translit(text, 'ru', reversed=True)
+
 
 # Обработка опечаток с SymSpell
 def handle_typos(query: str) -> str:
     suggestions = sym_spell.lookup_compound(query, max_edit_distance=2)
     return suggestions[0].term if suggestions else query
+
 
 # Лемматизация и очистка текста
 def advanced_normalize_text_with_stemming(text: str) -> str:
@@ -76,6 +85,7 @@ def advanced_normalize_text_with_stemming(text: str) -> str:
     # Объединение токенов в строку
     return ' '.join(filtered_tokens)
 
+
 def load_synonyms(file_path: str) -> dict:
     with open(file_path, "r", encoding="utf-8") as f:
         synonyms = json.load(f)
@@ -86,6 +96,7 @@ def load_synonyms(file_path: str) -> dict:
         for value in values:
             reverse_synonyms[value] = key  # Привязываем синоним к ключу
     return reverse_synonyms
+
 
 def expand_synonyms(text: str, synonyms_file: str) -> str:
     # Загружаем обратный словарь
@@ -99,6 +110,7 @@ def expand_synonyms(text: str, synonyms_file: str) -> str:
 
     # Собираем текст обратно
     return ' '.join(expanded_tokens)
+
 
 # Нечеткий поиск
 def fuzzy_match(query: str, target: str) -> bool:
@@ -125,6 +137,7 @@ def get_time_relevance(obj: dict, user_time: datetime) -> float:
     except (KeyError, ValueError):
         return 1.0
 
+
 # Расчет расстояния
 def calculate_distance(location1: dict, location2: dict) -> float:
     try:
@@ -137,6 +150,7 @@ def calculate_distance(location1: dict, location2: dict) -> float:
     except (KeyError, TypeError):
         return 0.5
 
+
 # Расчет общей релевантности
 def calculate_relevance(query, obj, user_context):
     text_similarity = partial_ratio(query, obj["parsed_id"]["detail"]) / 100
@@ -145,8 +159,6 @@ def calculate_relevance(query, obj, user_context):
 
     weights = {"text": 0.5, "time": 0.3, "location": 0.2}
     relevance_score = (
-        text_similarity * weights["text"] +
-        time_relevance * weights["time"] +
-        location_relevance * weights["location"]
+        text_similarity * weights["text"] + time_relevance * weights["time"] + location_relevance * weights["location"]
     )
     return relevance_score
