@@ -12,10 +12,11 @@ from nltk.tokenize import word_tokenize
 from nltk.stem.snowball import SnowballStemmer
 from functools import lru_cache
 
-# Инициализация стеммера для русского языка
-stemmer = SnowballStemmer("russian")
 
 nltk.download('punkt')
+nltk.download('punkt_tab')
+stemmer = SnowballStemmer("russian")
+
 
 
 
