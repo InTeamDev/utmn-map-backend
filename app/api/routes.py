@@ -10,7 +10,7 @@ from fastapi.responses import FileResponse
 from pydantic import BaseModel
 
 from app.core.config import settings
-from app.models.userContext import UserContext
+from app.domain.user_context import UserContext
 from app.repositories.graph_repository import GraphRepository
 from app.services.object_processor import get_objects_map
 from app.services.route_service import RouteService
