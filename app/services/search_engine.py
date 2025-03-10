@@ -2,7 +2,7 @@ import json
 import math
 from typing import Optional
 
-from app.models.userContext import Location, UserContext
+from app.domain.user_context import Location, UserContext
 from app.services.cache import SearchCache
 from app.utils.ranker import PopularityRanker
 from app.utils.text_processing import (
