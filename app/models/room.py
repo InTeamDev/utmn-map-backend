@@ -1,4 +1,7 @@
-from sqlalchemy import Column, Float, ForeignKey, Integer, String
+import uuid
+
+from sqlalchemy import Column, Float, ForeignKey, String
+from sqlalchemy.dialects.postgresql import UUID
 from sqlalchemy.orm import relationship
 
 from app.database import Base
@@ -9,10 +12,10 @@ class Room(Base):
 
     __tablename__ = "rooms"
 
-    id = Column(Integer, primary_key=True, autoincrement=True)
-    floor_id = Column(Integer, ForeignKey("floors.id", ondelete="CASCADE"), nullable=False)
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    floor_id = Column(UUID(as_uuid=True), ForeignKey("floors.id", ondelete="CASCADE"), nullable=False)
     room_number = Column(String(50), unique=True, nullable=False)
-    type_id = Column(Integer, ForeignKey("room_types.id", ondelete="SET NULL"), nullable=True)
+    type_id = Column(UUID(as_uuid=True), ForeignKey("room_types.id", ondelete="SET NULL"), nullable=True)
     x = Column(Float, nullable=False)
     y = Column(Float, nullable=False)
     width = Column(Float, nullable=False)

@@ -10,11 +10,9 @@ from rapidfuzz.fuzz import partial_ratio
 from symspellpy import SymSpell
 from transliterate import translit
 
-
 nltk.download('punkt')
 nltk.download('punkt_tab')
 stemmer = SnowballStemmer("russian")
-
 
 
 # Настройка SymSpell
