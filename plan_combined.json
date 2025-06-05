@@ -1,0 +1,1086 @@
+{
+    "intersections": [
+        {
+            "id": "2a962064-d0ff-42b0-9d96-27c13b1b60d6",
+            "x": 906.0,
+            "y": 321.0,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "e9555f26-8f16-4634-8f58-baf501884dae",
+            "x": 1009.8,
+            "y": 266.7,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "cf71191a-e413-4067-a2b9-988872330e0d",
+            "x": 906.0,
+            "y": 417.6,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "e3604d46-e027-4a92-ba1e-655adb2fc652",
+            "x": 906.0,
+            "y": 265.1,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "cd4abd62-741d-4cbe-a558-f7682a25dc94",
+            "x": 481.7,
+            "y": 264.9,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "575397f0-3fee-4cb4-b8a1-904211eaa1b0",
+            "x": 583.2,
+            "y": 264.9,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "fd9fce47-276b-4720-a17f-dca469d9541b",
+            "x": 627.2,
+            "y": 264.1,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "2c0448bf-d6cd-4760-bb8e-8cadfabd6969",
+            "x": 695.3,
+            "y": 264.6,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "8b85a4cf-0567-4eb8-897a-a4707e60fb70",
+            "x": 722.2,
+            "y": 265.1,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "56a208c7-4580-4c05-bc59-8183971e116f",
+            "x": 509.5,
+            "y": 264.7,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "9e0d527e-0191-4cc0-8d87-fba445a7a46c",
+            "x": 378.7,
+            "y": 264.9,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "1d10ffc6-db4d-4fc1-9e4c-02a73d95eaf1",
+            "x": 331.2,
+            "y": 264.8,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "218fb905-713f-4507-8fdc-9356707ad9fc",
+            "x": 178.1,
+            "y": 265.6,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "4306951c-d91f-4845-97e7-388ecb7bdd18",
+            "x": 217.4,
+            "y": 1177.2,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "09e7d197-b455-4dd9-a973-2ce13dc62e96",
+            "x": 227.1,
+            "y": 1177.4,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "9279ec1f-f4df-4005-a678-8da5f7f7441e",
+            "x": 286.9,
+            "y": 1177.2,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "72580e5c-5256-43c5-8124-4821830ada3b",
+            "x": 428.9,
+            "y": 264.7,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "97ff3dd7-ccdd-4c33-ba60-d28953e104d1",
+            "x": 1655.1,
+            "y": 302.4,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "8ddb7a90-23db-49a6-89c3-033e750cff87",
+            "x": 1655.2,
+            "y": 213.7,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "c6c973b0-f964-4ffa-841a-a18f395e11f5",
+            "x": 1718.0,
+            "y": 302.8,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "83082207-e549-44d4-9abd-e48bd2b86f92",
+            "x": 1717.6,
+            "y": 389.4,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "21667df2-a6e8-4bf6-be99-9eda5dcb305a",
+            "x": 1718.0,
+            "y": 439.2,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "949a711a-4442-4318-88f3-ebc159a51c6e",
+            "x": 1718.1,
+            "y": 506.4,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "a7e9c5d7-f24a-41e9-bcdd-bd254308d8c4",
+            "x": 1718.2,
+            "y": 558.9,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "8eb55b00-c6d6-4e5e-af3b-24993d695b8f",
+            "x": 1718.6,
+            "y": 605.7,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "78f6bee0-c513-4f51-bab7-596b1f93c915",
+            "x": 1718.4,
+            "y": 666.0,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "fdee031e-ccd6-44b2-8e1a-e3a3db6f690b",
+            "x": 1718.2,
+            "y": 715.1,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "4abeb760-35a3-4957-8d47-36190e3ec9de",
+            "x": 1718.4,
+            "y": 796.6,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "06debe98-c2bf-4091-a269-645877b43316",
+            "x": 1717.6,
+            "y": 877.7,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "4188d276-d450-4cf2-a268-74eae28a723e",
+            "x": 1718.4,
+            "y": 957.3,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "ab691751-b16c-4ebd-b419-41f9682092ef",
+            "x": 1718.0,
+            "y": 1033.6,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "be097a6c-aa26-4b79-b8f4-641b7fc3df06",
+            "x": 1717.8,
+            "y": 1091.5,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "b1f6213e-aabd-485e-9bbf-06e1445aebf4",
+            "x": 1718.1,
+            "y": 1175.0,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "851debc2-f222-40c5-99d1-1713c86ac95c",
+            "x": 1718.0,
+            "y": 1255.4,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "203a516d-565b-42d1-bca5-9f0d34656c09",
+            "x": 1718.2,
+            "y": 1335.4,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "28022aae-0387-4680-ace4-3a51d4c645ca",
+            "x": 906.0,
+            "y": 649.2,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "714b9420-c44b-4b57-ba59-c01c6b317b9d",
+            "x": 905.5,
+            "y": 859.8,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "c60ad70b-fed1-4239-8cc0-fc2392c32814",
+            "x": 906.0,
+            "y": 957.4,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "7dfa8eb6-2322-4bdc-9a0c-da5651fad5ad",
+            "x": 1047.0,
+            "y": 957.5,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "3d69571a-3b3d-4ad9-b9d4-ab8327c2c783",
+            "x": 1143.2,
+            "y": 957.5,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "1746d9a2-e163-4831-b800-38f1f3078e27",
+            "x": 1205.6,
+            "y": 956.2,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "bd8bcdfa-205e-4c64-973d-3498f4071f86",
+            "x": 1384.5,
+            "y": 957.4,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "d32bb466-5a2b-4732-87c9-02e1b46e0df4",
+            "x": 1469.9,
+            "y": 957.4,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "9bd0c009-8795-4f86-aaa9-fd4c1a3799f3",
+            "x": 1491.9,
+            "y": 957.5,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "da96273c-0072-4edd-8eb7-e9ab4b280262",
+            "x": 1557.9,
+            "y": 958.9,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "5b11ba3d-0f47-4fbb-b30e-4b056d9d5107",
+            "x": 1833.9,
+            "y": 302.4,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "c7228792-e65d-400b-8454-0b43ca530a3c",
+            "x": 1623.0,
+            "y": 213.1,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "502b07f7-42f0-4deb-9ef6-baf83c8d87f9",
+            "x": 925.7,
+            "y": 1035.2,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "9d73a92c-0899-4a8d-9ada-4091a3008935",
+            "x": 905.6,
+            "y": 1035.0,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "dfcb717c-4780-4df7-afdc-f6956608da7e",
+            "x": 886.0,
+            "y": 1034.9,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "921643f3-6253-413f-a177-e8953cd9c89b",
+            "x": 886.0,
+            "y": 1020.3,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "6552eb39-1ab1-4451-bf3c-54a2a0ff4e6a",
+            "x": 829.6,
+            "y": 1020.1,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "8bdb2b96-9953-4803-b53e-c3ecba369b27",
+            "x": 829.8,
+            "y": 1253.2,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "06595c16-7dfa-485d-8204-bcced8974371",
+            "x": 618.4,
+            "y": 1020.2,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "a36f7e2a-5d69-4d56-9142-9e9fc760c89d",
+            "x": 567.5,
+            "y": 1020.2,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "1d1c4c1b-0137-4290-be76-0cd7c03e4bd7",
+            "x": 463.2,
+            "y": 1020.2,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "f215c65e-c597-47c9-b3ec-ad2521849373",
+            "x": 346.2,
+            "y": 1020.4,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "1bd550da-9fd6-477e-873b-b09e69916be9",
+            "x": 345.4,
+            "y": 1010.2,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "b5f5e257-6ba9-4305-a422-076d98657c68",
+            "x": 379.7,
+            "y": 1058.0,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "2a277168-5e80-4feb-b51e-ff157c1cddcc",
+            "x": 346.2,
+            "y": 1058.8,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "91488eb7-076f-49be-aa73-bf07d07429ae",
+            "x": 217.6,
+            "y": 1057.7,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "dd5654c0-0c73-4f26-af29-99b679421c6c",
+            "x": 1339.6,
+            "y": 957.4,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "d3a0f690-2fba-4490-afd1-408446a61d69",
+            "x": 1687.3,
+            "y": 91.0,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "c84e44e4-2949-425f-97d6-84ba19a9e4af",
+            "x": 1687.3,
+            "y": 213.8,
+            "floor_id": "Floor_First"
+        },
+        {
+            "id": "5b7b2b14-56d9-4c32-8828-3f6c0de1f688",
+            "x": 280.5,
+            "y": 1058.1,
+            "floor_id": "Floor_First"
+        }
+    ],
+    "connections": [
+        {
+            "from_id": "e3604d46-e027-4a92-ba1e-655adb2fc652",
+            "to_id": "Floor_First_Door_Office_IDK7_2",
+            "weight": 57.200000000000045
+        },
+        {
+            "from_id": "e3604d46-e027-4a92-ba1e-655adb2fc652",
+            "to_id": "2a962064-d0ff-42b0-9d96-27c13b1b60d6",
+            "weight": 55.799999999999955
+        },
+        {
+            "from_id": "8b85a4cf-0567-4eb8-897a-a4707e60fb70",
+            "to_id": "Floor_First_Door_Office_IDK16_1",
+            "weight": 20.69999999999999
+        },
+        {
+            "from_id": "Floor_First_Door_Office_IDK7_1",
+            "to_id": "e3604d46-e027-4a92-ba1e-655adb2fc652",
+            "weight": 59.0
+        },
+        {
+            "from_id": "Floor_First_Door_Office_IDK6_2",
+            "to_id": "56a208c7-4580-4c05-bc59-8183971e116f",
+            "weight": 20.100000000000023
+        },
+        {
+            "from_id": "8b85a4cf-0567-4eb8-897a-a4707e60fb70",
+            "to_id": "Floor_First_Door_Office_IDK7_1",
+            "weight": 121.5
+        },
+        {
+            "from_id": "Floor_First_Door_Office_IDK7_3",
+            "to_id": "2c0448bf-d6cd-4760-bb8e-8cadfabd6969",
+            "weight": 20.00000000000003
+        },
+        {
+            "from_id": "2c0448bf-d6cd-4760-bb8e-8cadfabd6969",
+            "to_id": "8b85a4cf-0567-4eb8-897a-a4707e60fb70",
+            "weight": 26.600000000000023
+        },
+        {
+            "from_id": "Floor_First_Door_Office_IDK6_1",
+            "to_id": "fd9fce47-276b-4720-a17f-dca469d9541b",
+            "weight": 20.00000000000003
+        },
+        {
+            "from_id": "9e0d527e-0191-4cc0-8d87-fba445a7a46c",
+            "to_id": "Floor_First_Door_Office_IDK2_1",
+            "weight": 7.100000000000023
+        },
+        {
+            "from_id": "Floor_First_Door_Office_IDK4_1",
+            "to_id": "9e0d527e-0191-4cc0-8d87-fba445a7a46c",
+            "weight": 20.69999999999999
+        },
+        {
+            "from_id": "56a208c7-4580-4c05-bc59-8183971e116f",
+            "to_id": "575397f0-3fee-4cb4-b8a1-904211eaa1b0",
+            "weight": 73.80000000000007
+        },
+        {
+            "from_id": "Floor_First_Door_Office_IDK3_1",
+            "to_id": "1d10ffc6-db4d-4fc1-9e4c-02a73d95eaf1",
+            "weight": 20.00000000000003
+        },
+        {
+            "from_id": "9e0d527e-0191-4cc0-8d87-fba445a7a46c",
+            "to_id": "72580e5c-5256-43c5-8124-4821830ada3b",
+            "weight": 50.099999999999966
+        },
+        {
+            "from_id": "1d10ffc6-db4d-4fc1-9e4c-02a73d95eaf1",
+            "to_id": "9e0d527e-0191-4cc0-8d87-fba445a7a46c",
+            "weight": 47.60000000000002
+        },
+        {
+            "from_id": "1d10ffc6-db4d-4fc1-9e4c-02a73d95eaf1",
+            "to_id": "218fb905-713f-4507-8fdc-9356707ad9fc",
+            "weight": 153.5
+        },
+        {
+            "from_id": "Floor_First_Door_Office_102_1",
+            "to_id": "91488eb7-076f-49be-aa73-bf07d07429ae",
+            "weight": 98.89999999999986
+        },
+        {
+            "from_id": "2a277168-5e80-4feb-b51e-ff157c1cddcc",
+            "to_id": "5b7b2b14-56d9-4c32-8828-3f6c0de1f688",
+            "weight": 65.30000000000001
+        },
+        {
+            "from_id": "f215c65e-c597-47c9-b3ec-ad2521849373",
+            "to_id": "2a277168-5e80-4feb-b51e-ff157c1cddcc",
+            "weight": 37.999999999999886
+        },
+        {
+            "from_id": "9279ec1f-f4df-4005-a678-8da5f7f7441e",
+            "to_id": "09e7d197-b455-4dd9-a973-2ce13dc62e96",
+            "weight": 60.60000000000002
+        },
+        {
+            "from_id": "09e7d197-b455-4dd9-a973-2ce13dc62e96",
+            "to_id": "Floor_First_Door_Office_Toilet-Shkn-M_1",
+            "weight": 20.699999999999818
+        },
+        {
+            "from_id": "Floor_First_Door_Office_116_1",
+            "to_id": "e9555f26-8f16-4634-8f58-baf501884dae",
+            "weight": 22.19999999999999
+        },
+        {
+            "from_id": "e9555f26-8f16-4634-8f58-baf501884dae",
+            "to_id": "Floor_First_Door_Office_117_1",
+            "weight": 44.90000000000009
+        },
+        {
+            "from_id": "fd9fce47-276b-4720-a17f-dca469d9541b",
+            "to_id": "2c0448bf-d6cd-4760-bb8e-8cadfabd6969",
+            "weight": 68.5
+        },
+        {
+            "from_id": "09e7d197-b455-4dd9-a973-2ce13dc62e96",
+            "to_id": "Floor_First_Door_Office_100_1",
+            "weight": 28.599999999999994
+        },
+        {
+            "from_id": "91488eb7-076f-49be-aa73-bf07d07429ae",
+            "to_id": "4306951c-d91f-4845-97e7-388ecb7bdd18",
+            "weight": 119.30000000000018
+        },
+        {
+            "from_id": "9279ec1f-f4df-4005-a678-8da5f7f7441e",
+            "to_id": "Floor_First_Door_Office_Toilet-Shkn-W_1",
+            "weight": 20.699999999999818
+        },
+        {
+            "from_id": "921643f3-6253-413f-a177-e8953cd9c89b",
+            "to_id": "dfcb717c-4780-4df7-afdc-f6956608da7e",
+            "weight": 14.899999999999977
+        },
+        {
+            "from_id": "8bdb2b96-9953-4803-b53e-c3ecba369b27",
+            "to_id": "Floor_First_Door_Office_Dining_3",
+            "weight": 24.40000000000009
+        },
+        {
+            "from_id": "921643f3-6253-413f-a177-e8953cd9c89b",
+            "to_id": "6552eb39-1ab1-4451-bf3c-54a2a0ff4e6a",
+            "weight": 56.299999999999955
+        },
+        {
+            "from_id": "8ddb7a90-23db-49a6-89c3-033e750cff87",
+            "to_id": "c7228792-e65d-400b-8454-0b43ca530a3c",
+            "weight": 32.19999999999982
+        },
+        {
+            "from_id": "c7228792-e65d-400b-8454-0b43ca530a3c",
+            "to_id": "Floor_First_Door_Stairs_Sixth_1",
+            "weight": 62.5
+        },
+        {
+            "from_id": "97ff3dd7-ccdd-4c33-ba60-d28953e104d1",
+            "to_id": "8ddb7a90-23db-49a6-89c3-033e750cff87",
+            "weight": 88.59999999999997
+        },
+        {
+            "from_id": "97ff3dd7-ccdd-4c33-ba60-d28953e104d1",
+            "to_id": "c6c973b0-f964-4ffa-841a-a18f395e11f5",
+            "weight": 63.30000000000018
+        },
+        {
+            "from_id": "83082207-e549-44d4-9abd-e48bd2b86f92",
+            "to_id": "c6c973b0-f964-4ffa-841a-a18f395e11f5",
+            "weight": 86.80000000000001
+        },
+        {
+            "from_id": "Floor_First_Door_Office_118a_2",
+            "to_id": "5b11ba3d-0f47-4fbb-b30e-4b056d9d5107",
+            "weight": 37.39999999999998
+        },
+        {
+            "from_id": "c6c973b0-f964-4ffa-841a-a18f395e11f5",
+            "to_id": "5b11ba3d-0f47-4fbb-b30e-4b056d9d5107",
+            "weight": 115.5
+        },
+        {
+            "from_id": "Floor_First_Door_Office_119a_1",
+            "to_id": "83082207-e549-44d4-9abd-e48bd2b86f92",
+            "weight": 23.40000000000009
+        },
+        {
+            "from_id": "21667df2-a6e8-4bf6-be99-9eda5dcb305a",
+            "to_id": "Floor_First_Door_Office_116a_1",
+            "weight": 22.700000000000045
+        },
+        {
+            "from_id": "Floor_First_Door_Office_117a_1",
+            "to_id": "949a711a-4442-4318-88f3-ebc159a51c6e",
+            "weight": 23.200000000000045
+        },
+        {
+            "from_id": "Floor_First_Door_Office_115a_1",
+            "to_id": "a7e9c5d7-f24a-41e9-bcdd-bd254308d8c4",
+            "weight": 23.40000000000009
+        },
+        {
+            "from_id": "8eb55b00-c6d6-4e5e-af3b-24993d695b8f",
+            "to_id": "Floor_First_Door_Office_114_1",
+            "weight": 22.5
+        },
+        {
+            "from_id": "78f6bee0-c513-4f51-bab7-596b1f93c915",
+            "to_id": "Floor_First_Door_Office_112_1",
+            "weight": 23.5
+        },
+        {
+            "from_id": "Floor_First_Door_Office_113a_1",
+            "to_id": "fdee031e-ccd6-44b2-8e1a-e3a3db6f690b",
+            "weight": 23.09999999999991
+        },
+        {
+            "from_id": "Floor_First_Door_Office_IDK47_1",
+            "to_id": "4abeb760-35a3-4957-8d47-36190e3ec9de",
+            "weight": 22.5
+        },
+        {
+            "from_id": "4abeb760-35a3-4957-8d47-36190e3ec9de",
+            "to_id": "Floor_First_Door_Office_110_1",
+            "weight": 23.5
+        },
+        {
+            "from_id": "06debe98-c2bf-4091-a269-645877b43316",
+            "to_id": "Floor_First_Door_Office_108_1",
+            "weight": 23.5
+        },
+        {
+            "from_id": "Floor_First_Door_Office_109a_1",
+            "to_id": "06debe98-c2bf-4091-a269-645877b43316",
+            "weight": 24.0
+        },
+        {
+            "from_id": "da96273c-0072-4edd-8eb7-e9ab4b280262",
+            "to_id": "4188d276-d450-4cf2-a268-74eae28a723e",
+            "weight": 160.0999999999999
+        },
+        {
+            "from_id": "4188d276-d450-4cf2-a268-74eae28a723e",
+            "to_id": "Floor_First_Door_Stairs_Fifth_1",
+            "weight": 96.5
+        },
+        {
+            "from_id": "Floor_First_Door_Office_107a_1",
+            "to_id": "ab691751-b16c-4ebd-b419-41f9682092ef",
+            "weight": 24.0
+        },
+        {
+            "from_id": "ab691751-b16c-4ebd-b419-41f9682092ef",
+            "to_id": "Floor_First_Door_Office_Toilet-W-FizHim_1",
+            "weight": 23.5
+        },
+        {
+            "from_id": "Floor_First_Door_Office_105a_1",
+            "to_id": "be097a6c-aa26-4b79-b8f4-641b7fc3df06",
+            "weight": 24.5
+        },
+        {
+            "from_id": "be097a6c-aa26-4b79-b8f4-641b7fc3df06",
+            "to_id": "Floor_First_Door_Office_Toilet-M-FizHim_1",
+            "weight": 23.5
+        },
+        {
+            "from_id": "b1f6213e-aabd-485e-9bbf-06e1445aebf4",
+            "to_id": "Floor_First_Door_Office_106a_1",
+            "weight": 23.5
+        },
+        {
+            "from_id": "Floor_First_Door_Office_102a_1",
+            "to_id": "851debc2-f222-40c5-99d1-1713c86ac95c",
+            "weight": 23.899999999999864
+        },
+        {
+            "from_id": "Floor_First_Door_Office_103a_1",
+            "to_id": "b1f6213e-aabd-485e-9bbf-06e1445aebf4",
+            "weight": 24.0
+        },
+        {
+            "from_id": "851debc2-f222-40c5-99d1-1713c86ac95c",
+            "to_id": "Floor_First_Door_Office_104a_1",
+            "weight": 23.5
+        },
+        {
+            "from_id": "203a516d-565b-42d1-bca5-9f0d34656c09",
+            "to_id": "Floor_First_Door_Office_101a_1",
+            "weight": 23.5
+        },
+        {
+            "from_id": "21667df2-a6e8-4bf6-be99-9eda5dcb305a",
+            "to_id": "83082207-e549-44d4-9abd-e48bd2b86f92",
+            "weight": 50.19999999999999
+        },
+        {
+            "from_id": "949a711a-4442-4318-88f3-ebc159a51c6e",
+            "to_id": "21667df2-a6e8-4bf6-be99-9eda5dcb305a",
+            "weight": 67.0
+        },
+        {
+            "from_id": "8eb55b00-c6d6-4e5e-af3b-24993d695b8f",
+            "to_id": "a7e9c5d7-f24a-41e9-bcdd-bd254308d8c4",
+            "weight": 47.10000000000002
+        },
+        {
+            "from_id": "78f6bee0-c513-4f51-bab7-596b1f93c915",
+            "to_id": "8eb55b00-c6d6-4e5e-af3b-24993d695b8f",
+            "weight": 60.700000000000045
+        },
+        {
+            "from_id": "fdee031e-ccd6-44b2-8e1a-e3a3db6f690b",
+            "to_id": "78f6bee0-c513-4f51-bab7-596b1f93c915",
+            "weight": 48.09999999999991
+        },
+        {
+            "from_id": "4abeb760-35a3-4957-8d47-36190e3ec9de",
+            "to_id": "fdee031e-ccd6-44b2-8e1a-e3a3db6f690b",
+            "weight": 81.80000000000007
+        },
+        {
+            "from_id": "06debe98-c2bf-4091-a269-645877b43316",
+            "to_id": "4abeb760-35a3-4957-8d47-36190e3ec9de",
+            "weight": 81.0
+        },
+        {
+            "from_id": "4188d276-d450-4cf2-a268-74eae28a723e",
+            "to_id": "06debe98-c2bf-4091-a269-645877b43316",
+            "weight": 79.79999999999995
+        },
+        {
+            "from_id": "ab691751-b16c-4ebd-b419-41f9682092ef",
+            "to_id": "4188d276-d450-4cf2-a268-74eae28a723e",
+            "weight": 75.39999999999998
+        },
+        {
+            "from_id": "be097a6c-aa26-4b79-b8f4-641b7fc3df06",
+            "to_id": "ab691751-b16c-4ebd-b419-41f9682092ef",
+            "weight": 59.0
+        },
+        {
+            "from_id": "b1f6213e-aabd-485e-9bbf-06e1445aebf4",
+            "to_id": "be097a6c-aa26-4b79-b8f4-641b7fc3df06",
+            "weight": 83.5
+        },
+        {
+            "from_id": "851debc2-f222-40c5-99d1-1713c86ac95c",
+            "to_id": "b1f6213e-aabd-485e-9bbf-06e1445aebf4",
+            "weight": 80.29999999999995
+        },
+        {
+            "from_id": "203a516d-565b-42d1-bca5-9f0d34656c09",
+            "to_id": "851debc2-f222-40c5-99d1-1713c86ac95c",
+            "weight": 80.60000000000014
+        },
+        {
+            "from_id": "1bd550da-9fd6-477e-873b-b09e69916be9",
+            "to_id": "Floor_First_Door_Office_105_1",
+            "weight": 30.0
+        },
+        {
+            "from_id": "b5f5e257-6ba9-4305-a422-076d98657c68",
+            "to_id": "2a277168-5e80-4feb-b51e-ff157c1cddcc",
+            "weight": 34.10000000000002
+        },
+        {
+            "from_id": "1d1c4c1b-0137-4290-be76-0cd7c03e4bd7",
+            "to_id": "f215c65e-c597-47c9-b3ec-ad2521849373",
+            "weight": 117.60000000000002
+        },
+        {
+            "from_id": "1bd550da-9fd6-477e-873b-b09e69916be9",
+            "to_id": "f215c65e-c597-47c9-b3ec-ad2521849373",
+            "weight": 10.199999999999932
+        },
+        {
+            "from_id": "a36f7e2a-5d69-4d56-9142-9e9fc760c89d",
+            "to_id": "1d1c4c1b-0137-4290-be76-0cd7c03e4bd7",
+            "weight": 104.19999999999999
+        },
+        {
+            "from_id": "6552eb39-1ab1-4451-bf3c-54a2a0ff4e6a",
+            "to_id": "06595c16-7dfa-485d-8204-bcced8974371",
+            "weight": 211.4000000000001
+        },
+        {
+            "from_id": "06595c16-7dfa-485d-8204-bcced8974371",
+            "to_id": "a36f7e2a-5d69-4d56-9142-9e9fc760c89d",
+            "weight": 50.799999999999955
+        },
+        {
+            "from_id": "1d1c4c1b-0137-4290-be76-0cd7c03e4bd7",
+            "to_id": "Floor_First_Door_Stairs_Seven_1",
+            "weight": 29.59999999999991
+        },
+        {
+            "from_id": "Floor_First_Door_Office_107_1",
+            "to_id": "a36f7e2a-5d69-4d56-9142-9e9fc760c89d",
+            "weight": 30.799999999999955
+        },
+        {
+            "from_id": "Floor_First_Door_Office_Dining_4",
+            "to_id": "06595c16-7dfa-485d-8204-bcced8974371",
+            "weight": 30.799999999999955
+        },
+        {
+            "from_id": "8bdb2b96-9953-4803-b53e-c3ecba369b27",
+            "to_id": "6552eb39-1ab1-4451-bf3c-54a2a0ff4e6a",
+            "weight": 233.60000000000002
+        },
+        {
+            "from_id": "9d73a92c-0899-4a8d-9ada-4091a3008935",
+            "to_id": "dfcb717c-4780-4df7-afdc-f6956608da7e",
+            "weight": 19.700000000000045
+        },
+        {
+            "from_id": "502b07f7-42f0-4deb-9ef6-baf83c8d87f9",
+            "to_id": "Floor_First_Door_Office_Gym_3",
+            "weight": 16.0
+        },
+        {
+            "from_id": "dfcb717c-4780-4df7-afdc-f6956608da7e",
+            "to_id": "Floor_First_Door_Stairs_Fourth_1",
+            "weight": 72.40000000000009
+        },
+        {
+            "from_id": "Floor_First_Door_Office_IDK113_1",
+            "to_id": "502b07f7-42f0-4deb-9ef6-baf83c8d87f9",
+            "weight": 27.100000000000023
+        },
+        {
+            "from_id": "Floor_First_Door_Office_106_1",
+            "to_id": "b5f5e257-6ba9-4305-a422-076d98657c68",
+            "weight": 15.599999999999909
+        },
+        {
+            "from_id": "Floor_First_Door_Office_IDK7_2",
+            "to_id": "e9555f26-8f16-4634-8f58-baf501884dae",
+            "weight": 43.799999999999955
+        },
+        {
+            "from_id": "575397f0-3fee-4cb4-b8a1-904211eaa1b0",
+            "to_id": "fd9fce47-276b-4720-a17f-dca469d9541b",
+            "weight": 43.89999999999998
+        },
+        {
+            "from_id": "575397f0-3fee-4cb4-b8a1-904211eaa1b0",
+            "to_id": "Floor_First_Door_Office_IDK15_1",
+            "weight": 20.0
+        },
+        {
+            "from_id": "cd4abd62-741d-4cbe-a558-f7682a25dc94",
+            "to_id": "56a208c7-4580-4c05-bc59-8183971e116f",
+            "weight": 27.80000000000001
+        },
+        {
+            "from_id": "cd4abd62-741d-4cbe-a558-f7682a25dc94",
+            "to_id": "Floor_First_Door_Office_IDK14_1",
+            "weight": 7.199999999999989
+        },
+        {
+            "from_id": "72580e5c-5256-43c5-8124-4821830ada3b",
+            "to_id": "cd4abd62-741d-4cbe-a558-f7682a25dc94",
+            "weight": 53.0
+        },
+        {
+            "from_id": "Floor_First_Door_Office_IDK5_1",
+            "to_id": "72580e5c-5256-43c5-8124-4821830ada3b",
+            "weight": 20.099999999999994
+        },
+        {
+            "from_id": "72580e5c-5256-43c5-8124-4821830ada3b",
+            "to_id": "Floor_First_Door_Office_IDK13_1",
+            "weight": 7.199999999999989
+        },
+        {
+            "from_id": "218fb905-713f-4507-8fdc-9356707ad9fc",
+            "to_id": "Floor_First_Door_Office_IDK11_1",
+            "weight": 26.69999999999999
+        },
+        {
+            "from_id": "cf71191a-e413-4067-a2b9-988872330e0d",
+            "to_id": "Floor_First_Door_Office_Wardrobe_1",
+            "weight": 57.200000000000045
+        },
+        {
+            "from_id": "Floor_First_Door_Office_115_1",
+            "to_id": "cf71191a-e413-4067-a2b9-988872330e0d",
+            "weight": 59.0
+        },
+        {
+            "from_id": "cf71191a-e413-4067-a2b9-988872330e0d",
+            "to_id": "28022aae-0387-4680-ace4-3a51d4c645ca",
+            "weight": 231.50000000000006
+        },
+        {
+            "from_id": "28022aae-0387-4680-ace4-3a51d4c645ca",
+            "to_id": "Floor_First_Door_Office_Wardrobe_2",
+            "weight": 57.200000000000045
+        },
+        {
+            "from_id": "28022aae-0387-4680-ace4-3a51d4c645ca",
+            "to_id": "714b9420-c44b-4b57-ba59-c01c6b317b9d",
+            "weight": 210.5999999999999
+        },
+        {
+            "from_id": "Floor_First_Door_Stairs_Eighth_1",
+            "to_id": "714b9420-c44b-4b57-ba59-c01c6b317b9d",
+            "weight": 57.200000000000045
+        },
+        {
+            "from_id": "714b9420-c44b-4b57-ba59-c01c6b317b9d",
+            "to_id": "c60ad70b-fed1-4239-8cc0-fc2392c32814",
+            "weight": 97.60000000000002
+        },
+        {
+            "from_id": "502b07f7-42f0-4deb-9ef6-baf83c8d87f9",
+            "to_id": "9d73a92c-0899-4a8d-9ada-4091a3008935",
+            "weight": 19.600000000000023
+        },
+        {
+            "from_id": "7dfa8eb6-2322-4bdc-9a0c-da5651fad5ad",
+            "to_id": "c60ad70b-fed1-4239-8cc0-fc2392c32814",
+            "weight": 141.20000000000005
+        },
+        {
+            "from_id": "c60ad70b-fed1-4239-8cc0-fc2392c32814",
+            "to_id": "9d73a92c-0899-4a8d-9ada-4091a3008935",
+            "weight": 77.60000000000002
+        },
+        {
+            "from_id": "3d69571a-3b3d-4ad9-b9d4-ab8327c2c783",
+            "to_id": "7dfa8eb6-2322-4bdc-9a0c-da5651fad5ad",
+            "weight": 96.39999999999986
+        },
+        {
+            "from_id": "Floor_First_Door_Office_IDK59_1",
+            "to_id": "7dfa8eb6-2322-4bdc-9a0c-da5651fad5ad",
+            "weight": 36.5
+        },
+        {
+            "from_id": "Floor_First_Door_Office_Wardrobe1_1",
+            "to_id": "3d69571a-3b3d-4ad9-b9d4-ab8327c2c783",
+            "weight": 36.5
+        },
+        {
+            "from_id": "1746d9a2-e163-4831-b800-38f1f3078e27",
+            "to_id": "3d69571a-3b3d-4ad9-b9d4-ab8327c2c783",
+            "weight": 62.299999999999955
+        },
+        {
+            "from_id": "1746d9a2-e163-4831-b800-38f1f3078e27",
+            "to_id": "Floor_First_Door_Office_IDK271_1",
+            "weight": 63.19999999999993
+        },
+        {
+            "from_id": "dd5654c0-0c73-4f26-af29-99b679421c6c",
+            "to_id": "1746d9a2-e163-4831-b800-38f1f3078e27",
+            "weight": 134.0
+        },
+        {
+            "from_id": "bd8bcdfa-205e-4c64-973d-3498f4071f86",
+            "to_id": "Floor_First_Door_Stairs_Tenth_1",
+            "weight": 169.29999999999995
+        },
+        {
+            "from_id": "Floor_First_Door_Unassigned_4",
+            "to_id": "bd8bcdfa-205e-4c64-973d-3498f4071f86",
+            "weight": 77.30000000000007
+        },
+        {
+            "from_id": "d32bb466-5a2b-4732-87c9-02e1b46e0df4",
+            "to_id": "bd8bcdfa-205e-4c64-973d-3498f4071f86",
+            "weight": 85.40000000000009
+        },
+        {
+            "from_id": "9bd0c009-8795-4f86-aaa9-fd4c1a3799f3",
+            "to_id": "Floor_First_Door_Office_IDK53_2",
+            "weight": 52.299999999999955
+        },
+        {
+            "from_id": "9bd0c009-8795-4f86-aaa9-fd4c1a3799f3",
+            "to_id": "d32bb466-5a2b-4732-87c9-02e1b46e0df4",
+            "weight": 21.899999999999864
+        },
+        {
+            "from_id": "Floor_First_Door_Office_101b_1",
+            "to_id": "d32bb466-5a2b-4732-87c9-02e1b46e0df4",
+            "weight": 36.0
+        },
+        {
+            "from_id": "Floor_First_Door_Office_100b_1",
+            "to_id": "da96273c-0072-4edd-8eb7-e9ab4b280262",
+            "weight": 36.0
+        },
+        {
+            "from_id": "da96273c-0072-4edd-8eb7-e9ab4b280262",
+            "to_id": "9bd0c009-8795-4f86-aaa9-fd4c1a3799f3",
+            "weight": 66.10000000000014
+        },
+        {
+            "from_id": "a7e9c5d7-f24a-41e9-bcdd-bd254308d8c4",
+            "to_id": "949a711a-4442-4318-88f3-ebc159a51c6e",
+            "weight": 53.00000000000006
+        },
+        {
+            "from_id": "Floor_First_Door_Office_IDK40_1",
+            "to_id": "97ff3dd7-ccdd-4c33-ba60-d28953e104d1",
+            "weight": 64.29999999999995
+        },
+        {
+            "from_id": "c7228792-e65d-400b-8454-0b43ca530a3c",
+            "to_id": "Floor_First_Door_Office_IDK12313_1",
+            "weight": 33.700000000000045
+        },
+        {
+            "from_id": "2a962064-d0ff-42b0-9d96-27c13b1b60d6",
+            "to_id": "cf71191a-e413-4067-a2b9-988872330e0d",
+            "weight": 96.70000000000005
+        },
+        {
+            "from_id": "Floor_First_Door_Stairs_Third_1",
+            "to_id": "2a962064-d0ff-42b0-9d96-27c13b1b60d6",
+            "weight": 56.89999999999998
+        },
+        {
+            "from_id": "2a962064-d0ff-42b0-9d96-27c13b1b60d6",
+            "to_id": "Floor_First_Door_Stairs_Second_1",
+            "weight": 59.0
+        },
+        {
+            "from_id": "Floor_First_Door_Unassigned_3",
+            "to_id": "dd5654c0-0c73-4f26-af29-99b679421c6c",
+            "weight": 77.99999999999989
+        },
+        {
+            "from_id": "bd8bcdfa-205e-4c64-973d-3498f4071f86",
+            "to_id": "dd5654c0-0c73-4f26-af29-99b679421c6c",
+            "weight": 44.90000000000009
+        },
+        {
+            "from_id": "Floor_First_Door_Unassigned_2",
+            "to_id": "Floor_First_Door_Unassigned_4",
+            "weight": 50.90000000000009
+        },
+        {
+            "from_id": "Floor_First_Door_Unassigned_1",
+            "to_id": "Floor_First_Door_Unassigned_3",
+            "weight": 50.90000000000009
+        },
+        {
+            "from_id": "Floor_First_Door_Office_IDK25_2",
+            "to_id": "Floor_First_Door_Unassigned_2",
+            "weight": 32.299999999999955
+        },
+        {
+            "from_id": "Floor_First_Door_Office_IDK25_1",
+            "to_id": "Floor_First_Door_Unassigned_1",
+            "weight": 32.299999999999955
+        },
+        {
+            "from_id": "c84e44e4-2949-425f-97d6-84ba19a9e4af",
+            "to_id": "8ddb7a90-23db-49a6-89c3-033e750cff87",
+            "weight": 32.200000000000045
+        },
+        {
+            "from_id": "c84e44e4-2949-425f-97d6-84ba19a9e4af",
+            "to_id": "d3a0f690-2fba-4490-afd1-408446a61d69",
+            "weight": 122.80000000000001
+        },
+        {
+            "from_id": "Floor_First_Door_Office_118a_1",
+            "to_id": "d3a0f690-2fba-4490-afd1-408446a61d69",
+            "weight": 27.0
+        },
+        {
+            "from_id": "5b7b2b14-56d9-4c32-8828-3f6c0de1f688",
+            "to_id": "91488eb7-076f-49be-aa73-bf07d07429ae",
+            "weight": 62.89999999999998
+        },
+        {
+            "from_id": "Floor_First_Door_Stairs_First_1",
+            "to_id": "5b7b2b14-56d9-4c32-8828-3f6c0de1f688",
+            "weight": 15.600000000000136
+        }
+    ]
+}

@@ -1,0 +1,2308 @@
+{
+    "building": {
+        "id": "1f37f34c-6575-42ed-95e1-b572837f1186",
+        "name": "УЛК-05",
+        "address": "ул. Перекопская, 15а",
+        "floors": [
+            {
+                "id": "18ee47d6-0e30-4b93-b255-97fb5729831a",
+                "tag": "Floor_First",
+                "doors": [
+                    {
+                        "id": "Floor_First_Door_Stairs_Second_1",
+                        "position": {
+                            "x": 844.0,
+                            "y": 304.2,
+                            "width": 3.0,
+                            "height": 33.6
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Stairs_Second_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Stairs_Third_1",
+                        "position": {
+                            "x": 963.3,
+                            "y": 304.2,
+                            "width": 3.0,
+                            "height": 33.6
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Stairs_Third_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK7_1",
+                        "position": {
+                            "x": 843.9,
+                            "y": 246.9,
+                            "width": 3.0,
+                            "height": 33.6
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK7_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK7_2",
+                        "position": {
+                            "x": 963.3,
+                            "y": 246.9,
+                            "width": 3.0,
+                            "height": 33.6
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK7_2"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK52_1",
+                        "position": {
+                            "x": 1462.9,
+                            "y": 866.1,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK52_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK53_1",
+                        "position": {
+                            "x": 1517.5,
+                            "y": 866.1,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK53_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Wardrobe_1",
+                        "position": {
+                            "x": 963.3,
+                            "y": 407.1,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Wardrobe_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_115_1",
+                        "position": {
+                            "x": 843.9,
+                            "y": 407.1,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_115_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Wardrobe_2",
+                        "position": {
+                            "x": 963.3,
+                            "y": 638.6,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Wardrobe_2"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_101a_1",
+                        "position": {
+                            "x": 1741.9,
+                            "y": 1325.6,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_101a_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_104a_1",
+                        "position": {
+                            "x": 1741.9,
+                            "y": 1245.0,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_104a_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_106a_1",
+                        "position": {
+                            "x": 1741.9,
+                            "y": 1163.5,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_106a_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_103a_1",
+                        "position": {
+                            "x": 1690.4,
+                            "y": 1164.7,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_103a_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_102a_1",
+                        "position": {
+                            "x": 1690.4,
+                            "y": 1245.0,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_102a_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Toilet-W-FizHim_1",
+                        "position": {
+                            "x": 1741.9,
+                            "y": 1022.2,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Toilet-W-FizHim_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_107a_1",
+                        "position": {
+                            "x": 1690.4,
+                            "y": 1022.2,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_107a_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_105a_1",
+                        "position": {
+                            "x": 1690.4,
+                            "y": 1081.2,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_105a_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Toilet-M-FizHim_1",
+                        "position": {
+                            "x": 1741.9,
+                            "y": 1081.2,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Toilet-M-FizHim_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_108_1",
+                        "position": {
+                            "x": 1740.9,
+                            "y": 867.0,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_108_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_109a_1",
+                        "position": {
+                            "x": 1691.5,
+                            "y": 867.0,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_109a_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK47_1",
+                        "position": {
+                            "x": 1691.5,
+                            "y": 786.0,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK47_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_113a_1",
+                        "position": {
+                            "x": 1691.2,
+                            "y": 704.2,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_113a_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_110_1",
+                        "position": {
+                            "x": 1740.9,
+                            "y": 786.0,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_110_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_112_1",
+                        "position": {
+                            "x": 1740.9,
+                            "y": 656.1,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_112_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_115a_1",
+                        "position": {
+                            "x": 1691.5,
+                            "y": 548.2,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_115a_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_114_1",
+                        "position": {
+                            "x": 1740.9,
+                            "y": 595.3,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_114_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_117a_1",
+                        "position": {
+                            "x": 1691.2,
+                            "y": 495.6,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_117a_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_119a_1",
+                        "position": {
+                            "x": 1691.5,
+                            "y": 378.3,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_119a_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_116a_1",
+                        "position": {
+                            "x": 1740.9,
+                            "y": 428.6,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_116a_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK40_1",
+                        "position": {
+                            "x": 1587.7,
+                            "y": 291.8,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK40_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK12313_1",
+                        "position": {
+                            "x": 1587.7,
+                            "y": 203.2,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK12313_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_118a_1",
+                        "position": {
+                            "x": 1712.8,
+                            "y": 81.0,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_118a_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_118a_2",
+                        "position": {
+                            "x": 1823.5,
+                            "y": 263.5,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_118a_2"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK53_2",
+                        "position": {
+                            "x": 1481.7,
+                            "y": 901.5,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK53_2"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_100b_1",
+                        "position": {
+                            "x": 1547.8,
+                            "y": 993.3,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_100b_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_101b_1",
+                        "position": {
+                            "x": 1459.8,
+                            "y": 993.3,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_101b_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Toilet-Shkn-M_1",
+                        "position": {
+                            "x": 217.0,
+                            "y": 1198.1,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Toilet-Shkn-M_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Toilet-Shkn-W_1",
+                        "position": {
+                            "x": 277.2,
+                            "y": 1198.1,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Toilet-Shkn-W_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_100_1",
+                        "position": {
+                            "x": 195.0,
+                            "y": 1166.6,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_100_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK16_1",
+                        "position": {
+                            "x": 712.1,
+                            "y": 285.2,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK16_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK15_1",
+                        "position": {
+                            "x": 573.1,
+                            "y": 285.2,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK15_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK14_1",
+                        "position": {
+                            "x": 472.5,
+                            "y": 272.1,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK14_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK13_1",
+                        "position": {
+                            "x": 418.8,
+                            "y": 272.1,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK13_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK2_1",
+                        "position": {
+                            "x": 368.7,
+                            "y": 272.1,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK2_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK3_1",
+                        "position": {
+                            "x": 321.1,
+                            "y": 240.9,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK3_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK4_1",
+                        "position": {
+                            "x": 368.7,
+                            "y": 240.9,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK4_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK5_1",
+                        "position": {
+                            "x": 418.8,
+                            "y": 240.9,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK5_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK11_1",
+                        "position": {
+                            "x": 167.6,
+                            "y": 291.8,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK11_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK6_1",
+                        "position": {
+                            "x": 617.0,
+                            "y": 240.9,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK6_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK6_2",
+                        "position": {
+                            "x": 499.3,
+                            "y": 240.9,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK6_2"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK7_3",
+                        "position": {
+                            "x": 685.5,
+                            "y": 240.9,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK7_3"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_117_1",
+                        "position": {
+                            "x": 1055.4,
+                            "y": 256.1,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_117_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_116_1",
+                        "position": {
+                            "x": 999.7,
+                            "y": 240.9,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_116_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK1133_1",
+                        "position": {
+                            "x": 888.3,
+                            "y": 1314.5,
+                            "width": 10.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK1133_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Dining_1",
+                        "position": {
+                            "x": 808.2,
+                            "y": 1314.5,
+                            "width": 10.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Dining_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Dining_2",
+                        "position": {
+                            "x": 808.2,
+                            "y": 1345.4,
+                            "width": 10.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Dining_2"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK1133_2",
+                        "position": {
+                            "x": 888.3,
+                            "y": 1345.4,
+                            "width": 10.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK1133_2"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Gym_1",
+                        "position": {
+                            "x": 905.2,
+                            "y": 1292.1,
+                            "width": 3.0,
+                            "height": 15.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Gym_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Gym_2",
+                        "position": {
+                            "x": 905.2,
+                            "y": 1254.8,
+                            "width": 3.0,
+                            "height": 15.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Gym_2"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Dining_3",
+                        "position": {
+                            "x": 801.8,
+                            "y": 1243.1,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Dining_3"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Dining_4",
+                        "position": {
+                            "x": 608.2,
+                            "y": 1051.1,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Dining_4"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Dining_5",
+                        "position": {
+                            "x": 689.0,
+                            "y": 1367.5,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Dining_5"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Dining_6",
+                        "position": {
+                            "x": 689.0,
+                            "y": 1488.6,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Dining_6"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Dining_7",
+                        "position": {
+                            "x": 720.7,
+                            "y": 1465.5,
+                            "width": 10.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Dining_7"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Dining_8",
+                        "position": {
+                            "x": 753.8,
+                            "y": 1465.6,
+                            "width": 10.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Dining_8"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Dining_9",
+                        "position": {
+                            "x": 801.7,
+                            "y": 1478.6,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Dining_9"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_107_1",
+                        "position": {
+                            "x": 559.9,
+                            "y": 1051.1,
+                            "width": 15.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_107_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_106_1",
+                        "position": {
+                            "x": 372.2,
+                            "y": 1073.0,
+                            "width": 15.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_106_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Gym_3",
+                        "position": {
+                            "x": 915.2,
+                            "y": 1051.0,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Gym_3"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK113_1",
+                        "position": {
+                            "x": 952.3,
+                            "y": 1026.9,
+                            "width": 3.0,
+                            "height": 15.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK113_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Gym_4",
+                        "position": {
+                            "x": 959.7,
+                            "y": 1051.1,
+                            "width": 15.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Gym_4"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Gym_5",
+                        "position": {
+                            "x": 997.4,
+                            "y": 1051.1,
+                            "width": 15.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Gym_5"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK59_1",
+                        "position": {
+                            "x": 1039.3,
+                            "y": 993.3,
+                            "width": 15.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK59_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Wardrobe1_1",
+                        "position": {
+                            "x": 1135.7,
+                            "y": 993.3,
+                            "width": 15.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Wardrobe1_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK271_1",
+                        "position": {
+                            "x": 1198.0,
+                            "y": 890.6,
+                            "width": 15.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK271_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK25_1",
+                        "position": {
+                            "x": 1329.6,
+                            "y": 1116.3,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK25_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_IDK25_2",
+                        "position": {
+                            "x": 1374.4,
+                            "y": 1116.3,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_IDK25_2"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Stairs_Tenth_1",
+                        "position": {
+                            "x": 1372.7,
+                            "y": 784.5,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Stairs_Tenth_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Stairs_Eighth_1",
+                        "position": {
+                            "x": 842.9,
+                            "y": 849.2,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Stairs_Eighth_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Unassigned_1",
+                        "position": {
+                            "x": 1329.6,
+                            "y": 1084.0,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Unassigned_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Unassigned_2",
+                        "position": {
+                            "x": 1374.4,
+                            "y": 1084.0,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Unassigned_2"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Unassigned_3",
+                        "position": {
+                            "x": 1329.6,
+                            "y": 1033.1,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Unassigned_3"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Unassigned_4",
+                        "position": {
+                            "x": 1374.4,
+                            "y": 1033.1,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Unassigned_4"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_105_1",
+                        "position": {
+                            "x": 312.4,
+                            "y": 999.5,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_105_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_102_1",
+                        "position": {
+                            "x": 207.4,
+                            "y": 955.6,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_102_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Stairs_Seven_1",
+                        "position": {
+                            "x": 455.7,
+                            "y": 987.1,
+                            "width": 15.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Stairs_Seven_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Stairs_Fifth_1",
+                        "position": {
+                            "x": 1814.9,
+                            "y": 946.9,
+                            "width": 3.0,
+                            "height": 20.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Stairs_Fifth_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Stairs_Sixth_1",
+                        "position": {
+                            "x": 1606.1,
+                            "y": 147.7,
+                            "width": 33.6,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Stairs_Sixth_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Office_Dining_10",
+                        "position": {
+                            "x": 608.2,
+                            "y": 1314.5,
+                            "width": 20.0,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Office_Dining_10"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Stairs_Fourth_1",
+                        "position": {
+                            "x": 875.5,
+                            "y": 1105.3,
+                            "width": 20.8,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Stairs_Fourth_1"
+                        }
+                    },
+                    {
+                        "id": "Floor_First_Door_Stairs_First_1",
+                        "position": {
+                            "x": 259.6,
+                            "y": 1073.4,
+                            "width": 41.6,
+                            "height": 3.0
+                        },
+                        "parsed_id": {
+                            "floor": "Floor_First",
+                            "type": "Door",
+                            "detail": "Stairs_First_1"
+                        }
+                    }
+                ],
+                "intersections": [
+                    {
+                        "id": "bcb4025c-95d9-469e-b454-6b565091e443",
+                        "x": 906.0,
+                        "y": 321.0
+                    },
+                    {
+                        "id": "34a63853-ed8d-4760-a699-6653a71b7f85",
+                        "x": 1009.8,
+                        "y": 266.7
+                    },
+                    {
+                        "id": "a0ef82cc-dbe4-4c98-9722-87fb04f4c5f7",
+                        "x": 906.0,
+                        "y": 417.6
+                    },
+                    {
+                        "id": "a57047bd-d5cb-4a7e-bf67-ac149f6517e3",
+                        "x": 906.0,
+                        "y": 265.1
+                    },
+                    {
+                        "id": "589227ff-c2d1-4017-9667-1b0d7c517342",
+                        "x": 481.7,
+                        "y": 264.9
+                    },
+                    {
+                        "id": "4903dd2e-2458-4ce4-9973-78aeb9846fa2",
+                        "x": 583.2,
+                        "y": 264.9
+                    },
+                    {
+                        "id": "bcfce01c-846b-4480-aa88-4c6e5687af66",
+                        "x": 627.2,
+                        "y": 264.1
+                    },
+                    {
+                        "id": "fc415497-8973-48ae-ac00-3905c0fc5241",
+                        "x": 695.3,
+                        "y": 264.6
+                    },
+                    {
+                        "id": "f43dc1f1-915d-407a-bcc7-41a8ad24674d",
+                        "x": 722.2,
+                        "y": 265.1
+                    },
+                    {
+                        "id": "95d2e1de-1ea0-4011-9a4d-30113243894f",
+                        "x": 509.5,
+                        "y": 264.7
+                    },
+                    {
+                        "id": "ba758e40-0647-40b0-b5d4-edb44ca7dd0b",
+                        "x": 378.7,
+                        "y": 264.9
+                    },
+                    {
+                        "id": "0ec622e4-7616-4579-acc3-4eeac630de0e",
+                        "x": 331.2,
+                        "y": 264.8
+                    },
+                    {
+                        "id": "dafd66db-365d-480b-a752-c16febe3221c",
+                        "x": 178.1,
+                        "y": 265.6
+                    },
+                    {
+                        "id": "44fe4546-fd71-4ab6-9eae-231610c56b65",
+                        "x": 217.4,
+                        "y": 1177.2
+                    },
+                    {
+                        "id": "1f942888-e77e-466e-a1d6-33254d79cfca",
+                        "x": 227.1,
+                        "y": 1177.4
+                    },
+                    {
+                        "id": "1cb2bfc7-f4d0-45e6-b3ff-d79891361b8a",
+                        "x": 286.9,
+                        "y": 1177.2
+                    },
+                    {
+                        "id": "fa82dd3f-ccf5-4dd1-bb09-2c1f26fe54fe",
+                        "x": 428.9,
+                        "y": 264.7
+                    },
+                    {
+                        "id": "bceb182e-7b64-4fad-8fab-07feeef65c62",
+                        "x": 1655.1,
+                        "y": 302.4
+                    },
+                    {
+                        "id": "2dfb772d-98d8-4ef1-8045-f1be0d9a98bb",
+                        "x": 1655.2,
+                        "y": 213.7
+                    },
+                    {
+                        "id": "5efc4d47-2946-45e2-9135-b31e323471fa",
+                        "x": 1718.0,
+                        "y": 302.8
+                    },
+                    {
+                        "id": "11117893-623f-476a-88ee-105fc3fe0ba2",
+                        "x": 1717.6,
+                        "y": 389.4
+                    },
+                    {
+                        "id": "cce21200-5a9c-4b4f-a819-e8cefba867e6",
+                        "x": 1718.0,
+                        "y": 439.2
+                    },
+                    {
+                        "id": "5b8ea0d1-f47e-4fa2-ab24-751686399e15",
+                        "x": 1718.1,
+                        "y": 506.4
+                    },
+                    {
+                        "id": "a46267ba-55f7-4db5-a8cb-6983b8603ed5",
+                        "x": 1718.2,
+                        "y": 558.9
+                    },
+                    {
+                        "id": "810c255a-f1c0-4cca-8e43-0ea043ed5e7e",
+                        "x": 1718.6,
+                        "y": 605.7
+                    },
+                    {
+                        "id": "de6006b8-0ca6-46de-b643-814cb9e66785",
+                        "x": 1718.4,
+                        "y": 666.0
+                    },
+                    {
+                        "id": "b203e0a4-e97c-4f78-8031-b61dde73258f",
+                        "x": 1718.2,
+                        "y": 715.1
+                    },
+                    {
+                        "id": "700018c8-06bb-4671-a058-258dd5ffdd4e",
+                        "x": 1718.4,
+                        "y": 796.6
+                    },
+                    {
+                        "id": "bc6f7349-a068-4035-9458-0b41bcbdaa1e",
+                        "x": 1717.6,
+                        "y": 877.7
+                    },
+                    {
+                        "id": "7db9945b-d797-4e03-9542-889417eb394c",
+                        "x": 1718.4,
+                        "y": 957.3
+                    },
+                    {
+                        "id": "ee4bf60c-6084-44f4-86ba-035c03e08737",
+                        "x": 1718.0,
+                        "y": 1033.6
+                    },
+                    {
+                        "id": "3e26e6bf-9e2f-44d6-9f3c-9bda03801f84",
+                        "x": 1717.8,
+                        "y": 1091.5
+                    },
+                    {
+                        "id": "f65a00c6-ded2-48f7-ad32-c303ebf8be03",
+                        "x": 1718.1,
+                        "y": 1175.0
+                    },
+                    {
+                        "id": "bc445568-14ee-4c5a-8670-552ddb4a8b16",
+                        "x": 1718.0,
+                        "y": 1255.4
+                    },
+                    {
+                        "id": "9951592a-fa7c-4466-80b1-c51d2c08c70d",
+                        "x": 1718.2,
+                        "y": 1335.4
+                    },
+                    {
+                        "id": "39626b9e-75a0-4f79-bc61-cac29147bc27",
+                        "x": 906.0,
+                        "y": 649.2
+                    },
+                    {
+                        "id": "d65af234-2f9d-47ae-85ac-d9f34be5342c",
+                        "x": 905.5,
+                        "y": 859.8
+                    },
+                    {
+                        "id": "444ca09e-9113-411e-b450-c6f511980139",
+                        "x": 906.0,
+                        "y": 957.4
+                    },
+                    {
+                        "id": "df9cd722-16c3-4013-823c-713a096a8cac",
+                        "x": 1047.0,
+                        "y": 957.5
+                    },
+                    {
+                        "id": "f157a8af-2335-4206-ba3f-92fc31a94f45",
+                        "x": 1143.2,
+                        "y": 957.5
+                    },
+                    {
+                        "id": "84c58ff5-df10-463f-958a-1c16129f3af9",
+                        "x": 1205.6,
+                        "y": 956.2
+                    },
+                    {
+                        "id": "36988daf-0ae8-44b5-abfd-8aa9073bdc60",
+                        "x": 1384.5,
+                        "y": 957.4
+                    },
+                    {
+                        "id": "7bec7dcb-9f00-482e-bf1b-3635b3a99a20",
+                        "x": 1469.9,
+                        "y": 957.4
+                    },
+                    {
+                        "id": "1ad66886-228c-486d-87bf-0666b44b3a43",
+                        "x": 1491.9,
+                        "y": 957.5
+                    },
+                    {
+                        "id": "787184c3-cb9d-4226-bee9-250e84038f51",
+                        "x": 1557.9,
+                        "y": 958.9
+                    },
+                    {
+                        "id": "3830063a-9d56-450c-b9ef-f8817c1208e6",
+                        "x": 1833.9,
+                        "y": 302.4
+                    },
+                    {
+                        "id": "9d9316e9-db4f-4d3a-8a95-ffb2a8b0093c",
+                        "x": 1623.0,
+                        "y": 213.1
+                    },
+                    {
+                        "id": "94548be1-118a-42a5-bda9-eb54eaf2c4b7",
+                        "x": 925.7,
+                        "y": 1035.2
+                    },
+                    {
+                        "id": "a1046af4-2d43-4cad-818b-a9ecd8b0620e",
+                        "x": 905.6,
+                        "y": 1035.0
+                    },
+                    {
+                        "id": "7990bdf5-f190-4d62-9cd7-25aad35589ac",
+                        "x": 886.0,
+                        "y": 1034.9
+                    },
+                    {
+                        "id": "7b67bcab-acd8-4b79-850d-e79c3554edc8",
+                        "x": 886.0,
+                        "y": 1020.3
+                    },
+                    {
+                        "id": "80dbef41-5139-415f-80ac-14a2ca4cda03",
+                        "x": 829.6,
+                        "y": 1020.1
+                    },
+                    {
+                        "id": "07614870-8e9e-4997-82cc-5a1271620f83",
+                        "x": 829.8,
+                        "y": 1253.2
+                    },
+                    {
+                        "id": "51e94fa4-15ab-405c-b4bf-5bf230bb9165",
+                        "x": 618.4,
+                        "y": 1020.2
+                    },
+                    {
+                        "id": "4b6ad147-9c9b-4d0a-b236-8286cce8bded",
+                        "x": 567.5,
+                        "y": 1020.2
+                    },
+                    {
+                        "id": "7904f84b-387b-4a63-a736-62980702bbbb",
+                        "x": 463.2,
+                        "y": 1020.2
+                    },
+                    {
+                        "id": "54bbf6ef-d53b-4fcc-a850-576c2de45abb",
+                        "x": 346.2,
+                        "y": 1020.4
+                    },
+                    {
+                        "id": "cb1b7b7d-f489-49f4-a16d-fd368ad2186a",
+                        "x": 345.4,
+                        "y": 1010.2
+                    },
+                    {
+                        "id": "75d96cae-6237-48e0-8825-18364e8ccbe4",
+                        "x": 379.7,
+                        "y": 1058.0
+                    },
+                    {
+                        "id": "087537ee-e7cd-4f29-8415-cffd28780706",
+                        "x": 346.2,
+                        "y": 1058.8
+                    },
+                    {
+                        "id": "3438d5e3-7313-49d1-a628-ee5f19f6133e",
+                        "x": 217.6,
+                        "y": 1057.7
+                    },
+                    {
+                        "id": "0ad03976-c7fc-4cdd-ba79-1ef520b7aabe",
+                        "x": 1339.6,
+                        "y": 957.4
+                    },
+                    {
+                        "id": "a47def96-beb5-46df-b088-051c9fb33238",
+                        "x": 1687.3,
+                        "y": 91.0
+                    },
+                    {
+                        "id": "3167265b-89d7-48b6-972a-5b5acb8a1be9",
+                        "x": 1687.3,
+                        "y": 213.8
+                    },
+                    {
+                        "id": "588e2de4-8a3d-4833-830b-62eb2eaafbe0",
+                        "x": 280.5,
+                        "y": 1058.1
+                    }
+                ],
+                "connections": [
+                    {
+                        "from_id": "a57047bd-d5cb-4a7e-bf67-ac149f6517e3",
+                        "to_id": "Floor_First_Door_Office_IDK7_2",
+                        "weight": 57.200000000000045
+                    },
+                    {
+                        "from_id": "a57047bd-d5cb-4a7e-bf67-ac149f6517e3",
+                        "to_id": "bcb4025c-95d9-469e-b454-6b565091e443",
+                        "weight": 55.799999999999955
+                    },
+                    {
+                        "from_id": "f43dc1f1-915d-407a-bcc7-41a8ad24674d",
+                        "to_id": "Floor_First_Door_Office_IDK16_1",
+                        "weight": 20.69999999999999
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_IDK7_1",
+                        "to_id": "a57047bd-d5cb-4a7e-bf67-ac149f6517e3",
+                        "weight": 59.0
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_IDK6_2",
+                        "to_id": "95d2e1de-1ea0-4011-9a4d-30113243894f",
+                        "weight": 20.100000000000023
+                    },
+                    {
+                        "from_id": "f43dc1f1-915d-407a-bcc7-41a8ad24674d",
+                        "to_id": "Floor_First_Door_Office_IDK7_1",
+                        "weight": 121.5
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_IDK7_3",
+                        "to_id": "fc415497-8973-48ae-ac00-3905c0fc5241",
+                        "weight": 20.00000000000003
+                    },
+                    {
+                        "from_id": "fc415497-8973-48ae-ac00-3905c0fc5241",
+                        "to_id": "f43dc1f1-915d-407a-bcc7-41a8ad24674d",
+                        "weight": 26.600000000000023
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_IDK6_1",
+                        "to_id": "bcfce01c-846b-4480-aa88-4c6e5687af66",
+                        "weight": 20.00000000000003
+                    },
+                    {
+                        "from_id": "ba758e40-0647-40b0-b5d4-edb44ca7dd0b",
+                        "to_id": "Floor_First_Door_Office_IDK2_1",
+                        "weight": 7.100000000000023
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_IDK4_1",
+                        "to_id": "ba758e40-0647-40b0-b5d4-edb44ca7dd0b",
+                        "weight": 20.69999999999999
+                    },
+                    {
+                        "from_id": "95d2e1de-1ea0-4011-9a4d-30113243894f",
+                        "to_id": "4903dd2e-2458-4ce4-9973-78aeb9846fa2",
+                        "weight": 73.80000000000007
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_IDK3_1",
+                        "to_id": "0ec622e4-7616-4579-acc3-4eeac630de0e",
+                        "weight": 20.00000000000003
+                    },
+                    {
+                        "from_id": "ba758e40-0647-40b0-b5d4-edb44ca7dd0b",
+                        "to_id": "fa82dd3f-ccf5-4dd1-bb09-2c1f26fe54fe",
+                        "weight": 50.099999999999966
+                    },
+                    {
+                        "from_id": "0ec622e4-7616-4579-acc3-4eeac630de0e",
+                        "to_id": "ba758e40-0647-40b0-b5d4-edb44ca7dd0b",
+                        "weight": 47.60000000000002
+                    },
+                    {
+                        "from_id": "0ec622e4-7616-4579-acc3-4eeac630de0e",
+                        "to_id": "dafd66db-365d-480b-a752-c16febe3221c",
+                        "weight": 153.5
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_102_1",
+                        "to_id": "3438d5e3-7313-49d1-a628-ee5f19f6133e",
+                        "weight": 98.89999999999986
+                    },
+                    {
+                        "from_id": "087537ee-e7cd-4f29-8415-cffd28780706",
+                        "to_id": "588e2de4-8a3d-4833-830b-62eb2eaafbe0",
+                        "weight": 65.30000000000001
+                    },
+                    {
+                        "from_id": "54bbf6ef-d53b-4fcc-a850-576c2de45abb",
+                        "to_id": "087537ee-e7cd-4f29-8415-cffd28780706",
+                        "weight": 37.999999999999886
+                    },
+                    {
+                        "from_id": "1cb2bfc7-f4d0-45e6-b3ff-d79891361b8a",
+                        "to_id": "1f942888-e77e-466e-a1d6-33254d79cfca",
+                        "weight": 60.60000000000002
+                    },
+                    {
+                        "from_id": "1f942888-e77e-466e-a1d6-33254d79cfca",
+                        "to_id": "Floor_First_Door_Office_Toilet-Shkn-M_1",
+                        "weight": 20.699999999999818
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_116_1",
+                        "to_id": "34a63853-ed8d-4760-a699-6653a71b7f85",
+                        "weight": 22.19999999999999
+                    },
+                    {
+                        "from_id": "34a63853-ed8d-4760-a699-6653a71b7f85",
+                        "to_id": "Floor_First_Door_Office_117_1",
+                        "weight": 44.90000000000009
+                    },
+                    {
+                        "from_id": "bcfce01c-846b-4480-aa88-4c6e5687af66",
+                        "to_id": "fc415497-8973-48ae-ac00-3905c0fc5241",
+                        "weight": 68.5
+                    },
+                    {
+                        "from_id": "1f942888-e77e-466e-a1d6-33254d79cfca",
+                        "to_id": "Floor_First_Door_Office_100_1",
+                        "weight": 28.599999999999994
+                    },
+                    {
+                        "from_id": "3438d5e3-7313-49d1-a628-ee5f19f6133e",
+                        "to_id": "44fe4546-fd71-4ab6-9eae-231610c56b65",
+                        "weight": 119.30000000000018
+                    },
+                    {
+                        "from_id": "1cb2bfc7-f4d0-45e6-b3ff-d79891361b8a",
+                        "to_id": "Floor_First_Door_Office_Toilet-Shkn-W_1",
+                        "weight": 20.699999999999818
+                    },
+                    {
+                        "from_id": "7b67bcab-acd8-4b79-850d-e79c3554edc8",
+                        "to_id": "7990bdf5-f190-4d62-9cd7-25aad35589ac",
+                        "weight": 14.899999999999977
+                    },
+                    {
+                        "from_id": "07614870-8e9e-4997-82cc-5a1271620f83",
+                        "to_id": "Floor_First_Door_Office_Dining_3",
+                        "weight": 24.40000000000009
+                    },
+                    {
+                        "from_id": "7b67bcab-acd8-4b79-850d-e79c3554edc8",
+                        "to_id": "80dbef41-5139-415f-80ac-14a2ca4cda03",
+                        "weight": 56.299999999999955
+                    },
+                    {
+                        "from_id": "2dfb772d-98d8-4ef1-8045-f1be0d9a98bb",
+                        "to_id": "9d9316e9-db4f-4d3a-8a95-ffb2a8b0093c",
+                        "weight": 32.19999999999982
+                    },
+                    {
+                        "from_id": "9d9316e9-db4f-4d3a-8a95-ffb2a8b0093c",
+                        "to_id": "Floor_First_Door_Stairs_Sixth_1",
+                        "weight": 62.5
+                    },
+                    {
+                        "from_id": "bceb182e-7b64-4fad-8fab-07feeef65c62",
+                        "to_id": "2dfb772d-98d8-4ef1-8045-f1be0d9a98bb",
+                        "weight": 88.59999999999997
+                    },
+                    {
+                        "from_id": "bceb182e-7b64-4fad-8fab-07feeef65c62",
+                        "to_id": "5efc4d47-2946-45e2-9135-b31e323471fa",
+                        "weight": 63.30000000000018
+                    },
+                    {
+                        "from_id": "11117893-623f-476a-88ee-105fc3fe0ba2",
+                        "to_id": "5efc4d47-2946-45e2-9135-b31e323471fa",
+                        "weight": 86.80000000000001
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_118a_2",
+                        "to_id": "3830063a-9d56-450c-b9ef-f8817c1208e6",
+                        "weight": 37.39999999999998
+                    },
+                    {
+                        "from_id": "5efc4d47-2946-45e2-9135-b31e323471fa",
+                        "to_id": "3830063a-9d56-450c-b9ef-f8817c1208e6",
+                        "weight": 115.5
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_119a_1",
+                        "to_id": "11117893-623f-476a-88ee-105fc3fe0ba2",
+                        "weight": 23.40000000000009
+                    },
+                    {
+                        "from_id": "cce21200-5a9c-4b4f-a819-e8cefba867e6",
+                        "to_id": "Floor_First_Door_Office_116a_1",
+                        "weight": 22.700000000000045
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_117a_1",
+                        "to_id": "5b8ea0d1-f47e-4fa2-ab24-751686399e15",
+                        "weight": 23.200000000000045
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_115a_1",
+                        "to_id": "a46267ba-55f7-4db5-a8cb-6983b8603ed5",
+                        "weight": 23.40000000000009
+                    },
+                    {
+                        "from_id": "810c255a-f1c0-4cca-8e43-0ea043ed5e7e",
+                        "to_id": "Floor_First_Door_Office_114_1",
+                        "weight": 22.5
+                    },
+                    {
+                        "from_id": "de6006b8-0ca6-46de-b643-814cb9e66785",
+                        "to_id": "Floor_First_Door_Office_112_1",
+                        "weight": 23.5
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_113a_1",
+                        "to_id": "b203e0a4-e97c-4f78-8031-b61dde73258f",
+                        "weight": 23.09999999999991
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_IDK47_1",
+                        "to_id": "700018c8-06bb-4671-a058-258dd5ffdd4e",
+                        "weight": 22.5
+                    },
+                    {
+                        "from_id": "700018c8-06bb-4671-a058-258dd5ffdd4e",
+                        "to_id": "Floor_First_Door_Office_110_1",
+                        "weight": 23.5
+                    },
+                    {
+                        "from_id": "bc6f7349-a068-4035-9458-0b41bcbdaa1e",
+                        "to_id": "Floor_First_Door_Office_108_1",
+                        "weight": 23.5
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_109a_1",
+                        "to_id": "bc6f7349-a068-4035-9458-0b41bcbdaa1e",
+                        "weight": 24.0
+                    },
+                    {
+                        "from_id": "787184c3-cb9d-4226-bee9-250e84038f51",
+                        "to_id": "7db9945b-d797-4e03-9542-889417eb394c",
+                        "weight": 160.0999999999999
+                    },
+                    {
+                        "from_id": "7db9945b-d797-4e03-9542-889417eb394c",
+                        "to_id": "Floor_First_Door_Stairs_Fifth_1",
+                        "weight": 96.5
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_107a_1",
+                        "to_id": "ee4bf60c-6084-44f4-86ba-035c03e08737",
+                        "weight": 24.0
+                    },
+                    {
+                        "from_id": "ee4bf60c-6084-44f4-86ba-035c03e08737",
+                        "to_id": "Floor_First_Door_Office_Toilet-W-FizHim_1",
+                        "weight": 23.5
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_105a_1",
+                        "to_id": "3e26e6bf-9e2f-44d6-9f3c-9bda03801f84",
+                        "weight": 24.5
+                    },
+                    {
+                        "from_id": "3e26e6bf-9e2f-44d6-9f3c-9bda03801f84",
+                        "to_id": "Floor_First_Door_Office_Toilet-M-FizHim_1",
+                        "weight": 23.5
+                    },
+                    {
+                        "from_id": "f65a00c6-ded2-48f7-ad32-c303ebf8be03",
+                        "to_id": "Floor_First_Door_Office_106a_1",
+                        "weight": 23.5
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_102a_1",
+                        "to_id": "bc445568-14ee-4c5a-8670-552ddb4a8b16",
+                        "weight": 23.899999999999864
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_103a_1",
+                        "to_id": "f65a00c6-ded2-48f7-ad32-c303ebf8be03",
+                        "weight": 24.0
+                    },
+                    {
+                        "from_id": "bc445568-14ee-4c5a-8670-552ddb4a8b16",
+                        "to_id": "Floor_First_Door_Office_104a_1",
+                        "weight": 23.5
+                    },
+                    {
+                        "from_id": "9951592a-fa7c-4466-80b1-c51d2c08c70d",
+                        "to_id": "Floor_First_Door_Office_101a_1",
+                        "weight": 23.5
+                    },
+                    {
+                        "from_id": "cce21200-5a9c-4b4f-a819-e8cefba867e6",
+                        "to_id": "11117893-623f-476a-88ee-105fc3fe0ba2",
+                        "weight": 50.19999999999999
+                    },
+                    {
+                        "from_id": "5b8ea0d1-f47e-4fa2-ab24-751686399e15",
+                        "to_id": "cce21200-5a9c-4b4f-a819-e8cefba867e6",
+                        "weight": 67.0
+                    },
+                    {
+                        "from_id": "810c255a-f1c0-4cca-8e43-0ea043ed5e7e",
+                        "to_id": "a46267ba-55f7-4db5-a8cb-6983b8603ed5",
+                        "weight": 47.10000000000002
+                    },
+                    {
+                        "from_id": "de6006b8-0ca6-46de-b643-814cb9e66785",
+                        "to_id": "810c255a-f1c0-4cca-8e43-0ea043ed5e7e",
+                        "weight": 60.700000000000045
+                    },
+                    {
+                        "from_id": "b203e0a4-e97c-4f78-8031-b61dde73258f",
+                        "to_id": "de6006b8-0ca6-46de-b643-814cb9e66785",
+                        "weight": 48.09999999999991
+                    },
+                    {
+                        "from_id": "700018c8-06bb-4671-a058-258dd5ffdd4e",
+                        "to_id": "b203e0a4-e97c-4f78-8031-b61dde73258f",
+                        "weight": 81.80000000000007
+                    },
+                    {
+                        "from_id": "bc6f7349-a068-4035-9458-0b41bcbdaa1e",
+                        "to_id": "700018c8-06bb-4671-a058-258dd5ffdd4e",
+                        "weight": 81.0
+                    },
+                    {
+                        "from_id": "7db9945b-d797-4e03-9542-889417eb394c",
+                        "to_id": "bc6f7349-a068-4035-9458-0b41bcbdaa1e",
+                        "weight": 79.79999999999995
+                    },
+                    {
+                        "from_id": "ee4bf60c-6084-44f4-86ba-035c03e08737",
+                        "to_id": "7db9945b-d797-4e03-9542-889417eb394c",
+                        "weight": 75.39999999999998
+                    },
+                    {
+                        "from_id": "3e26e6bf-9e2f-44d6-9f3c-9bda03801f84",
+                        "to_id": "ee4bf60c-6084-44f4-86ba-035c03e08737",
+                        "weight": 59.0
+                    },
+                    {
+                        "from_id": "f65a00c6-ded2-48f7-ad32-c303ebf8be03",
+                        "to_id": "3e26e6bf-9e2f-44d6-9f3c-9bda03801f84",
+                        "weight": 83.5
+                    },
+                    {
+                        "from_id": "bc445568-14ee-4c5a-8670-552ddb4a8b16",
+                        "to_id": "f65a00c6-ded2-48f7-ad32-c303ebf8be03",
+                        "weight": 80.29999999999995
+                    },
+                    {
+                        "from_id": "9951592a-fa7c-4466-80b1-c51d2c08c70d",
+                        "to_id": "bc445568-14ee-4c5a-8670-552ddb4a8b16",
+                        "weight": 80.60000000000014
+                    },
+                    {
+                        "from_id": "cb1b7b7d-f489-49f4-a16d-fd368ad2186a",
+                        "to_id": "Floor_First_Door_Office_105_1",
+                        "weight": 30.0
+                    },
+                    {
+                        "from_id": "75d96cae-6237-48e0-8825-18364e8ccbe4",
+                        "to_id": "087537ee-e7cd-4f29-8415-cffd28780706",
+                        "weight": 34.10000000000002
+                    },
+                    {
+                        "from_id": "7904f84b-387b-4a63-a736-62980702bbbb",
+                        "to_id": "54bbf6ef-d53b-4fcc-a850-576c2de45abb",
+                        "weight": 117.60000000000002
+                    },
+                    {
+                        "from_id": "cb1b7b7d-f489-49f4-a16d-fd368ad2186a",
+                        "to_id": "54bbf6ef-d53b-4fcc-a850-576c2de45abb",
+                        "weight": 10.199999999999932
+                    },
+                    {
+                        "from_id": "4b6ad147-9c9b-4d0a-b236-8286cce8bded",
+                        "to_id": "7904f84b-387b-4a63-a736-62980702bbbb",
+                        "weight": 104.19999999999999
+                    },
+                    {
+                        "from_id": "80dbef41-5139-415f-80ac-14a2ca4cda03",
+                        "to_id": "51e94fa4-15ab-405c-b4bf-5bf230bb9165",
+                        "weight": 211.4000000000001
+                    },
+                    {
+                        "from_id": "51e94fa4-15ab-405c-b4bf-5bf230bb9165",
+                        "to_id": "4b6ad147-9c9b-4d0a-b236-8286cce8bded",
+                        "weight": 50.799999999999955
+                    },
+                    {
+                        "from_id": "7904f84b-387b-4a63-a736-62980702bbbb",
+                        "to_id": "Floor_First_Door_Stairs_Seven_1",
+                        "weight": 29.59999999999991
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_107_1",
+                        "to_id": "4b6ad147-9c9b-4d0a-b236-8286cce8bded",
+                        "weight": 30.799999999999955
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_Dining_4",
+                        "to_id": "51e94fa4-15ab-405c-b4bf-5bf230bb9165",
+                        "weight": 30.799999999999955
+                    },
+                    {
+                        "from_id": "07614870-8e9e-4997-82cc-5a1271620f83",
+                        "to_id": "80dbef41-5139-415f-80ac-14a2ca4cda03",
+                        "weight": 233.60000000000002
+                    },
+                    {
+                        "from_id": "a1046af4-2d43-4cad-818b-a9ecd8b0620e",
+                        "to_id": "7990bdf5-f190-4d62-9cd7-25aad35589ac",
+                        "weight": 19.700000000000045
+                    },
+                    {
+                        "from_id": "94548be1-118a-42a5-bda9-eb54eaf2c4b7",
+                        "to_id": "Floor_First_Door_Office_Gym_3",
+                        "weight": 16.0
+                    },
+                    {
+                        "from_id": "7990bdf5-f190-4d62-9cd7-25aad35589ac",
+                        "to_id": "Floor_First_Door_Stairs_Fourth_1",
+                        "weight": 72.40000000000009
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_IDK113_1",
+                        "to_id": "94548be1-118a-42a5-bda9-eb54eaf2c4b7",
+                        "weight": 27.100000000000023
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_106_1",
+                        "to_id": "75d96cae-6237-48e0-8825-18364e8ccbe4",
+                        "weight": 15.599999999999909
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_IDK7_2",
+                        "to_id": "34a63853-ed8d-4760-a699-6653a71b7f85",
+                        "weight": 43.799999999999955
+                    },
+                    {
+                        "from_id": "4903dd2e-2458-4ce4-9973-78aeb9846fa2",
+                        "to_id": "bcfce01c-846b-4480-aa88-4c6e5687af66",
+                        "weight": 43.89999999999998
+                    },
+                    {
+                        "from_id": "4903dd2e-2458-4ce4-9973-78aeb9846fa2",
+                        "to_id": "Floor_First_Door_Office_IDK15_1",
+                        "weight": 20.0
+                    },
+                    {
+                        "from_id": "589227ff-c2d1-4017-9667-1b0d7c517342",
+                        "to_id": "95d2e1de-1ea0-4011-9a4d-30113243894f",
+                        "weight": 27.80000000000001
+                    },
+                    {
+                        "from_id": "589227ff-c2d1-4017-9667-1b0d7c517342",
+                        "to_id": "Floor_First_Door_Office_IDK14_1",
+                        "weight": 7.199999999999989
+                    },
+                    {
+                        "from_id": "fa82dd3f-ccf5-4dd1-bb09-2c1f26fe54fe",
+                        "to_id": "589227ff-c2d1-4017-9667-1b0d7c517342",
+                        "weight": 53.0
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_IDK5_1",
+                        "to_id": "fa82dd3f-ccf5-4dd1-bb09-2c1f26fe54fe",
+                        "weight": 20.099999999999994
+                    },
+                    {
+                        "from_id": "fa82dd3f-ccf5-4dd1-bb09-2c1f26fe54fe",
+                        "to_id": "Floor_First_Door_Office_IDK13_1",
+                        "weight": 7.199999999999989
+                    },
+                    {
+                        "from_id": "dafd66db-365d-480b-a752-c16febe3221c",
+                        "to_id": "Floor_First_Door_Office_IDK11_1",
+                        "weight": 26.69999999999999
+                    },
+                    {
+                        "from_id": "a0ef82cc-dbe4-4c98-9722-87fb04f4c5f7",
+                        "to_id": "Floor_First_Door_Office_Wardrobe_1",
+                        "weight": 57.200000000000045
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_115_1",
+                        "to_id": "a0ef82cc-dbe4-4c98-9722-87fb04f4c5f7",
+                        "weight": 59.0
+                    },
+                    {
+                        "from_id": "a0ef82cc-dbe4-4c98-9722-87fb04f4c5f7",
+                        "to_id": "39626b9e-75a0-4f79-bc61-cac29147bc27",
+                        "weight": 231.50000000000006
+                    },
+                    {
+                        "from_id": "39626b9e-75a0-4f79-bc61-cac29147bc27",
+                        "to_id": "Floor_First_Door_Office_Wardrobe_2",
+                        "weight": 57.200000000000045
+                    },
+                    {
+                        "from_id": "39626b9e-75a0-4f79-bc61-cac29147bc27",
+                        "to_id": "d65af234-2f9d-47ae-85ac-d9f34be5342c",
+                        "weight": 210.5999999999999
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Stairs_Eighth_1",
+                        "to_id": "d65af234-2f9d-47ae-85ac-d9f34be5342c",
+                        "weight": 57.200000000000045
+                    },
+                    {
+                        "from_id": "d65af234-2f9d-47ae-85ac-d9f34be5342c",
+                        "to_id": "444ca09e-9113-411e-b450-c6f511980139",
+                        "weight": 97.60000000000002
+                    },
+                    {
+                        "from_id": "94548be1-118a-42a5-bda9-eb54eaf2c4b7",
+                        "to_id": "a1046af4-2d43-4cad-818b-a9ecd8b0620e",
+                        "weight": 19.600000000000023
+                    },
+                    {
+                        "from_id": "df9cd722-16c3-4013-823c-713a096a8cac",
+                        "to_id": "444ca09e-9113-411e-b450-c6f511980139",
+                        "weight": 141.20000000000005
+                    },
+                    {
+                        "from_id": "444ca09e-9113-411e-b450-c6f511980139",
+                        "to_id": "a1046af4-2d43-4cad-818b-a9ecd8b0620e",
+                        "weight": 77.60000000000002
+                    },
+                    {
+                        "from_id": "f157a8af-2335-4206-ba3f-92fc31a94f45",
+                        "to_id": "df9cd722-16c3-4013-823c-713a096a8cac",
+                        "weight": 96.39999999999986
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_IDK59_1",
+                        "to_id": "df9cd722-16c3-4013-823c-713a096a8cac",
+                        "weight": 36.5
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_Wardrobe1_1",
+                        "to_id": "f157a8af-2335-4206-ba3f-92fc31a94f45",
+                        "weight": 36.5
+                    },
+                    {
+                        "from_id": "84c58ff5-df10-463f-958a-1c16129f3af9",
+                        "to_id": "f157a8af-2335-4206-ba3f-92fc31a94f45",
+                        "weight": 62.299999999999955
+                    },
+                    {
+                        "from_id": "84c58ff5-df10-463f-958a-1c16129f3af9",
+                        "to_id": "Floor_First_Door_Office_IDK271_1",
+                        "weight": 63.19999999999993
+                    },
+                    {
+                        "from_id": "0ad03976-c7fc-4cdd-ba79-1ef520b7aabe",
+                        "to_id": "84c58ff5-df10-463f-958a-1c16129f3af9",
+                        "weight": 134.0
+                    },
+                    {
+                        "from_id": "36988daf-0ae8-44b5-abfd-8aa9073bdc60",
+                        "to_id": "Floor_First_Door_Stairs_Tenth_1",
+                        "weight": 169.29999999999995
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Unassigned_4",
+                        "to_id": "36988daf-0ae8-44b5-abfd-8aa9073bdc60",
+                        "weight": 77.30000000000007
+                    },
+                    {
+                        "from_id": "7bec7dcb-9f00-482e-bf1b-3635b3a99a20",
+                        "to_id": "36988daf-0ae8-44b5-abfd-8aa9073bdc60",
+                        "weight": 85.40000000000009
+                    },
+                    {
+                        "from_id": "1ad66886-228c-486d-87bf-0666b44b3a43",
+                        "to_id": "Floor_First_Door_Office_IDK53_2",
+                        "weight": 52.299999999999955
+                    },
+                    {
+                        "from_id": "1ad66886-228c-486d-87bf-0666b44b3a43",
+                        "to_id": "7bec7dcb-9f00-482e-bf1b-3635b3a99a20",
+                        "weight": 21.899999999999864
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_101b_1",
+                        "to_id": "7bec7dcb-9f00-482e-bf1b-3635b3a99a20",
+                        "weight": 36.0
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_100b_1",
+                        "to_id": "787184c3-cb9d-4226-bee9-250e84038f51",
+                        "weight": 36.0
+                    },
+                    {
+                        "from_id": "787184c3-cb9d-4226-bee9-250e84038f51",
+                        "to_id": "1ad66886-228c-486d-87bf-0666b44b3a43",
+                        "weight": 66.10000000000014
+                    },
+                    {
+                        "from_id": "a46267ba-55f7-4db5-a8cb-6983b8603ed5",
+                        "to_id": "5b8ea0d1-f47e-4fa2-ab24-751686399e15",
+                        "weight": 53.00000000000006
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_IDK40_1",
+                        "to_id": "bceb182e-7b64-4fad-8fab-07feeef65c62",
+                        "weight": 64.29999999999995
+                    },
+                    {
+                        "from_id": "9d9316e9-db4f-4d3a-8a95-ffb2a8b0093c",
+                        "to_id": "Floor_First_Door_Office_IDK12313_1",
+                        "weight": 33.700000000000045
+                    },
+                    {
+                        "from_id": "bcb4025c-95d9-469e-b454-6b565091e443",
+                        "to_id": "a0ef82cc-dbe4-4c98-9722-87fb04f4c5f7",
+                        "weight": 96.70000000000005
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Stairs_Third_1",
+                        "to_id": "bcb4025c-95d9-469e-b454-6b565091e443",
+                        "weight": 56.89999999999998
+                    },
+                    {
+                        "from_id": "bcb4025c-95d9-469e-b454-6b565091e443",
+                        "to_id": "Floor_First_Door_Stairs_Second_1",
+                        "weight": 59.0
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Unassigned_3",
+                        "to_id": "0ad03976-c7fc-4cdd-ba79-1ef520b7aabe",
+                        "weight": 77.99999999999989
+                    },
+                    {
+                        "from_id": "36988daf-0ae8-44b5-abfd-8aa9073bdc60",
+                        "to_id": "0ad03976-c7fc-4cdd-ba79-1ef520b7aabe",
+                        "weight": 44.90000000000009
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Unassigned_2",
+                        "to_id": "Floor_First_Door_Unassigned_4",
+                        "weight": 50.90000000000009
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Unassigned_1",
+                        "to_id": "Floor_First_Door_Unassigned_3",
+                        "weight": 50.90000000000009
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_IDK25_2",
+                        "to_id": "Floor_First_Door_Unassigned_2",
+                        "weight": 32.299999999999955
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_IDK25_1",
+                        "to_id": "Floor_First_Door_Unassigned_1",
+                        "weight": 32.299999999999955
+                    },
+                    {
+                        "from_id": "3167265b-89d7-48b6-972a-5b5acb8a1be9",
+                        "to_id": "2dfb772d-98d8-4ef1-8045-f1be0d9a98bb",
+                        "weight": 32.200000000000045
+                    },
+                    {
+                        "from_id": "3167265b-89d7-48b6-972a-5b5acb8a1be9",
+                        "to_id": "a47def96-beb5-46df-b088-051c9fb33238",
+                        "weight": 122.80000000000001
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Office_118a_1",
+                        "to_id": "a47def96-beb5-46df-b088-051c9fb33238",
+                        "weight": 27.0
+                    },
+                    {
+                        "from_id": "588e2de4-8a3d-4833-830b-62eb2eaafbe0",
+                        "to_id": "3438d5e3-7313-49d1-a628-ee5f19f6133e",
+                        "weight": 62.89999999999998
+                    },
+                    {
+                        "from_id": "Floor_First_Door_Stairs_First_1",
+                        "to_id": "588e2de4-8a3d-4833-830b-62eb2eaafbe0",
+                        "weight": 15.600000000000136
+                    }
+                ]
+            }
+        ]
+    }
+}
